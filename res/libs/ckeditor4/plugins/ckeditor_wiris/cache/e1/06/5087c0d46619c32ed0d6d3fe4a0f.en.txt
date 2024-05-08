@@ -1,0 +1,1 @@
+{"result":{"text":"v equals c over n"},"status":"ok"}

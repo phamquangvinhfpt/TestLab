@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator fraction numerator N B S over denominator L square root of 2 end fraction over denominator square root of negative plus end root end fraction"},"status":"ok"}

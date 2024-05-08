@@ -1,0 +1,1 @@
+{"result":{"text":"T equals t over N equals 2 s rightwards double arrow omega equals fraction numerator 2 pi over denominator T end fraction equals pi space r a d divided by s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"R presuperscript 226 a rightwards arrow alpha space plus space R presuperscript 222 n"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 1 equals 1 over 600 s space v à space t subscript 2 equals 5 over 600 s"},"status":"ok"}

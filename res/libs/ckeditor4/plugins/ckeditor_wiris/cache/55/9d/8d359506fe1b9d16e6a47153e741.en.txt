@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 1 equals 2 square root of 6 c straight o straight s left parenthesis 100 pi t plus pi over 4 right parenthesis not stretchy left parenthesis A not stretchy right parenthesis"},"status":"ok"}

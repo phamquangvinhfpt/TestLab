@@ -1,0 +1,1 @@
+{"result":{"text":"m equals fraction numerator A I t over denominator 96500 n end fraction equals 0 comma 64 g"},"status":"ok"}

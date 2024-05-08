@@ -1,0 +1,1 @@
+{"result":{"text":"R equals U over I equals 30 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

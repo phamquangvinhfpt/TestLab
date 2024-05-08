@@ -1,0 +1,1 @@
+{"result":{"text":"k subscript 1 end subscript. lambda subscript 1 end subscript equals k subscript 2. lambda subscript 2 not stretchy rightwards double arrow k subscript 1 over k subscript 2 equals lambda subscript 2 over lambda subscript 1 equals fraction numerator 0 comma 75 over denominator 0 comma 5 end fraction equals 3 over 2"},"status":"ok"}

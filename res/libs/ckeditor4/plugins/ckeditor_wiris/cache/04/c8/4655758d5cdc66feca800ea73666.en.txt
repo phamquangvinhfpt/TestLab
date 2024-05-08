@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript 1 end subscript equals B subscript 2 end subscript equals 2.10 to the power of negative 7 end exponent I over x"},"status":"ok"}

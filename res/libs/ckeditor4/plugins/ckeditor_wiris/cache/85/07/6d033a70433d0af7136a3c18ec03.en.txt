@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript L end subscript minus U subscript C end subscript equals negative 12 not stretchy rightwards double arrow U subscript C end subscript equals 21 left parenthesis V right parenthesis"},"status":"ok"}

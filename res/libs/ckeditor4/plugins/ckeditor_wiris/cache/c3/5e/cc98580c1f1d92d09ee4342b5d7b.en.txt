@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis M O M to the power of divided by end exponent right parenthesis equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

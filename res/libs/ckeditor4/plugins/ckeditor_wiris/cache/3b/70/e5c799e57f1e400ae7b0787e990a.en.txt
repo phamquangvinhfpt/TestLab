@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals negative 1 over 8 plus fraction numerator straight k over denominator 2 end fraction straight k element of straight N to the power of ∗"},"status":"ok"}

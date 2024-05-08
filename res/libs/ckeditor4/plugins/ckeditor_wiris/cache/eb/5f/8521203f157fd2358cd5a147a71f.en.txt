@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 2 end subscript equals T divided by 6 equals 1 divided by 3 left parenthesis s right parenthesis"},"status":"ok"}

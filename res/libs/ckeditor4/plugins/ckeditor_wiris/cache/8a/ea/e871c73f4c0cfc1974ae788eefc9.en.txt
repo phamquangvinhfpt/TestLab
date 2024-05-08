@@ -1,0 +1,1 @@
+{"result":{"text":"4 cos invisible function application fraction numerator 2 pi over denominator 3 end fraction straight t"},"status":"ok"}

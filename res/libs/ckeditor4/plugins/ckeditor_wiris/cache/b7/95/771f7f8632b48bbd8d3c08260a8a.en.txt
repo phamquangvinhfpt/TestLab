@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 square root of 2 left parenthesis A right parenthesis equals I divided by 2"},"status":"ok"}

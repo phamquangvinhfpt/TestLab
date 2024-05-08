@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals stack straight M straight O straight B with hat on top equals stack straight M to the power of prime straight O straight B with hat on top equals fraction numerator pi over denominator 3 end fraction"},"status":"ok"}

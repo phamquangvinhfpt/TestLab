@@ -1,0 +1,1 @@
+{"result":{"text":"negative Q subscript 0 end subscript"},"status":"ok"}

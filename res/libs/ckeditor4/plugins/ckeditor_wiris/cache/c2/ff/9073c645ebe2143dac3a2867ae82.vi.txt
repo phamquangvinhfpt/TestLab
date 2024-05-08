@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta E equals left parenthesis M subscript 0 space minus M right parenthesis c squared equals negative 7 M e V space rightwards double arrow"},"status":"ok"}

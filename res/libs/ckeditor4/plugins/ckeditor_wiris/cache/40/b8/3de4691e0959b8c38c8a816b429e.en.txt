@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 16 left parenthesis R plus 2 right parenthesis to the power of 2 end exponent minus 144 equals 0 not stretchy left right double arrow 16 R to the power of 2 end exponent minus 80 R plus 64 equals 0"},"status":"ok"}

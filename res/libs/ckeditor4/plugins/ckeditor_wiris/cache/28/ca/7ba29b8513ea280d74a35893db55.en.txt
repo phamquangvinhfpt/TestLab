@@ -1,0 +1,1 @@
+{"result":{"text":"x.10 to the power of negative 0 comma 5 L subscript M end subscript end exponent equals y.10 to the power of negative 0 comma 5 L subscript B end subscript end exponent plus z.10 to the power of negative 0 comma 5 L subscript A end subscript end exponent"},"status":"ok"}

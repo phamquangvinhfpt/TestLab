@@ -1,0 +1,1 @@
+{"result":{"text":"h f plus m subscript C end subscript c to the power of 2 end exponent equals 3 m subscript H e end subscript c to the power of 2 end exponent plus 3 W not stretchy rightwards double arrow text W end text equals 6 comma 6.10 to the power of negative 13 end exponent left parenthesis J right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

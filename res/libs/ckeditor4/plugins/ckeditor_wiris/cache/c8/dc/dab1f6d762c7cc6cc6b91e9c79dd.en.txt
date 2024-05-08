@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight T over denominator 2 end fraction equals 12.10 to the power of negative 6 end exponent space of 0.278em left parenthesis straight s right parenthesis equals 12 space of 0.278em left parenthesis mu straight s right parenthesis"},"status":"ok"}

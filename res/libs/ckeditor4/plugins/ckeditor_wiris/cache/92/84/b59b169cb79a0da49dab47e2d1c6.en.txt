@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript M N end subscript equals I to the power of 2 end exponent R subscript M N end subscript equals 40 comma 5 W"},"status":"ok"}

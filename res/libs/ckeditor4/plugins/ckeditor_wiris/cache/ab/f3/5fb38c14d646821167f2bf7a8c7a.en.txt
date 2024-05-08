@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application left parenthesis phi subscript 2 end subscript minus phi subscript 1 end subscript right parenthesis equals straight capital delta phi"},"status":"ok"}

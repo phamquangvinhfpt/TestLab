@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L end subscript superscript blank to the power of prime end superscript equals square root of 3 Z subscript L end subscript equals R not stretchy rightwards double arrow"},"status":"ok"}

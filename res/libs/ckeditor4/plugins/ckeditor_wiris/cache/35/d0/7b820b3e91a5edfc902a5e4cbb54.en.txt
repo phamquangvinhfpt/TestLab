@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow omega equals 20.2 pi equals 40 pi"},"status":"ok"}

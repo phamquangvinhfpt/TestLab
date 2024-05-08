@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript 2 end subscript divided by 12 plus T subscript 2 end subscript divided by 4 equals 25.10 to the power of negative 3 end exponent divided by 3 left parenthesis not stretchy rightwards double arrow T subscript 2 end subscript equals 0 comma 025 s right parenthesis"},"status":"ok"}

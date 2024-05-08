@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow k equals negative 10....9 colon"},"status":"ok"}

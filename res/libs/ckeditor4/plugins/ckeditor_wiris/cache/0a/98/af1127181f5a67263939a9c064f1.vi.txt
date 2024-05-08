@@ -1,0 +1,1 @@
+{"result":{"text":"A space plus space B space rightwards arrow C space plus space D"},"status":"ok"}

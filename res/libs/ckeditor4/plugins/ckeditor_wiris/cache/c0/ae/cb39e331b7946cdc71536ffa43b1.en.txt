@@ -1,0 +1,1 @@
+{"result":{"text":"display style straight capital delta t space of 0.167em equals space of 0.167em 25 over 6 space of 0.167em space of 0.167em left parenthesis s right parenthesis"},"status":"ok"}

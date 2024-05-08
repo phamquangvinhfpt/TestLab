@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript O end subscript equals P subscript A end subscript equals P subscript B end subscript equals P equals 4 pi r to the power of 2 end exponent I equals 4 pi r to the power of 2 end exponent I subscript 0 end subscript.10 to the power of L end exponent"},"status":"ok"}

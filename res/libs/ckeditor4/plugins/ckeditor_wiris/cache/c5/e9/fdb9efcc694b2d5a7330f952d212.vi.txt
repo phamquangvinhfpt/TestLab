@@ -1,0 +1,1 @@
+{"result":{"text":"i equals u over Z equals fraction numerator 120 square root of 2 space end root space angle space minus 45 over denominator 50 space plus space 50 i end fraction"},"status":"ok"}

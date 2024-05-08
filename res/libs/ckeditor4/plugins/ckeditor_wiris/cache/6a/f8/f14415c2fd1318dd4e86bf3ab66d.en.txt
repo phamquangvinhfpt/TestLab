@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript straight L end subscript equals 3 straight W subscript straight c end subscript space of 0.278em stack not stretchy rightwards double arrow with blank below"},"status":"ok"}

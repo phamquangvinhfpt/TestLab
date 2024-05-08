@@ -1,0 +1,1 @@
+{"result":{"text":"10 to the power of negative 0 comma 5 L end exponent not stretchy rightwards double arrow 2.10 to the power of negative 0 comma 5 L subscript M end subscript end exponent equals 10 to the power of negative 0 comma 5 L subscript A end subscript end exponent plus 10 to the power of negative 0 comma 5 L subscript B end subscript end exponent"},"status":"ok"}

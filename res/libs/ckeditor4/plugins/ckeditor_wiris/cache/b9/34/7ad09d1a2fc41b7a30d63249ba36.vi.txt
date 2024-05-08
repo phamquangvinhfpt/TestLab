@@ -1,0 +1,1 @@
+{"result":{"text":"h equals 6 comma 625.10 to the power of negative 34 end exponent J. s comma space c equals 3.10 to the power of 8 space bevelled m over s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"F equals fraction numerator q subscript 1 end subscript q subscript 2 end subscript over denominator k r end fraction"},"status":"ok"}

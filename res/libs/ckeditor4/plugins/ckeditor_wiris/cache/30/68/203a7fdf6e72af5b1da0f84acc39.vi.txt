@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1 greater than R subscript 2"},"status":"ok"}

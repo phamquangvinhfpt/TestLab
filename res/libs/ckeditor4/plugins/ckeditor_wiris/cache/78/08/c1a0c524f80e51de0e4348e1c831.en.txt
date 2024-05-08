@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 6 comma 625.10 to the power of negative 34 end exponent 3.10 to the power of 8 over denominator 20 comma 4.10 to the power of negative 19 end exponent end fraction"},"status":"ok"}

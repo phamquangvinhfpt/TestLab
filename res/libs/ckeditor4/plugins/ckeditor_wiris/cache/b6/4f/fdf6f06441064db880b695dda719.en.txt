@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript M N end subscript equals I. R subscript M N end subscript equals 9 V not stretchy rightwards double arrow I subscript 2 end subscript equals fraction numerator U subscript M N end subscript over denominator R subscript 234 end subscript end fraction equals 9 over 6 equals 1 comma 5 A"},"status":"ok"}

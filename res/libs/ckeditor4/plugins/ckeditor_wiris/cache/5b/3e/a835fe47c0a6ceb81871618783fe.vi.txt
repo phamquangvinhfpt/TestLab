@@ -1,0 +1,1 @@
+{"result":{"text":"W equals W subscript C plus W subscript L equals 4 W subscript L\n1 half L I subscript 0 superscript 2 equals 1 half L i squared rightwards double arrow i equals 18 space m A"},"status":"ok"}

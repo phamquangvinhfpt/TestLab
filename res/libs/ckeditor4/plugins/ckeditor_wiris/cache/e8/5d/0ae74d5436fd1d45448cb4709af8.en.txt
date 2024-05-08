@@ -1,0 +1,1 @@
+{"result":{"text":"space space subscript v subscript m a x end subscript space equals omega. A equals fraction numerator 2 pi over denominator T space space space end fraction. space A equals end subscript"},"status":"ok"}

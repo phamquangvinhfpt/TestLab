@@ -1,0 +1,1 @@
+{"result":{"text":"T to the power of divided by equals 2 pi square root of L.16 C end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 space of 0.167em equals space of 0.167em 4 s i n left parenthesis pi t space of 0.167em plus space of 0.167em alpha right parenthesis space of 0.167em c m"},"status":"ok"}

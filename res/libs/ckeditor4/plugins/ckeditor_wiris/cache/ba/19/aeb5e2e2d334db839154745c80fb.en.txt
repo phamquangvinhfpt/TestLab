@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript identical to end subscript equals left square bracket fraction numerator 9 comma 7 over denominator 0 comma 4 end fraction right square bracket plus 1 plus left square bracket fraction numerator 9 comma 7 over denominator 0 comma 3 end fraction right square bracket plus 1 minus 49 equals 9 not stretchy rightwards double arrow"},"status":"ok"}

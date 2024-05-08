@@ -1,0 +1,1 @@
+{"result":{"text":"M O equals square root of M A to the power of 2 end exponent minus A O to the power of 2 end exponent end root equals 2 square root of 10 left parenthesis c m right parenthesis"},"status":"ok"}

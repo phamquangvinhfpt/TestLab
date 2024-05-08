@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 1 end subscript equals I subscript 234 end subscript equals I equals I subscript 2 end subscript plus I subscript 34 end subscript equals 3 A"},"status":"ok"}

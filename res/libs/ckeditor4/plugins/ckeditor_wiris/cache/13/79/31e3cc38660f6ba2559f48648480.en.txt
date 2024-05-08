@@ -1,0 +1,1 @@
+{"result":{"text":"f equals n p not stretchy rightwards double arrow n equals f over p equals 25"},"status":"ok"}

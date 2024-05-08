@@ -1,0 +1,1 @@
+{"result":{"text":"equals fraction numerator 0 comma 16.10 tan invisible function application 30 to the power of 0 end exponent over denominator 0 comma 05.1 end fraction equals 18 comma 475 left parenthesis A right parenthesis"},"status":"ok"}

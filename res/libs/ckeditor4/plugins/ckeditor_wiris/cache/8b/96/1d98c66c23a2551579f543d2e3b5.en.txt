@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 25.10 to the power of negative 6 space of 0.278em end exponent left parenthesis s right parenthesis equals 0 comma 25 space of 0.278em left parenthesis mu s right parenthesis"},"status":"ok"}

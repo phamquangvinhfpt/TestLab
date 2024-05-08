@@ -1,0 +1,1 @@
+{"result":{"text":"L space of 0.167em equals space of 0.167em 1 over pi space of 0.167em left parenthesis H right parenthesis"},"status":"ok"}

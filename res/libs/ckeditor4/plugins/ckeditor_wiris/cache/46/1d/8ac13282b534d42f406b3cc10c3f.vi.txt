@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals N. capital delta E equals m over M N subscript A open parentheses capital delta m. c squared close parentheses equals ?"},"status":"ok"}

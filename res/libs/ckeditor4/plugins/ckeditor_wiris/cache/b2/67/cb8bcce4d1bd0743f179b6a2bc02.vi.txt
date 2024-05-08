@@ -1,0 +1,1 @@
+{"result":{"text":"17 comma 5 to the power of 0"},"status":"ok"}

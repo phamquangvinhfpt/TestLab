@@ -1,0 +1,1 @@
+{"result":{"text":"lambda to the power of divided by end exponent equals lambda over n"},"status":"ok"}

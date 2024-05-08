@@ -1,0 +1,1 @@
+{"result":{"text":"text u =  end text text U end text subscript text 0 end text end subscript text cos end text left parenthesis text end text space of -0.167em space of -0.167em omega space of -0.167em space of -0.167em text  t +  end text space of -0.167em space of -0.167em phi space of -0.167em space of -0.167em text end text right parenthesis"},"status":"ok"}

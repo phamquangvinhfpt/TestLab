@@ -1,0 +1,1 @@
+{"result":{"text":"80 pi square root of 2 m A"},"status":"ok"}

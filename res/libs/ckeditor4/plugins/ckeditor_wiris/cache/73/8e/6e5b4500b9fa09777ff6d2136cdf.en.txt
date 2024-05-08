@@ -1,0 +1,1 @@
+{"result":{"text":"E equals fraction numerator N B S omega over denominator square root of 2 end fraction equals fraction numerator 200.0 comma 5.0 comma 025.40 pi over denominator square root of 2 end fraction almost equal to 222 left parenthesis V right parenthesis"},"status":"ok"}

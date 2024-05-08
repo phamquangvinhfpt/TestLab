@@ -1,0 +1,1 @@
+{"result":{"text":"v equals negative 10 pi c o s not stretchy left parenthesis 2 pi t plus pi not stretchy right parenthesis not stretchy left parenthesis c m divided by s not stretchy right parenthesis"},"status":"ok"}

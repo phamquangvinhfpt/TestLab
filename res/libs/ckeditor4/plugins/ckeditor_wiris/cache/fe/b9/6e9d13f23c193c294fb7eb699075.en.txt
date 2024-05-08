@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 0 equals N B S omega equals ϕ subscript 0 omega equals fraction numerator 10 over denominator pi end fraction.5 pi equals 50 V."},"status":"ok"}

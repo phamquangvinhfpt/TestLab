@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 0 equals negative 13 comma 6 e V comma n equals 1 comma 2 comma 3 comma 4..."},"status":"ok"}

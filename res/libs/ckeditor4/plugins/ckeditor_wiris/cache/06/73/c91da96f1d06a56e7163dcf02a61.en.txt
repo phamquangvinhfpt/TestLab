@@ -1,0 +1,1 @@
+{"result":{"text":"straight u equals 110 straight c straight o straight s not stretchy left parenthesis 120 pi straight t minus fraction numerator pi over denominator 3 end fraction not stretchy right parenthesis"},"status":"ok"}

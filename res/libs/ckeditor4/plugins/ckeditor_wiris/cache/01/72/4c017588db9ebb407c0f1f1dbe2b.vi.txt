@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals 6 pi.10 to the power of 8 square root of L C end root not stretchy rightwards double arrow L equals fraction numerator lambda squared over denominator 36 pi squared.10 to the power of 16 C end fraction equals 0 comma 0625 left parenthesis H right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

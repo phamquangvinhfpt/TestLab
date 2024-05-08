@@ -1,0 +1,1 @@
+{"result":{"text":"x equals A cos open parentheses omega t plus phi close parentheses"},"status":"ok"}

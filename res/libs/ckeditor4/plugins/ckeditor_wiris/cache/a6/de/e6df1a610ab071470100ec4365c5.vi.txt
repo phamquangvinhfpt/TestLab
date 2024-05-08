@@ -1,0 +1,1 @@
+{"result":{"text":"f equals n p open square brackets n open parentheses v ò n g divided by g i â y close parentheses close square brackets"},"status":"ok"}

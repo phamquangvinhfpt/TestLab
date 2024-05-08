@@ -1,0 +1,1 @@
+{"result":{"text":"negative 2 sin left parenthesis 100 pi t plus pi over 4 right parenthesis left parenthesis V right parenthesis"},"status":"ok"}

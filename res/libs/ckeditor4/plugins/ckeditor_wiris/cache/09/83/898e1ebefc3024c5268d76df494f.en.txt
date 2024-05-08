@@ -1,0 +1,1 @@
+{"result":{"text":"t equals ln 2. lambda subscript 1"},"status":"ok"}

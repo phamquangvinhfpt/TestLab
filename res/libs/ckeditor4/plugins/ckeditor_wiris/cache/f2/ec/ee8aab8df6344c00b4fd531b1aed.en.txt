@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 5 cos invisible function application left parenthesis 100 pi t plus pi divided by 3 right parenthesis left parenthesis A right parenthesis"},"status":"ok"}

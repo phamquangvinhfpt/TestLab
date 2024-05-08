@@ -1,0 +1,1 @@
+{"result":{"text":"T over 8 s"},"status":"ok"}

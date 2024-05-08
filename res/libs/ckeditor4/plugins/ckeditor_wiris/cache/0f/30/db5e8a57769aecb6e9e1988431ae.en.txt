@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Z subscript C 2 end subscript over denominator Z subscript C 1 end subscript end fraction equals fraction numerator f subscript 1 end subscript over denominator f subscript 2 end subscript end fraction equals 100"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript d m 1 end subscript equals fraction numerator P subscript 1 end subscript over denominator U subscript 1 end subscript end fraction equals 0 comma 5 A semicolon I subscript d m 2 end subscript equals fraction numerator P subscript 2 end subscript over denominator U subscript 2 end subscript end fraction equals 0 comma 75 A"},"status":"ok"}

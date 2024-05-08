@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator n p over denominator 60 end fraction open square brackets n open parentheses v ò n g divided by p h ú t close parentheses close square brackets"},"status":"ok"}

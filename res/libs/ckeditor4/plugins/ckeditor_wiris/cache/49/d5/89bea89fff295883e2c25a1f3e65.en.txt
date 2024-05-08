@@ -1,0 +1,1 @@
+{"result":{"text":"straight t subscript 2011 end subscript equals blank fraction numerator 3 over denominator 4 end fraction plus fraction numerator 2011 minus 1 over denominator 2 end fraction.3 equals 3016 straight s."},"status":"ok"}

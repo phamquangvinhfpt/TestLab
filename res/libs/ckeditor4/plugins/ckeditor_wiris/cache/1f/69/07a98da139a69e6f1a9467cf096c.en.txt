@@ -1,0 +1,1 @@
+{"result":{"text":"lambda over upsilon space of 0.278em stack not stretchy rightwards double arrow with blank below"},"status":"ok"}

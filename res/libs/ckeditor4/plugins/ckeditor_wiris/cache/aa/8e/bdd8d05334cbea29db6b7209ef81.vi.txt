@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 equals A subscript 1 cos open parentheses omega t plus phi subscript 1 close parentheses c m space v à space x subscript 2 equals A subscript 2 cos open parentheses omega t plus phi subscript 2 close parentheses c m"},"status":"ok"}

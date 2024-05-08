@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards arrow for E subscript 1 of\n"},"status":"ok"}

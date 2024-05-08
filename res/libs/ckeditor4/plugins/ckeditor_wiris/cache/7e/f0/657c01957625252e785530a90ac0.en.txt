@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript identical to end subscript"},"status":"ok"}

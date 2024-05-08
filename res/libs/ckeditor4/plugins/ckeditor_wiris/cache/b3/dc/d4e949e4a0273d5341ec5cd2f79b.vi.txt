@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator 1 over denominator square root of L C end root end fraction equals square root of omega subscript 1. omega subscript 2 end root space"},"status":"ok"}

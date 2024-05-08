@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C subscript b end subscript equals 2 Z subscript C equals 2 R rightwards double arrow Z to the power of divided by equals R square root of 5"},"status":"ok"}

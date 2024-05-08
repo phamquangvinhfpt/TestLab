@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C end subscript equals 2 Z subscript L end subscript not stretchy rightwards double arrow U subscript R L end subscript equals U straight for all R"},"status":"ok"}

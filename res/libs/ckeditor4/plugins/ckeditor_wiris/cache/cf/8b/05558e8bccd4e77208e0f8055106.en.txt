@@ -1,0 +1,1 @@
+{"result":{"text":"i equals I subscript 0 end subscript cos invisible function application left parenthesis 100 pi t plus pi over 4 right parenthesis A"},"status":"ok"}

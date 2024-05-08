@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow v squared over omega squared plus a squared over omega to the power of 4 equals A squared"},"status":"ok"}

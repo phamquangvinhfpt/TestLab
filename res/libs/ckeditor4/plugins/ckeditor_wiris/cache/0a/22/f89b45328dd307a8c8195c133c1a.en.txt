@@ -1,0 +1,1 @@
+{"result":{"text":"k fraction numerator e squared over denominator r squared end fraction equals m fraction numerator v squared over denominator r end fraction h a y"},"status":"ok"}

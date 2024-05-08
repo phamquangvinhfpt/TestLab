@@ -1,0 +1,1 @@
+{"result":{"text":"straight w equals space of 0.278em fraction numerator straight I subscript 0 over denominator straight Q subscript 0 end fraction equals space of 0.278em fraction numerator 0 comma 1 pi over denominator 2.10 to the power of negative 6 end exponent end fraction equals 5.10 to the power of negative 4 end exponent pi"},"status":"ok"}

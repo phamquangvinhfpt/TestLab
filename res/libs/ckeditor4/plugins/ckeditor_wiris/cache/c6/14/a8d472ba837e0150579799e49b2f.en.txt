@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of L C end root not stretchy rightwards double arrow T to the power of 2 end exponent equals 4 pi to the power of 2 end exponent L C"},"status":"ok"}

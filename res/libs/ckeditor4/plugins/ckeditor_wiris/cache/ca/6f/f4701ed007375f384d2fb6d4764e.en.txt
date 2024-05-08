@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator not stretchy left parenthesis 2 k plus 1 not stretchy right parenthesis lambda over denominator 2 end fraction"},"status":"ok"}

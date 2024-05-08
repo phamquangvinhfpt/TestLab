@@ -1,0 +1,1 @@
+{"result":{"text":"t equals fraction numerator ln invisible function application 2 over denominator lambda subscript 1 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals v over f equals fraction numerator left parenthesis 3.10 to the power of 8 end exponent right parenthesis over denominator left parenthesis 104.10 to the power of 6 end exponent right parenthesis end fraction almost equal to 2 comma 88"},"status":"ok"}

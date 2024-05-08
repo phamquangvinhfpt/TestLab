@@ -1,0 +1,1 @@
+{"result":{"text":"P equals R. I squared equals R. fraction numerator U squared over denominator R squared plus left parenthesis Z subscript L minus Z subscript C right parenthesis squared end fraction equals 100 W"},"status":"ok"}

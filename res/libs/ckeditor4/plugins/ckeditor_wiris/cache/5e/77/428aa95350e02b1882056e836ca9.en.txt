@@ -1,0 +1,1 @@
+{"result":{"text":"q equals Q subscript o c straight o straight s omega t"},"status":"ok"}

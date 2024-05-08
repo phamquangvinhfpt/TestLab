@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow A equals 0 comma 05 left parenthesis m right parenthesis equals 5 left parenthesis c m right parenthesis"},"status":"ok"}

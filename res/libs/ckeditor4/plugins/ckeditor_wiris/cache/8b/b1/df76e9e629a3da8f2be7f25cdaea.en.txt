@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript straight t end subscript equals fraction numerator lambda subscript 0 end subscript over denominator straight n end fraction equals fraction numerator 0 comma 4 over denominator 1 comma 54 end fraction almost equal to 0 comma 26 space of 0.278em left parenthesis mu straight m right parenthesis"},"status":"ok"}

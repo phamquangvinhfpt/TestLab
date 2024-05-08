@@ -1,0 +1,1 @@
+{"result":{"text":"t equals t subscript 0 plus increment t"},"status":"ok"}

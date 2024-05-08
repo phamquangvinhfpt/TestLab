@@ -1,0 +1,1 @@
+{"result":{"text":"t equals fraction numerator negative 1 over denominator 120 end fraction plus k over 100 s left parenthesis k equals 1 semicolon 2.. right parenthesis"},"status":"ok"}

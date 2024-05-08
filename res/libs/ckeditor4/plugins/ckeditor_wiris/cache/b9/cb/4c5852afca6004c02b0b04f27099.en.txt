@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator v squared over denominator omega squared end fraction plus fraction numerator a squared over denominator omega squared end fraction equals A squared"},"status":"ok"}

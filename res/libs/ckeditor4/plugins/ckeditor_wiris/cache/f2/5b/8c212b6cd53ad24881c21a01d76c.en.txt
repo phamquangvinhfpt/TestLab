@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript N end subscript equals E minus I. r"},"status":"ok"}

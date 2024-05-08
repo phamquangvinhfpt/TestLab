@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow f subscript 0 end subscript equals f subscript min end subscript equals fraction numerator v over denominator 4 ell end fraction equals fraction numerator 480 over 7 over denominator 4.13 over 7 end fraction equals 120 over 13 left parenthesis H z right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

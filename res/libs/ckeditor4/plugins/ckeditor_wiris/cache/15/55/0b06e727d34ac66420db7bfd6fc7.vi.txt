@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta t equals 9 over 5 s"},"status":"ok"}

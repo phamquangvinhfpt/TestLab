@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript left parenthesis t subscript 1 end subscript right parenthesis end subscript equals 4 cos invisible function application 120 pi t subscript 1 end subscript equals 2 square root of 3 not stretchy rightwards double arrow 120 pi t subscript 1 end subscript equals plus-or-minus pi over 6"},"status":"ok"}

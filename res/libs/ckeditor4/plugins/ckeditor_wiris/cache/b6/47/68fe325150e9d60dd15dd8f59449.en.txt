@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow U subscript R end subscript equals U equals 120 left parenthesis V right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

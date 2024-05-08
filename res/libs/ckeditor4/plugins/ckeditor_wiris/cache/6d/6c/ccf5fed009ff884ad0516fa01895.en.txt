@@ -1,0 +1,1 @@
+{"result":{"text":"125 straight capital omega"},"status":"ok"}

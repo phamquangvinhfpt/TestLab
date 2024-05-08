@@ -1,0 +1,1 @@
+{"result":{"text":"Q subscript 0 end subscript sin invisible function application omega t"},"status":"ok"}

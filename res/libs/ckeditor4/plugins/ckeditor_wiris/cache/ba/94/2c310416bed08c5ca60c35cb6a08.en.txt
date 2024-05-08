@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 t plus 0 comma 25 straight capital delta t"},"status":"ok"}

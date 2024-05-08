@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell W subscript C plus W subscript n equals 12 end cell row cell W subscript C equals 5 W subscript n end cell end table close rightwards double arrow W subscript n equals ?"},"status":"ok"}

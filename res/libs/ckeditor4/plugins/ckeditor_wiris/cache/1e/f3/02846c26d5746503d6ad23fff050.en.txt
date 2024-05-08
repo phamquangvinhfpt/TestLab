@@ -1,0 +1,1 @@
+{"result":{"text":"display style 2 omega"},"status":"ok"}

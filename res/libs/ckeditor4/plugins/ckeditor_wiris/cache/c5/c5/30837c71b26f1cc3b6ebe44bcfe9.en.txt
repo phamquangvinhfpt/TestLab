@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy left right double arrow 200 pi t minus pi over 3 equals pi over 2 plus k pi not stretchy left right double arrow t equals 1 over 240 plus k over 200 s left parenthesis k equals 0 semicolon 1 semicolon 2.. right parenthesis"},"status":"ok"}

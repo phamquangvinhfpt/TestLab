@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator i subscript 2 over denominator 2 i subscript 1 end fraction equals fraction numerator 0 comma 4 over denominator 2.0 comma 5 end fraction equals 2 over 5 not stretchy rightwards double arrow i subscript identical to equals 5 i subscript 2 equals 5.0 comma 5 equals 2 m m equals M N"},"status":"ok"}

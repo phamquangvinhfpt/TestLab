@@ -1,0 +1,1 @@
+{"result":{"text":"k subscript 1 lambda subscript 1 equals k subscript 2 lambda subscript 2 not stretchy rightwards double arrow k subscript 1 equals 6 over 5 k subscript 2"},"status":"ok"}

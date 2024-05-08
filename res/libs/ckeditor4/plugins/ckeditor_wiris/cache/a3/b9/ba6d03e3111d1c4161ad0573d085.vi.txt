@@ -1,0 +1,1 @@
+{"result":{"text":"L equals 10 lg left parenthesis I subscript 0 over I right parenthesis left parenthesis d B right parenthesis"},"status":"ok"}

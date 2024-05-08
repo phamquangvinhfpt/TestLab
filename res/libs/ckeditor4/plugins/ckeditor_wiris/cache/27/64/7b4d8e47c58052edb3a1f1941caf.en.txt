@@ -1,0 +1,1 @@
+{"result":{"text":"x space of 0.167em equals space of 0.167em plus-or-minus space of 0.167em fraction numerator square root of 2 over denominator 2 end fraction. A"},"status":"ok"}

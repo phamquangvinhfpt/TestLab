@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript N end subscript equals negative 10 cos invisible function application left parenthesis 200 pi t minus 35 pi right parenthesis equals 10 cos invisible function application left parenthesis 200 pi t minus 35 pi plus pi right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

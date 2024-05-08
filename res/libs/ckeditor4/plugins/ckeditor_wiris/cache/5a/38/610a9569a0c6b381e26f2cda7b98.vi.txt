@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of k over m end root equals 20 r a d divided by s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow i equals 50 comma 96 to the power of 0 end exponent"},"status":"ok"}

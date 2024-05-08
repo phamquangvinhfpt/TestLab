@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 3 minus E subscript 1 equals fraction numerator negative 13 comma 6 over denominator 9 end fraction plus fraction numerator 13 comma 6 over denominator 1 end fraction equals 8 over 9 13 comma 6 equals fraction numerator h c over denominator lambda subscript 1 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"10 pi straight c straight m divided by straight s"},"status":"ok"}

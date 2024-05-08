@@ -1,0 +1,1 @@
+{"result":{"text":"sin invisible function application fraction numerator D subscript d min end subscript plus A over denominator 2 end fraction equals n subscript d sin invisible function application A over 2"},"status":"ok"}

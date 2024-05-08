@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals T over 4 plus T over 12 equals T over 3 equals 1 s not stretchy rightwards double arrow T equals 3 s"},"status":"ok"}

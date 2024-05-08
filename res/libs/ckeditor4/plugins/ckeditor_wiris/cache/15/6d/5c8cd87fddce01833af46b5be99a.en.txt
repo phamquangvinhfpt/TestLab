@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals omega straight capital delta t equals 2 pi.4 comma 5 equals 9 pi equals left parenthesis 2.4 plus 1 right parenthesis pi"},"status":"ok"}

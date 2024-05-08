@@ -1,0 +1,1 @@
+{"result":{"text":"lambda to the power of divided by end exponent equals v over f equals lambda over n equals 0 comma 4"},"status":"ok"}

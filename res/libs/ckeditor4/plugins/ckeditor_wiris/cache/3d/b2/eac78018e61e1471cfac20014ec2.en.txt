@@ -1,0 +1,1 @@
+{"result":{"text":"W equals W subscript t subscript m a x end subscript end subscript equals m g l open parentheses 1 minus cos alpha subscript 0 close parentheses equals 1 half m g l alpha subscript 0 superscript 2"},"status":"ok"}

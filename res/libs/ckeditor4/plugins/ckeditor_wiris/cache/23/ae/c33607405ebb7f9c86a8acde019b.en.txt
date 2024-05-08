@@ -1,0 +1,1 @@
+{"result":{"text":"straight q equals fraction numerator square root of 3 end root over denominator 2 end fraction straight Q subscript 0 end subscript"},"status":"ok"}

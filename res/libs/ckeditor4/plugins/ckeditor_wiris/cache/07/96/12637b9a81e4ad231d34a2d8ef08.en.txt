@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C greater than Z subscript L"},"status":"ok"}

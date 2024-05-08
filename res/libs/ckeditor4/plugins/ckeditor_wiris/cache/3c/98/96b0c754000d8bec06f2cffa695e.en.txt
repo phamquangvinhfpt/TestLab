@@ -1,0 +1,1 @@
+{"result":{"text":"L C omega to the power of 2 end exponent equals 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript N end subscript equals R subscript P end subscript plus R subscript N B end subscript equals 5 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

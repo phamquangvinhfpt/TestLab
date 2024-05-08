@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis A B space of 0.167em n t space of 0.167em B C right parenthesis divided by divided by left parenthesis A C right parenthesis not stretchy rightwards double arrow R subscript t d end subscript equals 2 over 3 R"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 over denominator pi end fraction not stretchy left parenthesis mu F not stretchy right parenthesis"},"status":"ok"}

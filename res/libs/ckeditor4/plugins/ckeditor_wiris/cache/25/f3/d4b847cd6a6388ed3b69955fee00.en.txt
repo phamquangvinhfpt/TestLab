@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Z subscript 1 over denominator Z subscript 2 end fraction equals fraction numerator I subscript 1 over denominator square root of 3 end fraction equals fraction numerator 2 square root of 3 over denominator square root of 3 end fraction equals 2"},"status":"ok"}

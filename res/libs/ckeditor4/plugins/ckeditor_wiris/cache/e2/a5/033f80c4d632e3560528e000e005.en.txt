@@ -1,0 +1,1 @@
+{"result":{"text":"alpha subscript T end subscript equals xi over 40 equals fraction numerator 2 comma 08.10 to the power of negative 3 end exponent over denominator 40 end fraction equals 5 comma 2.10 to the power of negative 5 end exponent space of 0.167em V divided by K equals 52 mu space of 0.167em V divided by K"},"status":"ok"}

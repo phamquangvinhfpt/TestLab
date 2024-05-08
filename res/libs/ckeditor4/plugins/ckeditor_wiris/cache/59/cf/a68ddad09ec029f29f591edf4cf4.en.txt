@@ -1,0 +1,1 @@
+{"result":{"text":"stack straight M straight O straight M to the power of prime with hat on top equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

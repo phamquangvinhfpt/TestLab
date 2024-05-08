@@ -1,0 +1,1 @@
+{"result":{"text":"N equals N subscript 0 over 2 to the power of begin display style t over T end style end exponent equals ?"},"status":"ok"}

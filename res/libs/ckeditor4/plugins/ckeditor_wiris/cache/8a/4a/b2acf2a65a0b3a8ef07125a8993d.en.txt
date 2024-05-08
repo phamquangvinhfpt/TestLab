@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy left right double arrow"},"status":"ok"}

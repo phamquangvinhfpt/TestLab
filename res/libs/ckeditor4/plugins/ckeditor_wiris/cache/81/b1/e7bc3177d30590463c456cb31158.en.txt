@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 straight v subscript straight m straight a straight x end subscript over denominator pi end fraction"},"status":"ok"}

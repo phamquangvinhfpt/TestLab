@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi subscript 1 end subscript equals negative 5 pi.0 comma 1 minus arccos invisible function application 3 over 5"},"status":"ok"}

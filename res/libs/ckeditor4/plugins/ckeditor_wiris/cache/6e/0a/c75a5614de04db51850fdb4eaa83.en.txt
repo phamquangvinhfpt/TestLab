@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript max end subscript equals square root of fraction numerator 2 e U square root of 2 over denominator m end fraction end root"},"status":"ok"}

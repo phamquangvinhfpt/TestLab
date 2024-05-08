@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 2 cos 2 pi f t open parentheses m A close parentheses"},"status":"ok"}

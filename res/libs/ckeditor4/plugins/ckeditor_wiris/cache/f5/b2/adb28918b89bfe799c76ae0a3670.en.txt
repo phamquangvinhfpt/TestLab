@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals fraction numerator a. i over denominator D end fraction equals fraction numerator 10 to the power of negative 3 end exponent.1 comma 8.10 to the power of negative 3 end exponent over denominator 3 end fraction equals 0 comma 6.10 to the power of negative 6 end exponent m equals 0 comma 6 mu m"},"status":"ok"}

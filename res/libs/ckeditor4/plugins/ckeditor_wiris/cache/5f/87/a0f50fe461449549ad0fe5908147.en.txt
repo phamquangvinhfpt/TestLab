@@ -1,0 +1,1 @@
+{"result":{"text":"T over 12 equals 0 comma 05 not stretchy rightwards double arrow T equals 0 comma 6 s not stretchy rightwards double arrow omega equals fraction numerator 2 pi over denominator T end fraction equals fraction numerator 10 pi over denominator 3 end fraction left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript 2 end subscript minus phi subscript 1 end subscript equals straight capital delta phi"},"status":"ok"}

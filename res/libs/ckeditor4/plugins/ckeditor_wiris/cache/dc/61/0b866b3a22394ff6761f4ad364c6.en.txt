@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript min end subscript equals f subscript k plus 1 end subscript minus f subscript k end subscript equals 200 minus 150 equals 50 left parenthesis H z right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

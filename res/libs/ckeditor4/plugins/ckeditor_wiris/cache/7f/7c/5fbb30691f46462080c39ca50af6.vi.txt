@@ -1,0 +1,1 @@
+{"result":{"text":"8 comma 7.10 to the power of negative 16 end exponent J"},"status":"ok"}

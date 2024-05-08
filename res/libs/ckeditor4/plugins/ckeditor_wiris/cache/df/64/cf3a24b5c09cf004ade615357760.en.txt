@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 150 square root of 2 cos invisible function application 120 pi t"},"status":"ok"}

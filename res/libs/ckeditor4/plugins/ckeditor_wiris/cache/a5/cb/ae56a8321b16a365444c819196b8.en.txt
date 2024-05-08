@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 1 end subscript equals fraction numerator O M over denominator v end fraction equals fraction numerator O M over denominator lambda end fraction equals 1 left parenthesis s right parenthesis"},"status":"ok"}

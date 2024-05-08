@@ -1,0 +1,1 @@
+{"result":{"text":"3 W subscript C equals W rightwards double arrow u equals fraction numerator U subscript 0 over denominator square root of 3 end fraction rightwards double arrow t subscript m i n end subscript equals 2 T over 12 equals"},"status":"ok"}

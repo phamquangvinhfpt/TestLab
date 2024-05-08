@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript l k end subscript equals capital delta m. c squared equals ?"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"left right double arrow open curly brackets table attributes columnalign left end attributes row cell cos phi greater than 0 end cell row cell sin phi equals negative 1 half end cell end table close"},"status":"ok"}

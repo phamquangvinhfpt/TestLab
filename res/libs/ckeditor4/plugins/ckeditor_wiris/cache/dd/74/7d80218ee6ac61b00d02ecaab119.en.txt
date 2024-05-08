@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow v equals lambda f equals lambda fraction numerator omega over denominator 2 pi end fraction equals 180 left parenthesis c m divided by s right parenthesis"},"status":"ok"}

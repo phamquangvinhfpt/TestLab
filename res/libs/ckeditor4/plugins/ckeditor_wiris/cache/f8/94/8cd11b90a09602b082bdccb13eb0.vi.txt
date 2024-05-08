@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 3 equals 0 comma 56 space mu m semicolon space lambda subscript 4 equals 0 comma 2 space mu m"},"status":"ok"}

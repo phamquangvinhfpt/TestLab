@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript X comma space A subscript Y comma space A subscript Z semicolon space v ớ i space space A subscript X equals 2 A subscript Y equals 0 comma 5 A subscript Z"},"status":"ok"}

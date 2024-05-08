@@ -1,0 +1,1 @@
+{"result":{"text":"left right double arrow fraction numerator Q subscript 0 superscript 2 over denominator 2 C end fraction equals 4 over 3 fraction numerator straight q squared over denominator 2 straight C end fraction rightwards double arrow q equals fraction numerator Q subscript 0 square root of 3 over denominator 2 end fraction"},"status":"ok"}

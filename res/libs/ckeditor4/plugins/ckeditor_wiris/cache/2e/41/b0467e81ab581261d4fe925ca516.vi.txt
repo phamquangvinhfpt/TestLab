@@ -1,0 +1,1 @@
+{"result":{"text":"x equals A c o s left parenthesis omega t space plus space phi right parenthesis c m"},"status":"ok"}

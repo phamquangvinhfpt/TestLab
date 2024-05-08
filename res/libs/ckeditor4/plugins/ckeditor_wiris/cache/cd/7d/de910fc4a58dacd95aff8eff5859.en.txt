@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 end subscript equals 4 square root of 2"},"status":"ok"}

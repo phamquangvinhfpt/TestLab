@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator increment T over denominator T end fraction equals h over R 24 x 60 x 60 almost equal to 68 s"},"status":"ok"}

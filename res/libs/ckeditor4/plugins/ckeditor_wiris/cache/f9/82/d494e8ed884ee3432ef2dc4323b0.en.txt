@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals plus-or-minus 2 pi equals fraction numerator 2 pi not stretchy left parenthesis d subscript 2 minus d subscript 1 not stretchy right parenthesis over denominator lambda end fraction not stretchy rightwards double arrow d subscript 2 minus d subscript 1 equals negative lambda"},"status":"ok"}

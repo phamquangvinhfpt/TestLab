@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 equals A cos fraction numerator 3 pi over denominator 4 end fraction equals negative fraction numerator A square root of 2 over denominator 2 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator omega over denominator 2 pi end fraction equals 0 comma 5 H z"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow sin phi equals 1 half rightwards double arrow phi equals pi over 6"},"status":"ok"}

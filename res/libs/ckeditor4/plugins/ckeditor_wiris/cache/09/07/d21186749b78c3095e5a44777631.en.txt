@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript R x end subscript equals 6 V not stretchy rightwards double arrow I subscript R x end subscript equals 6 over 12 equals 0 comma 5 A"},"status":"ok"}

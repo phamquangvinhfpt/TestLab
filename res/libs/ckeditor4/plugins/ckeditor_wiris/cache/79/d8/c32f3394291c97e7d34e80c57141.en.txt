@@ -1,0 +1,1 @@
+{"result":{"text":"H equals fraction numerator A subscript c c end subscript over denominator A subscript t p end subscript end fraction equals fraction numerator P subscript c c end subscript t over denominator E Q subscript n end subscript end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"F equals k fraction numerator open vertical bar q subscript 1. q subscript 2 close vertical bar over denominator epsilon. r squared end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow O M equals 10. O N equals 100 left parenthesis m right parenthesis not stretchy rightwards double arrow M N equals O M minus O N equals 90 left parenthesis m right parenthesis"},"status":"ok"}

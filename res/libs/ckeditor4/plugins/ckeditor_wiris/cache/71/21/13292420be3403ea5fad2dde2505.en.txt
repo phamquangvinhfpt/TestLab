@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript b end subscript equals fraction numerator U subscript 1 end subscript over denominator I subscript 2 end subscript minus I subscript 1 end subscript end fraction equals fraction numerator 6 over denominator 0 comma 25 end fraction equals 24 straight capital omega"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"alpha plus beta equals 180 to the power of ring operator minus 120 to the power of ring operator equals 60 to the power of 0"},"status":"ok"}

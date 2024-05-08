@@ -1,0 +1,1 @@
+{"result":{"text":"B ell I equals mu m g not stretchy rightwards double arrow I equals fraction numerator mu m g over denominator B ell end fraction equals fraction numerator 0 comma 4.0 comma 2.10 over denominator 0 comma 05.1 comma 6 end fraction equals 10 left parenthesis A right parenthesis"},"status":"ok"}

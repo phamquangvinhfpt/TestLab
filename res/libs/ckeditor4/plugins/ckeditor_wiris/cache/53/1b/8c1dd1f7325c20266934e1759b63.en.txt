@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of negative 14 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript not stretchy left parenthesis t í m end subscript"},"status":"ok"}

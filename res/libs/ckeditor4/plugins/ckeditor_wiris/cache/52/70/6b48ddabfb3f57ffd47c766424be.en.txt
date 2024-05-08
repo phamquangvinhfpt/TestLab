@@ -1,0 +1,1 @@
+{"result":{"text":"D minus straight capital delta D"},"status":"ok"}

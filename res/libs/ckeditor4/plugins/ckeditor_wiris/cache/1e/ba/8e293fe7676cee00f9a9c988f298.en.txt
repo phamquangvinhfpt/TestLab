@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals I left parenthesis r plus R plus R subscript A end subscript right parenthesis equals 12 V"},"status":"ok"}

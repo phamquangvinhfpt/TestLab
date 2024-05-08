@@ -1,0 +1,1 @@
+{"result":{"text":"sin squared alpha subscript 0 superscript 2"},"status":"ok"}

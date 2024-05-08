@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals 5 pi t minus arccos invisible function application 3 over 5"},"status":"ok"}

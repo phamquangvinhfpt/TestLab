@@ -1,0 +1,1 @@
+{"result":{"text":"i equals u subscript 3 end subscript omega C"},"status":"ok"}

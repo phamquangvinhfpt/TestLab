@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta l subscript 0 end subscript equals fraction numerator m g over denominator k end fraction"},"status":"ok"}

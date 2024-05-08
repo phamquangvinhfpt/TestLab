@@ -1,0 +1,1 @@
+{"result":{"text":"k subscript P end subscript less or equal than k less or equal than k subscript Q end subscript"},"status":"ok"}

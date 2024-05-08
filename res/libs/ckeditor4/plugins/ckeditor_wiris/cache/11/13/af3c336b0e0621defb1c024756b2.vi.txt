@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript 1 over q subscript 1 less than F subscript 2 over q subscript 2"},"status":"ok"}

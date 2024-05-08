@@ -1,0 +1,1 @@
+{"result":{"text":"e equals 2 sin invisible function application 100 pi t not stretchy left parenthesis V not stretchy right parenthesis"},"status":"ok"}

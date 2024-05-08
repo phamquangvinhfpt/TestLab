@@ -1,0 +1,1 @@
+{"result":{"text":"U I cos invisible function application phi equals P subscript i end subscript plus I to the power of 2 end exponent r."},"status":"ok"}

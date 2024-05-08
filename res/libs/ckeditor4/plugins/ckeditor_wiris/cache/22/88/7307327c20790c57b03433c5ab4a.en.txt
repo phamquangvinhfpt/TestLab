@@ -1,0 +1,1 @@
+{"result":{"text":"cos invisible function application phi equals R over Z equals 1 equals"},"status":"ok"}

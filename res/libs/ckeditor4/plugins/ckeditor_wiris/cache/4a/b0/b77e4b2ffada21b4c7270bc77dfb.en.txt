@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals 2.10 to the power of negative 5 end exponent C"},"status":"ok"}

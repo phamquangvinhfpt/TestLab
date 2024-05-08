@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 70 comma 2 c straight o straight s left parenthesis 100 pi t minus fraction numerator 5 pi over denominator 12 end fraction right parenthesis left parenthesis V right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript min end subscript equals 0 comma 5 i subscript identical to equals 0 comma 75 blank m m"},"status":"ok"}

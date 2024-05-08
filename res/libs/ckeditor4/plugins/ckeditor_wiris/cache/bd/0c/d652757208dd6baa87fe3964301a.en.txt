@@ -1,0 +1,1 @@
+{"result":{"text":"t equals 2 T plus T over 4 plus T over 8 equals fraction numerator 19 over denominator 8 end fraction T equals 0 comma 95 not stretchy rightwards double arrow T equals 0 comma 4 space of 1 pt space of 1 pt s."},"status":"ok"}

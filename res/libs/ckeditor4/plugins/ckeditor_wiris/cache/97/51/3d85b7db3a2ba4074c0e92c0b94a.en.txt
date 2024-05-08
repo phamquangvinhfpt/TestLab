@@ -1,0 +1,1 @@
+{"result":{"text":"n equals fraction numerator lambda over denominator lambda to the power of prime end fraction not stretchy rightwards double arrow lambda equals n lambda to the power of prime equals 1 comma 5.0 comma 28 equals 0 comma 42 mu m"},"status":"ok"}

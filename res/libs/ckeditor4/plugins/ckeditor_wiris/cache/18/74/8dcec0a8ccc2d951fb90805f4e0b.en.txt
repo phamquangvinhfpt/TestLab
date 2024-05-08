@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals alpha subscript 1 end subscript plus alpha subscript 2 end subscript equals fraction numerator pi over denominator 6 end fraction plus fraction numerator pi over denominator 3 end fraction equals fraction numerator pi over denominator 2 end fraction"},"status":"ok"}

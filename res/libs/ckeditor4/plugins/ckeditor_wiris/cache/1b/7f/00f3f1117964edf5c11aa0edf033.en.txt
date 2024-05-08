@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals k subscript 2 fraction numerator lambda subscript 2 D over denominator a end fraction equals 4 m m"},"status":"ok"}

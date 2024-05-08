@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of negative fraction numerator a subscript 0 end subscript over denominator x subscript 0 end subscript end fraction end root equals pi left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript L end subscript minus U subscript C end subscript equals plus-or-minus 12"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"n lambda over 2 equals n fraction numerator v over denominator 2 f end fraction => f equals fraction numerator n v over denominator 2 l end fraction"},"status":"ok"}

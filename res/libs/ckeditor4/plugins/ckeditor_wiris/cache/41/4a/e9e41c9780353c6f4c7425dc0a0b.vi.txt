@@ -1,0 +1,1 @@
+{"result":{"text":"160 cos open square brackets s h i f t cos 80 over 160 plus pi over 3 close square brackets equals 80 square root of 3 V"},"status":"ok"}

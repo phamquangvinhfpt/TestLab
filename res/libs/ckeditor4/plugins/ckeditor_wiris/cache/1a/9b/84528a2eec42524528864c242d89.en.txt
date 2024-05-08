@@ -1,0 +1,1 @@
+{"result":{"text":"straight S subscript straight M straight i straight n end subscript equals 2 straight A left parenthesis 1 minus straight c straight o straight s fraction numerator straight capital delta phi over denominator 2 end fraction right parenthesis"},"status":"ok"}

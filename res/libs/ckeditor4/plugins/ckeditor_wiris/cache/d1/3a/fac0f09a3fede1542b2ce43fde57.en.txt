@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals 20"},"status":"ok"}

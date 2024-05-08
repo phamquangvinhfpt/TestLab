@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L end subscript equals fraction numerator U subscript 0 end subscript over denominator I subscript 0 end subscript end fraction equals 50 over 2 equals 25 straight capital omega"},"status":"ok"}

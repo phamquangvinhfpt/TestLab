@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript x equals 6 over R subscript x"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"l equals open parentheses 2 k space plus space 1 close parentheses lambda over 4"},"status":"ok"}

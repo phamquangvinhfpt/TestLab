@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript A B end subscript minus phi subscript C end subscript equals negative pi over 3 left parenthesis negative pi over 2 right parenthesis equals pi over 6 greater than 0"},"status":"ok"}

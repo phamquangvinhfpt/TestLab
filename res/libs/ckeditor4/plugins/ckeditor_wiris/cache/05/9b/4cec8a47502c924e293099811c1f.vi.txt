@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals B S cos left parenthesis omega t plus pi right parenthesis not stretchy rightwards double arrow e equals negative N straight capital phi to the power of apostrophe equals N B S omega sin left parenthesis omega t plus pi right parenthesis equals 4 comma 8 pi sin left parenthesis 4 pi t plus pi right parenthesis V."},"status":"ok"}

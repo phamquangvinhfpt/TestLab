@@ -1,0 +1,1 @@
+{"result":{"text":"e subscript t c end subscript equals L fraction numerator capital delta i over denominator capital delta t end fraction"},"status":"ok"}

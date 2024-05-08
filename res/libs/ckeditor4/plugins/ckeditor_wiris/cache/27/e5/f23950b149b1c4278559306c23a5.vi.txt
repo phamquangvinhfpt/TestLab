@@ -1,0 +1,1 @@
+{"result":{"text":"T over 2 equals 0 comma 25 s rightwards double arrow T equals 0 comma 5 s rightwards double arrow f equals 1 over T equals 2 H z"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C subscript 1 end subscript equals Z subscript L less than fraction numerator R squared plus Z subscript L superscript 2 over denominator Z subscript L end fraction not stretchy rightwards double arrow U subscript C less than U subscript C max end subscript"},"status":"ok"}

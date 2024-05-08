@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 1 divided by left parenthesis 14 pi right parenthesis left parenthesis m F right parenthesis"},"status":"ok"}

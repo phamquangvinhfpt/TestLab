@@ -1,0 +1,1 @@
+{"result":{"text":"beta to the power of plus equals e presubscript 1 presuperscript 0"},"status":"ok"}

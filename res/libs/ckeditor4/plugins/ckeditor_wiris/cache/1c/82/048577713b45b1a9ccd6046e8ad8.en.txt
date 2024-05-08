@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 to the power of 9 over denominator 16 pi end fraction space of 0.278em H z."},"status":"ok"}

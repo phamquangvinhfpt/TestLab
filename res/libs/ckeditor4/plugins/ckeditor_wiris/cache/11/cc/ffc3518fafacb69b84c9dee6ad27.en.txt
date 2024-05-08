@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 cos invisible function application not stretchy left parenthesis 100 pi t plus pi over 4 not stretchy right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript 2 equals omega x subscript 1 equals 2 pi. left parenthesis negative 4 right parenthesis equals 8 pi straight c straight m divided by straight s."},"status":"ok"}

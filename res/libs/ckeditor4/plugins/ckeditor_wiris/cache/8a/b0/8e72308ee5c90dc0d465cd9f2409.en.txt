@@ -1,0 +1,1 @@
+{"result":{"text":"n less than fraction numerator O B minus x subscript min end subscript over denominator 0 comma 5 lambda end fraction equals fraction numerator 3 minus 0 comma 375 over denominator 0 comma 5.1 comma 5 end fraction equals 3 comma 5 not stretchy rightwards double arrow n equals 3"},"status":"ok"}

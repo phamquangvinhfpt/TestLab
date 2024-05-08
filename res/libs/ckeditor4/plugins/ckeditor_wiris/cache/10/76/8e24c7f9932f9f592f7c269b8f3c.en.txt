@@ -1,0 +1,1 @@
+{"result":{"text":"e equals negative 2 sin invisible function application left parenthesis 100 pi t plus pi over 4 right parenthesis V"},"status":"ok"}

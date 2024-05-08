@@ -1,0 +1,1 @@
+{"result":{"text":"1 u equals 931 comma 5 M e V divided by c to the power of 2 end exponent."},"status":"ok"}

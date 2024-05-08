@@ -1,0 +1,1 @@
+{"result":{"text":"U to the power of 2 end exponent minus U subscript R end subscript superscript 2 end superscript equals left parenthesis U subscript L end subscript minus U subscript C end subscript right parenthesis to the power of 2 end exponent"},"status":"ok"}

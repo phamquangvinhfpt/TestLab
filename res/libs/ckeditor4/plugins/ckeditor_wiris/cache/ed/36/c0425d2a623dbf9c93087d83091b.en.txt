@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript M end subscript equals negative 14 cos invisible function application left parenthesis 40 pi t minus 7 pi right parenthesis c m"},"status":"ok"}

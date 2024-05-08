@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 to the power of negative 5 end exponent over denominator 75 end fraction straight s"},"status":"ok"}

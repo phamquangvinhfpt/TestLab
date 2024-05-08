@@ -1,0 +1,1 @@
+{"result":{"text":"square root of U subscript R L end subscript superscript 2 end superscript plus U subscript R C end subscript superscript 2 end superscript minus 2 U subscript R L end subscript U subscript R C end subscript cos invisible function application fraction numerator 5 pi over denominator 12 end fraction end root almost equal to 118 V"},"status":"ok"}

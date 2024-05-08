@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 0 comma 04 cos invisible function application 20 t"},"status":"ok"}

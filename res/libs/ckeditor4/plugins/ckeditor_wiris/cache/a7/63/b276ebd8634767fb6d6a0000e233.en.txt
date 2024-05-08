@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy left right double arrow a q subscript 1 end subscript i subscript 1 end subscript plus b q subscript 2 end subscript i subscript 2 end subscript equals 0"},"status":"ok"}

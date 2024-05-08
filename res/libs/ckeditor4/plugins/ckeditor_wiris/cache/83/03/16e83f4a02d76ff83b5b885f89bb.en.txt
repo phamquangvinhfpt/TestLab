@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis omega t plus phi right parenthesis"},"status":"ok"}

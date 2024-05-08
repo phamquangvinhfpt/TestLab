@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals square root of r squared space plus space Z subscript L superscript 2 end root equals U over I equals 30 capital omega"},"status":"ok"}

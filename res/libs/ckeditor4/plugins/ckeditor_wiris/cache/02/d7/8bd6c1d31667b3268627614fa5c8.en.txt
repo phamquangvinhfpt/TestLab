@@ -1,0 +1,1 @@
+{"result":{"text":"omega subscript 0 end subscript superscript 2 end superscript equals fraction numerator 1 over denominator L C end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals omega t plus phi equals 2 pi.0 comma 5 plus pi over 6 equals pi plus pi over 6"},"status":"ok"}

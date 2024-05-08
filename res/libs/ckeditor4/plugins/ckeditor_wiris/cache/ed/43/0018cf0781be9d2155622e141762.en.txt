@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript R end subscript equals xi I"},"status":"ok"}

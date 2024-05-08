@@ -1,0 +1,1 @@
+{"result":{"text":"O M equals space of 0.167em O N not stretchy left right arrow space of 0.167em 10 i space of 0.167em equals space of 0.167em 10 n i to the power of divided by end exponent space of 0.167em equals space of 0.167em 14 i to the power of divided by end exponent"},"status":"ok"}

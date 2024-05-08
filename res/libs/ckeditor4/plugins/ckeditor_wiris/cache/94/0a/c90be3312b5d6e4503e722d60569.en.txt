@@ -1,0 +1,1 @@
+{"result":{"text":"P equals U. I. c o s phi equals 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals 10 c m not stretchy rightwards double arrow"},"status":"ok"}

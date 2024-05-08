@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator C A minus C straight B over denominator lambda end fraction less than K less or equal than fraction numerator D A minus D B over denominator lambda end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals fraction numerator straight capital delta phi over denominator omega end fraction equals fraction numerator 1 over denominator 4 end fraction straight s"},"status":"ok"}

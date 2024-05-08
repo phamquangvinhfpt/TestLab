@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 1 half C U subscript 0 superscript 2 equals"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript N end subscript equals 7 comma 12.10 to the power of negative 5 end exponent T"},"status":"ok"}

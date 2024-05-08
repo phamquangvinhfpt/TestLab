@@ -1,0 +1,1 @@
+{"result":{"text":"omega Q subscript 0 end subscript cos invisible function application omega t equals I subscript 0 end subscript cos invisible function application omega t"},"status":"ok"}

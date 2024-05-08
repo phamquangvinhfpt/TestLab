@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator r squared plus Z subscript L superscript 2 over denominator Z subscript L end fraction equals fraction numerator Z subscript C 1 end subscript superscript 2 over denominator fraction numerator Z subscript C 1 end subscript superscript blank over denominator 2 end fraction end fraction equals 2 Z subscript C 1 end subscript"},"status":"ok"}

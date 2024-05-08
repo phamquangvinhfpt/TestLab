@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator E over denominator R plus r end fraction equals 1 left parenthesis A right parenthesis"},"status":"ok"}

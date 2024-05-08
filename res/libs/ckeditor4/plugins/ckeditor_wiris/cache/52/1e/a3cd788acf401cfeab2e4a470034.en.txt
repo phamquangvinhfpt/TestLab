@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript 0 end subscript equals negative pi square root of 2 not stretchy left parenthesis c m divided by s not stretchy right parenthesis"},"status":"ok"}

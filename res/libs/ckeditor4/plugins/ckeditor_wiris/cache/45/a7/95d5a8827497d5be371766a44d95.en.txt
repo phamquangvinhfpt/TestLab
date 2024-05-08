@@ -1,0 +1,1 @@
+{"result":{"text":"straight for all R"},"status":"ok"}

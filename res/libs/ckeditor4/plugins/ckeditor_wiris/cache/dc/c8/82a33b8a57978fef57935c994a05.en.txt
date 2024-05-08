@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow Z subscript C end subscript equals fraction numerator Z subscript C 0 end subscript over denominator 20 over 17 not stretchy rightwards double arrow I equals 20 over 17.6 comma 8 equals 8 not stretchy left parenthesis A not stretchy right parenthesis not stretchy rightwards double arrow end fraction"},"status":"ok"}

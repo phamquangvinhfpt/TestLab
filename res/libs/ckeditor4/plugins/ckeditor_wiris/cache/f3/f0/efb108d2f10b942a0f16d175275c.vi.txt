@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 0 equals square root of R subscript 1. R subscript 2 end root equals 35 comma 1 capital omega\nR subscript 0 equals open vertical bar Z subscript L minus Z subscript C close vertical bar\nU subscript 0 equals I subscript 0. R subscript 0 equals 2 square root of 2.35 comma 1 equals 70 comma 2 square root of 2 capital omega"},"status":"ok"}

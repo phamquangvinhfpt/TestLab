@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of fraction numerator k over denominator M plus m end fraction end root equals 5"},"status":"ok"}

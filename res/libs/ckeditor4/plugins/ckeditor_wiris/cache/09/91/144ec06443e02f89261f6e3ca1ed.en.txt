@@ -1,0 +1,1 @@
+{"result":{"text":"M H equals square root of A M squared minus A H squared end root equals 3 comma 32 c m"},"status":"ok"}

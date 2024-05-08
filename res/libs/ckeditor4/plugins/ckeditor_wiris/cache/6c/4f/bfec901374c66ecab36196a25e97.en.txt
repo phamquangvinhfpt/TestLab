@@ -1,0 +1,1 @@
+{"result":{"text":"x to the power of ″ space of 0.167em plus space of 0.167em omega squared x space of 0.167em equals space of 0.167em 0"},"status":"ok"}

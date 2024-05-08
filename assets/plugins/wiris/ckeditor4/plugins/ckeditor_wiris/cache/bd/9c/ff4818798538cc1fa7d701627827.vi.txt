@@ -1,0 +1,1 @@
+{"result":{"text":"psi equals negative 1 over phi"},"status":"ok"}

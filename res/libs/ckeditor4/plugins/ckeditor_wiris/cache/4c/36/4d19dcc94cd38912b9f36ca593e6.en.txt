@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow lambda equals 6 pi.10 to the power of 8 end exponent square root of L C end root equals 6 pi.10 to the power of 8 end exponent square root of 10.10 to the power of negative 6 end exponent.10 end root almost equal to 60 left parenthesis m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

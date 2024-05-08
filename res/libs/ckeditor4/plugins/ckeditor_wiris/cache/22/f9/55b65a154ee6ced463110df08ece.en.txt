@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 space of 0.167em equals space of 0.167em 4 square root of 3 cos invisible function application left parenthesis pi t right parenthesis space of 0.167em c m"},"status":"ok"}

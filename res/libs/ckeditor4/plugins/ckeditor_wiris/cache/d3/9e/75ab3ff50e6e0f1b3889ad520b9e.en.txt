@@ -1,0 +1,1 @@
+{"result":{"text":"2 pi f C U subscript N B end subscript superscript 2 end superscript"},"status":"ok"}

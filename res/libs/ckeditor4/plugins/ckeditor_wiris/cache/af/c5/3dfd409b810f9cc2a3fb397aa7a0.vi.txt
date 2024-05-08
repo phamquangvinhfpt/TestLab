@@ -1,0 +1,1 @@
+{"result":{"text":"4 comma 55.10 to the power of negative 17 end exponent K g"},"status":"ok"}

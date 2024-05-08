@@ -1,0 +1,1 @@
+{"result":{"text":"6 alpha comma 4 beta to the power of minus"},"status":"ok"}

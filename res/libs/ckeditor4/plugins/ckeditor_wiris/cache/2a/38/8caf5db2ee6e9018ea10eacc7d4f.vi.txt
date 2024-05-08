@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals space K subscript s"},"status":"ok"}

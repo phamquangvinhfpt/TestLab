@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript 0 end subscript semicolon f subscript 1 end subscript"},"status":"ok"}

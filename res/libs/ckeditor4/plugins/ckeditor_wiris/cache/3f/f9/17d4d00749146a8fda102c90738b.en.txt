@@ -1,0 +1,1 @@
+{"result":{"text":"m equals fraction numerator A. I subscript P end subscript. t over denominator 96500 n end fraction equals 1 comma 28 left parenthesis g right parenthesis"},"status":"ok"}

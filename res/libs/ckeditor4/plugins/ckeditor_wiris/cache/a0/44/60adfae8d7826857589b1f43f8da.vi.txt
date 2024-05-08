@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi I subscript 0 over Q subscript 0"},"status":"ok"}

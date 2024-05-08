@@ -1,0 +1,1 @@
+{"result":{"text":"E equals 1 half m c"},"status":"ok"}

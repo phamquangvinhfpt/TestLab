@@ -1,0 +1,1 @@
+{"result":{"text":"M subscript F end subscript equals M subscript P end subscript not stretchy rightwards double arrow m equals fraction numerator B b I square root of M K to the power of 2 end exponent minus M O to the power of 2 end exponent end root over denominator K O. g end fraction. fraction numerator 2 a plus b over denominator a plus b end fraction"},"status":"ok"}

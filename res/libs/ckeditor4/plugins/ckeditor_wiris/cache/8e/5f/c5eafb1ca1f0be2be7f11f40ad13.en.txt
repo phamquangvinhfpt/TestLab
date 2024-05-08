@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 equals 10 c o s not stretchy left parenthesis 2 pi t plus phi not stretchy right parenthesis"},"status":"ok"}

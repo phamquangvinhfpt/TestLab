@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow U subscript C end subscript equals U subscript A M end subscript equals I subscript P end subscript. R subscript P end subscript plus I subscript 1 end subscript. R subscript 1 end subscript equals 4.2 plus 1 comma 6 equals 14 V"},"status":"ok"}

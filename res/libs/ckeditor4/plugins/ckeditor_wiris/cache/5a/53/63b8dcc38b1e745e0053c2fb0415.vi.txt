@@ -1,0 +1,1 @@
+{"result":{"text":"q subscript 1 superscript divided by equals q subscript 2 superscript divided by equals fraction numerator q subscript 1 plus q subscript 2 over denominator 2 end fraction equals 5.10 to the power of negative 8 end exponent C"},"status":"ok"}

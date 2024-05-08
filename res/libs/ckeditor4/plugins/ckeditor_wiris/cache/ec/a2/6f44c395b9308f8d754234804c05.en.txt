@@ -1,0 +1,1 @@
+{"result":{"text":"L space of 0.167em equals space of 0.167em fraction numerator 0 comma 2 over denominator pi end fraction space of 0.167em left parenthesis H right parenthesis"},"status":"ok"}

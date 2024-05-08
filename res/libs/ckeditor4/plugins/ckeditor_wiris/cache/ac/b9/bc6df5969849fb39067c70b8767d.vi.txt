@@ -1,0 +1,1 @@
+{"result":{"text":"K subscript alpha equals 3 comma 3 space M e V"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of pi end exponent divided by blank subscript 2 end subscript"},"status":"ok"}

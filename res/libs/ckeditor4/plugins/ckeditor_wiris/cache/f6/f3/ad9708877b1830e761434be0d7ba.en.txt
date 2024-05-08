@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator L over denominator 2 i end fraction equals fraction numerator 13 over denominator 2 end fraction equals 6 comma 5"},"status":"ok"}

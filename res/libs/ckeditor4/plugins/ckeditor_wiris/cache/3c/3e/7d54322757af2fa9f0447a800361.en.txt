@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L end subscript equals 2 pi f L equals fraction numerator U subscript 0 end subscript over denominator I subscript 0 end subscript end fraction equals 200 over 2 not stretchy rightwards double arrow L equals 1 over pi left parenthesis H right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

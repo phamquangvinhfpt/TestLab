@@ -1,0 +1,1 @@
+{"result":{"text":"square root of U subscript R L end subscript superscript 2 end superscript minus U subscript L end subscript superscript 2 end superscript end root equals 75 V"},"status":"ok"}

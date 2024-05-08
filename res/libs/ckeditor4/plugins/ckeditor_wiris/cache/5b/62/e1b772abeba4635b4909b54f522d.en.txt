@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals fraction numerator 2 pi. d over denominator lambda end fraction equals fraction numerator 2 pi. lambda divided by 3 over denominator lambda end fraction equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

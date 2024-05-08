@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight capital delta T over denominator T end fraction equals fraction numerator straight capital delta h over denominator R end fraction"},"status":"ok"}

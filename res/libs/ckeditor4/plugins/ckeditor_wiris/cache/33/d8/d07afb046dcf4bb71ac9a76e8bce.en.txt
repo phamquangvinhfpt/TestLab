@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight capital delta phi over denominator 2 pi end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of l over g end root"},"status":"ok"}

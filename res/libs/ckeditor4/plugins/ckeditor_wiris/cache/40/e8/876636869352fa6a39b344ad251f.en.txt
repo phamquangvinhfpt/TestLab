@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 1 minus d subscript 2 equals lambda"},"status":"ok"}

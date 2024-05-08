@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 0 equals vertical line Z subscript L minus Z subscript C vertical line"},"status":"ok"}

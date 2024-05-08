@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals T over 12 plus T over 12 equals T over 6 equals 0 comma 1 not stretchy rightwards double arrow T equals 0 comma 6 left parenthesis s right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"u equals U cos invisible function application left parenthesis 120 pi t plus 0 comma 5 pi right parenthesis not stretchy left parenthesis V not stretchy right parenthesis"},"status":"ok"}

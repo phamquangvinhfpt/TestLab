@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow k equals 4 comma 5 not stretchy rightwards double arrow"},"status":"ok"}

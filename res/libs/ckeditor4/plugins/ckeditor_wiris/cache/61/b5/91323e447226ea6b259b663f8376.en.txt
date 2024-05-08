@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals square root of straight A to the power of 2 end exponent minus left parenthesis fraction numerator straight v over denominator omega end fraction right parenthesis squared end root equals plus-or-minus 4 square root of 3 end root straight c straight m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"3 not stretchy √ 3"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight W equals fraction numerator straight m omega to the power of 2 end exponent straight A to the power of 2 end exponent over denominator 2 end fraction not stretchy rightwards double arrow straight A equals 0 comma 06 straight m equals 6 straight c straight m."},"status":"ok"}

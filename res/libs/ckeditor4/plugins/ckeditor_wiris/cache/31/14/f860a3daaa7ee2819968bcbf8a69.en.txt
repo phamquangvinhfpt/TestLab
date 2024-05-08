@@ -1,0 +1,1 @@
+{"result":{"text":"k equals fraction numerator F subscript d h end subscript over denominator straight capital delta l end fraction equals fraction numerator 2 over denominator 0 comma 02 end fraction equals 100 N divided by m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator not stretchy vertical line q subscript 1 end subscript q subscript 2 end subscript not stretchy vertical line over denominator 2 not stretchy left parenthesis r over 3 not stretchy right parenthesis to the power of 2 end exponent end fraction"},"status":"ok"}

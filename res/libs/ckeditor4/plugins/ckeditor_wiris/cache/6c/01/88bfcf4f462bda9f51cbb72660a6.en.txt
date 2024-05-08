@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript T B end subscript equals fraction numerator 4 A over denominator T end fraction equals fraction numerator 2.22 comma 5 over denominator 0 comma 2 end fraction equals 225 left parenthesis c m divided by s right parenthesis equals 2 comma 25 left parenthesis m divided by s right parenthesis."},"status":"ok"}

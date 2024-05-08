@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 1 equals I subscript 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow negative 2 comma 5 less or equal than m minus 0 comma 5 less or equal than 2 comma 5 not stretchy rightwards double arrow m equals negative 2 semicolon...3 not stretchy rightwards double arrow"},"status":"ok"}

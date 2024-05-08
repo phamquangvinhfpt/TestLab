@@ -1,0 +1,1 @@
+{"result":{"text":"t equals space 2 T over 8 equals T over 4 equals 2 comma 5.10 to the power of negative 7 end exponent space s"},"status":"ok"}

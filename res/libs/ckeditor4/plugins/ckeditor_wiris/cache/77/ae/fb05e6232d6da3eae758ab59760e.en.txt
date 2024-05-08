@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 end subscript equals E. r"},"status":"ok"}

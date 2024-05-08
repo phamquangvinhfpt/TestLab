@@ -1,0 +1,1 @@
+{"result":{"text":"8 alpha comma space 6 beta to the power of minus"},"status":"ok"}

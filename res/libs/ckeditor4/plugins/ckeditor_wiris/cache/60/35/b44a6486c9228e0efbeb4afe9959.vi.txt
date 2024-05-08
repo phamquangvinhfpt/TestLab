@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1 equals 3 capital omega"},"status":"ok"}

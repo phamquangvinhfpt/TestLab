@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator h c over denominator lambda to the power of prime end fraction"},"status":"ok"}

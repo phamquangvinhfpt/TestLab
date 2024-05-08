@@ -1,0 +1,1 @@
+{"result":{"text":"beta equals 30 to the power of 0 end exponent not stretchy rightwards double arrow gamma equals 75 to the power of 0 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight s invisible function application text in end text text r end text subscript d end subscript equals fraction numerator sin invisible function application i over denominator n subscript d end subscript end fraction"},"status":"ok"}

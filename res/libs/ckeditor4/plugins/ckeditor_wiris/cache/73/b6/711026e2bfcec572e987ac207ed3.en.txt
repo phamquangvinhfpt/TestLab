@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow U subscript 0 equals I subscript 01 end subscript Z subscript R L end subscript equals 120 square root of 2 left parenthesis V right parenthesis"},"status":"ok"}

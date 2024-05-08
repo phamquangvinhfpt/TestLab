@@ -1,0 +1,1 @@
+{"result":{"text":"100 m divided by s semicolon space space 200 m divided by s squared"},"status":"ok"}

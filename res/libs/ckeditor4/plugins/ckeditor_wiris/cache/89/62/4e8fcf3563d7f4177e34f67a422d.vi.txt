@@ -1,0 +1,1 @@
+{"result":{"text":"7 over 4 1 half L i squared equals 1 half L I subscript 0 superscript 2 rightwards double arrow i"},"status":"ok"}

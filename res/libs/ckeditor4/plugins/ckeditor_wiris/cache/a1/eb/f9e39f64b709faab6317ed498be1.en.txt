@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 1 A equals I subscript 0 over 2"},"status":"ok"}

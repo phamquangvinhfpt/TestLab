@@ -1,0 +1,1 @@
+{"result":{"text":"square root of A subscript blank superscript 2 plus A subscript blank superscript 2 end root equals A square root of 2"},"status":"ok"}

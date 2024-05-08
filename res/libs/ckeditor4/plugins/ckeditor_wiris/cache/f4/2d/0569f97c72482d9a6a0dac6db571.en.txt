@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 2 cos invisible function application not stretchy left parenthesis 100 pi t plus fraction numerator pi over denominator 12 end fraction not stretchy right parenthesis"},"status":"ok"}

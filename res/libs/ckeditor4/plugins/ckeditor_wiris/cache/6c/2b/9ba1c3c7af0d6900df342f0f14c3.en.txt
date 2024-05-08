@@ -1,0 +1,1 @@
+{"result":{"text":"omega to the power of prime equals 2 omega equals"},"status":"ok"}

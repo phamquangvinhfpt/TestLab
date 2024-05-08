@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript d end subscript equals I subscript R end subscript equals I equals fraction numerator E over denominator R subscript d end subscript plus R end fraction equals 0 comma 5 not stretchy rightwards double arrow R equals 12 straight capital omega"},"status":"ok"}

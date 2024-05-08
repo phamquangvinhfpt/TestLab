@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 2000 r a d divided by s"},"status":"ok"}

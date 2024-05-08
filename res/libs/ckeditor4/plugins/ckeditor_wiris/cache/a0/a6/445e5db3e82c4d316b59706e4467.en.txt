@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator A B over denominator lambda end fraction less than k less than fraction numerator A B over denominator lambda end fraction"},"status":"ok"}

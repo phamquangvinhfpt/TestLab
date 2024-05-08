@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 1 end subscript equals r subscript 1 end subscript equals 90 to the power of 0 end exponent not stretchy rightwards double arrow r subscript 2 end subscript equals 45 to the power of 0 end exponent not stretchy rightwards double arrow i subscript 2 end subscript equals 90 to the power of 0 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"M N equals 2 lambda equals 2. v over f equals 2.40 over 10 equals 8 left parenthesis c m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

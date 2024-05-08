@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript max end subscript equals fraction numerator E to the power of 2 end exponent over denominator 4 r end fraction equals fraction numerator 6 to the power of 2 end exponent over denominator 4 end fraction equals 9 W"},"status":"ok"}

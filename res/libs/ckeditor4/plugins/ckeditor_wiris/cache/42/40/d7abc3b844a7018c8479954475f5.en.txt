@@ -1,0 +1,1 @@
+{"result":{"text":"k equals fraction numerator 1 over denominator k subscript 1 end fraction plus fraction numerator 1 over denominator k subscript 2 end fraction"},"status":"ok"}

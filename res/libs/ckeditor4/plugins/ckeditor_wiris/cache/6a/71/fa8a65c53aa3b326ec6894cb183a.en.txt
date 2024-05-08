@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C end subscript equals fraction numerator 1 over denominator omega C end fraction equals fraction numerator 1 over denominator fraction numerator 10 to the power of negative 3 end exponent over denominator 2 pi end fraction.100 pi end fraction equals 20 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

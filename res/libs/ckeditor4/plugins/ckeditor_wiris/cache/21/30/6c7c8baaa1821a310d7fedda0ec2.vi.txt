@@ -1,0 +1,1 @@
+{"result":{"text":"g equals fraction numerator 4 pi l over denominator T squared end fraction"},"status":"ok"}

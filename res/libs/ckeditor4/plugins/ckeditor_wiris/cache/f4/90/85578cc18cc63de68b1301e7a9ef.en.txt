@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1 end subscript equals R subscript 2 end subscript equals R subscript 3 end subscript equals R subscript 4 end subscript equals R"},"status":"ok"}

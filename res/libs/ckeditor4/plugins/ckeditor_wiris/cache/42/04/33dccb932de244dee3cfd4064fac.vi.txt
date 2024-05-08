@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript m a x space equals omega. A end subscript"},"status":"ok"}

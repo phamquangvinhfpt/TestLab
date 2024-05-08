@@ -1,0 +1,1 @@
+{"result":{"text":"tan phi equals fraction numerator Z subscript L minus Z subscript C over denominator R end fraction less than 0 not stretchy rightwards double arrow Z subscript L less than Z subscript C"},"status":"ok"}

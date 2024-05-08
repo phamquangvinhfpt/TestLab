@@ -1,0 +1,1 @@
+{"result":{"text":"2 U to the power of 2 end exponent divided by R"},"status":"ok"}

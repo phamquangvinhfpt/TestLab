@@ -1,0 +1,1 @@
+{"result":{"text":"v equals omega A"},"status":"ok"}

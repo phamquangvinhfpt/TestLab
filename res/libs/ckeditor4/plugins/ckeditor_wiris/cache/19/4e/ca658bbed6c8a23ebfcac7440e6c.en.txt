@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals straight T over 4 rightwards double arrow straight T equals 4 straight t equals 4.0 comma 25.10 to the power of negative 4 end exponent equals 10 to the power of negative 4 end exponent straight s"},"status":"ok"}

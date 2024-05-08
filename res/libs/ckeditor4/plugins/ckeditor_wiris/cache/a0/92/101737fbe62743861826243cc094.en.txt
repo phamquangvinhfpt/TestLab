@@ -1,0 +1,1 @@
+{"result":{"text":"A space of 0.167em equals space of 0.167em square root of A subscript 1 superscript 2 space of 0.167em plus space of 0.167em A subscript 2 superscript 2 end root space of 0.167em equals space of 0.167em 2 comma 6 space of 0.167em c m"},"status":"ok"}

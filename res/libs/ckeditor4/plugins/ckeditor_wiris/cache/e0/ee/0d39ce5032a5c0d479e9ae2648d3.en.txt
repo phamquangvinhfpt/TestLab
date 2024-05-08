@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta U equals 3 comma 3 k V"},"status":"ok"}

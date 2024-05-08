@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow lambda subscript 2 end subscript equals 0 comma 4 not stretchy rightwards double arrow k subscript 2 min end subscript equals 3 not stretchy rightwards double arrow"},"status":"ok"}

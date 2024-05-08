@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals 5 straight c straight o straight s left parenthesis 10 pi straight t minus fraction numerator pi over denominator 6 end fraction right parenthesis straight c straight m"},"status":"ok"}

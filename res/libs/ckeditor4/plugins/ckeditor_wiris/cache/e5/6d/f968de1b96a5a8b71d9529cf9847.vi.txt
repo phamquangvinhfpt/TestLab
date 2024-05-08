@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses pi squared equals 10 close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals negative fraction numerator 5 pi over denominator 6 end fraction left parenthesis r a d right parenthesis"},"status":"ok"}

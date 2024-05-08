@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator 4 pi over denominator 3 end fraction equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

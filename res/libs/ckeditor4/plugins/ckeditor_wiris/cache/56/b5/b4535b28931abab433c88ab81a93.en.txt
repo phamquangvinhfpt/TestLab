@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 4 straight capital omega"},"status":"ok"}

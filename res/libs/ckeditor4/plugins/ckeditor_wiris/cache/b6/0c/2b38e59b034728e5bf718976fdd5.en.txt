@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript t end subscript equals fraction numerator M P over denominator i end fraction equals fraction numerator 7 comma 2 over denominator 0 comma 6 end fraction equals 12 not stretchy rightwards double arrow"},"status":"ok"}

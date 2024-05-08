@@ -1,0 +1,1 @@
+{"result":{"text":"ϕ subscript u"},"status":"ok"}

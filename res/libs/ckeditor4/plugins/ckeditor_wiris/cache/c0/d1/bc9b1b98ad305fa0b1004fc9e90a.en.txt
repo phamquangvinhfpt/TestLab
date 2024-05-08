@@ -1,0 +1,1 @@
+{"result":{"text":"M subscript P end subscript equals 2 P subscript 1 end subscript. J E plus P subscript 2 end subscript K O equals K O left parenthesis P subscript 1 end subscript plus P subscript 2 end subscript right parenthesis equals K O fraction numerator a plus b over denominator 2 a plus b end fraction. m g"},"status":"ok"}

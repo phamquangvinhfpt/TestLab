@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 0 equals fraction numerator alpha subscript 0 omega ell squared B over denominator 2 end fraction equals fraction numerator 0 comma 2. square root of fraction numerator 10 over denominator 1 end fraction end root.1 squared.1 over denominator 2 end fraction equals 0 comma 32 V"},"status":"ok"}

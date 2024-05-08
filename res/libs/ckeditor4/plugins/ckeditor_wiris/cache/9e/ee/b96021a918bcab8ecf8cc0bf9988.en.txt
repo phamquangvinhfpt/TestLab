@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator d. d to the power of divided by end exponent over denominator d plus d to the power of divided by end exponent end fraction equals ?"},"status":"ok"}

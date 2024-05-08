@@ -1,0 +1,1 @@
+{"result":{"text":"i equals fraction numerator M N over denominator 10 end fraction equals 2 m m"},"status":"ok"}

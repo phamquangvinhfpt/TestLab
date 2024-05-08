@@ -1,0 +1,1 @@
+{"result":{"text":"I equals I subscript d m end subscript plus I subscript R end subscript equals 1 comma 5 plus 0 comma 5 equals 2 A"},"status":"ok"}

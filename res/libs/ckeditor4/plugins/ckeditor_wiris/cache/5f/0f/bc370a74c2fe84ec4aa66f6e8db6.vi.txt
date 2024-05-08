@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator 1 over denominator 2 pi square root of L C end root end fraction equals 10 to the power of 9.16 pi space H z"},"status":"ok"}

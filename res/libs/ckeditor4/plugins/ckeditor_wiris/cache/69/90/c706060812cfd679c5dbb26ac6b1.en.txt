@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 0 end subscript minus fraction numerator v subscript 0 end subscript over denominator omega end fraction i"},"status":"ok"}

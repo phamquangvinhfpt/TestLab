@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator lambda left parenthesis D plus 3 straight capital delta D right parenthesis over denominator a end fraction equals fraction numerator lambda left parenthesis D plus D right parenthesis over denominator a end fraction equals 2 m m"},"status":"ok"}

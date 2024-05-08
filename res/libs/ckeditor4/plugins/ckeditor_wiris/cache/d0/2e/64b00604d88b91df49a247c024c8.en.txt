@@ -1,0 +1,1 @@
+{"result":{"text":"A equals square root of v squared plus a squared end root"},"status":"ok"}

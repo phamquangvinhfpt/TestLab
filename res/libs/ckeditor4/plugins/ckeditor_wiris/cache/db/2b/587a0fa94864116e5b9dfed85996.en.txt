@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript identical to end subscript equals left square bracket fraction numerator A B over denominator i end fraction right square bracket plus 1 equals left square bracket fraction numerator 9 comma 7 over denominator 1 comma 2 end fraction right square bracket plus 1 equals 9"},"status":"ok"}

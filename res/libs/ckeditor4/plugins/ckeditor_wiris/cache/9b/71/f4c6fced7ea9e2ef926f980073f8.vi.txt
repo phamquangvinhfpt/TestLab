@@ -1,0 +1,1 @@
+{"result":{"text":"T equals T subscript 0 space left right double arrow S over v equals 0 comma 6 rightwards double arrow v equals 5 m divided by s"},"status":"ok"}

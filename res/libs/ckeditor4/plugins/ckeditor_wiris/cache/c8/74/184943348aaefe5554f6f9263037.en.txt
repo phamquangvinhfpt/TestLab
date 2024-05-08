@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 end subscript equals omega Q subscript 0 end subscript equals omega C U subscript 0 end subscript not stretchy rightwards double arrow omega equals I subscript 0 end subscript divided by left parenthesis C U subscript 0 end subscript right parenthesis"},"status":"ok"}

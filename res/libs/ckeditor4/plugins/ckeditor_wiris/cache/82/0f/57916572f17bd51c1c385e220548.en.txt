@@ -1,0 +1,1 @@
+{"result":{"text":"I equals U over Z equals fraction numerator U over denominator square root of R squared plus not stretchy left parenthesis Z subscript L minus Z subscript C not stretchy right parenthesis squared end root end fraction equals 2 A"},"status":"ok"}

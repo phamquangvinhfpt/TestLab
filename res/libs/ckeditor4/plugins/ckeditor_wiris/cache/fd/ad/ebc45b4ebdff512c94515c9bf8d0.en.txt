@@ -1,0 +1,1 @@
+{"result":{"text":"sin invisible function application phi greater or equal than sini subscript g h end subscript equals fraction numerator n subscript n h o end subscript over denominator n subscript l o n end subscript end fraction equals 1 over n"},"status":"ok"}

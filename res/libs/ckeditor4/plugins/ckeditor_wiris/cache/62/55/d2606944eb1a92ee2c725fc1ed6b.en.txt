@@ -1,0 +1,1 @@
+{"result":{"text":"P R to the power of 2 end exponent minus left parenthesis xi to the power of 2 end exponent minus 2 r P right parenthesis R plus Pr to the power of 2 end exponent equals 0 not stretchy rightwards double arrow"},"status":"ok"}

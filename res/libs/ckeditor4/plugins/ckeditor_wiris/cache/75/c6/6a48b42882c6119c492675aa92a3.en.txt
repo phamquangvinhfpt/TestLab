@@ -1,0 +1,1 @@
+{"result":{"text":"i to the power of divided by end exponent equals fraction numerator lambda left parenthesis D plus 0 comma 5 right parenthesis over denominator a end fraction equals 1 comma 2 m m"},"status":"ok"}

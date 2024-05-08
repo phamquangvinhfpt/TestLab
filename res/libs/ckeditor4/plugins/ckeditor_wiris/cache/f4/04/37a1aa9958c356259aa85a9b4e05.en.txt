@@ -1,0 +1,1 @@
+{"result":{"text":"5 lambda subscript 1 equals k lambda subscript 2 space rightwards double arrow lambda subscript 2 equals fraction numerator 5. lambda subscript 1 over denominator k end fraction"},"status":"ok"}

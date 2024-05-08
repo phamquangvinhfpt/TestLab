@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 2 not stretchy left parenthesis omega squared s squared plus v squared not stretchy right parenthesis divided by m"},"status":"ok"}

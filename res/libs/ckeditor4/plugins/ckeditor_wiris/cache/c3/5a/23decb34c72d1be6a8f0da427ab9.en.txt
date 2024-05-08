@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator h c over denominator lambda subscript 2 end fraction minus A equals 9 comma 825.10 to the power of negative 19 end exponent J"},"status":"ok"}

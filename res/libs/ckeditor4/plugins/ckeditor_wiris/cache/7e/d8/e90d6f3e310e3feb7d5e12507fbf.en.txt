@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 2 equals t subscript 1 plus 4 comma 5 s"},"status":"ok"}

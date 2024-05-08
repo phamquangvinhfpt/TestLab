@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of fraction numerator 2 over denominator left parenthesis L subscript 1 end subscript plus L subscript 2 end subscript right parenthesis C end fraction end root"},"status":"ok"}

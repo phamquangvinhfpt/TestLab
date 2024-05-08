@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis beta equals 90 to the power of 0 end exponent minus alpha equals 30 to the power of 0 end exponent right parenthesis"},"status":"ok"}

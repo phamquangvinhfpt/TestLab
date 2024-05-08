@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript R superscript 2 equals U squared minus U subscript L superscript 2"},"status":"ok"}

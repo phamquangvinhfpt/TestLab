@@ -1,0 +1,1 @@
+{"result":{"text":"M equals 2 open square brackets fraction numerator S subscript 1 S subscript 2 over denominator lambda end fraction close square brackets plus 2"},"status":"ok"}

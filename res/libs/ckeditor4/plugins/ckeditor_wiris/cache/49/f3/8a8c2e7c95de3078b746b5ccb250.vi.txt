@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left columnspacing 1.4ex end attributes row cell x subscript 0 equals A c cos phi greater than 0 end cell blank row cell v equals negative omega A sin phi equals fraction numerator negative omega A over denominator 2 end fraction end cell blank end table close"},"status":"ok"}

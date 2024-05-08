@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator I subscript A over denominator I subscript B end fraction equals left parenthesis fraction numerator r subscript 2 over denominator r subscript 1 end fraction right parenthesis squared not stretchy rightwards double arrow fraction numerator r subscript 2 over denominator r subscript 1 end fraction equals 2"},"status":"ok"}

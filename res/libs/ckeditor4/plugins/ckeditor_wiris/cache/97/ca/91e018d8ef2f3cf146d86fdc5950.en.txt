@@ -1,0 +1,1 @@
+{"result":{"text":"x equals fraction numerator not stretchy left parenthesis M plus m not stretchy right parenthesis g over denominator k end fraction minus fraction numerator M g over denominator k end fraction equals fraction numerator m g over denominator k end fraction equals 0 comma 1 m equals 10 c m"},"status":"ok"}

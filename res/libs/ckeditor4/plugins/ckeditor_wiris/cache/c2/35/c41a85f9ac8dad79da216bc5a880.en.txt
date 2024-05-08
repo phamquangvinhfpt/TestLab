@@ -1,0 +1,1 @@
+{"result":{"text":"omega space of 0.167em equals space of 0.167em fraction numerator 2 pi over denominator T end fraction space of 0.167em equals space of 0.167em pi space of 0.167em left parenthesis fraction numerator r a d over denominator s end fraction right parenthesis"},"status":"ok"}

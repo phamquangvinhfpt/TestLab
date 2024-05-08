@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript L equals 0 comma 55 space mu m"},"status":"ok"}

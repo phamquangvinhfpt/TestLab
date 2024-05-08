@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator left parenthesis k plus 1 half right parenthesis over denominator 0 comma 14 end fraction"},"status":"ok"}

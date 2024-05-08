@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator 1 over denominator 2 pi square root of L C end root end fraction not stretchy rightwards double arrow f to the power of negative 2 end exponent equals 4 pi to the power of 2 end exponent L C"},"status":"ok"}

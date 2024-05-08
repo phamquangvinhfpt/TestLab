@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript m i n end subscript left right double arrow increment phi equals open parentheses 2 k plus 1 close parentheses pi"},"status":"ok"}

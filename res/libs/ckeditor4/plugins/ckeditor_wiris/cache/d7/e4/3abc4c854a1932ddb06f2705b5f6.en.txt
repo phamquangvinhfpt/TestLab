@@ -1,0 +1,1 @@
+{"result":{"text":"A equals vertical line A subscript 1 minus A subscript 2 vertical line"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C space of 0.167em equals space of 0.167em fraction numerator 10 to the power of negative 4 end exponent over denominator pi end fraction space of 0.167em left parenthesis F right parenthesis"},"status":"ok"}

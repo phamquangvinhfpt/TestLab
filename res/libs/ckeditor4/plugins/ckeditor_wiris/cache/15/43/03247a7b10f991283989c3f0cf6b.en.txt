@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals fraction numerator straight v over denominator straight f end fraction"},"status":"ok"}

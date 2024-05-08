@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals omega subscript R end subscript"},"status":"ok"}

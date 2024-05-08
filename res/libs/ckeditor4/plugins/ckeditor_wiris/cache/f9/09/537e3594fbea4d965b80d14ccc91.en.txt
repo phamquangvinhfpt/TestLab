@@ -1,0 +1,1 @@
+{"result":{"text":"space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em space of 0.278em equals 3 comma 6.10 to the power of negative 5 end exponent minus space of 0.278em 1 half"},"status":"ok"}

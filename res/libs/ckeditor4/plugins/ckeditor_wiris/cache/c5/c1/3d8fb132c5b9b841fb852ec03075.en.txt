@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M equals k i subscript 1 equals 0 comma 6 k i subscript 2"},"status":"ok"}

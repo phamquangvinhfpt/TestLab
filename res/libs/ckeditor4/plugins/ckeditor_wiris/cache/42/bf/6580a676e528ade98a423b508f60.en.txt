@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 E subscript 0 end subscript square root of 2"},"status":"ok"}

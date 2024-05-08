@@ -1,0 +1,1 @@
+{"result":{"text":"N equals N subscript 1 plus N subscript 2 plus N subscript 3 minus N subscript 12 minus N subscript 23 minus N subscript 13"},"status":"ok"}

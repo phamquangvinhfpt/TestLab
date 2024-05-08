@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 1 over omega to the power of apostrophe 2 end exponent equals fraction numerator 1 over denominator 4 omega squared end fraction not stretchy rightwards double arrow omega to the power of apostrophe equals 2 omega not stretchy rightwards double arrow Đ Á P space Á N"},"status":"ok"}

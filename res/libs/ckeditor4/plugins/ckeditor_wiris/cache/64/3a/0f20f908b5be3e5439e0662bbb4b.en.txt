@@ -1,0 +1,1 @@
+{"result":{"text":"u equals cos invisible function application left parenthesis 20 t minus 4 x right parenthesis"},"status":"ok"}

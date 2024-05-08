@@ -1,0 +1,1 @@
+{"result":{"text":"N equals N subscript 0 end subscript e to the power of negative lambda t end exponent almost equal to 0 comma 05 equals 5"},"status":"ok"}

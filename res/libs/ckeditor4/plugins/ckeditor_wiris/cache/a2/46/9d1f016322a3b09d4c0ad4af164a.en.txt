@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow x equals 3 comma 6. n left parenthesis m m right parenthesis stack blank with rightwards arrow below and negative 13 less or equal than x less or equal than 13 blank on top minus 3 comma 6 less or equal than n less or equal than 3 comma 6 not stretchy rightwards double arrow n not stretchy =⇒"},"status":"ok"}

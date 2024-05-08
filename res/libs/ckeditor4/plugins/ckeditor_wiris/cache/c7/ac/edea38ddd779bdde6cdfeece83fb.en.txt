@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript M N end subscript equals fraction numerator A subscript M N end subscript over denominator q end fraction equals fraction numerator q E d over denominator q end fraction not stretchy rightwards double arrow E equals U over d"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis F equals k vertical line x vertical line right parenthesis"},"status":"ok"}

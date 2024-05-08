@@ -1,0 +1,1 @@
+{"result":{"text":"R space of 0.167em equals space of 0.167em 300 straight capital omega"},"status":"ok"}

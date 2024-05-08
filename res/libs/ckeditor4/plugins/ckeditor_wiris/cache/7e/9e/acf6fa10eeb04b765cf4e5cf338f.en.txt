@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator E over denominator R subscript N end subscript plus r end fraction not stretchy left right double arrow 2 equals fraction numerator 9 over denominator R subscript N end subscript plus 0 comma 5 end fraction not stretchy rightwards double arrow R subscript N end subscript equals 4 straight capital omega"},"status":"ok"}

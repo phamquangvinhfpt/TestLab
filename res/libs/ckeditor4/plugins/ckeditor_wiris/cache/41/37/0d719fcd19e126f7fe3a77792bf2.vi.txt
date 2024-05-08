@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0 comma 5 over denominator square root of 2 end fraction A"},"status":"ok"}

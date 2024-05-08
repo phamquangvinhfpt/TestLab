@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 1 equals 450 space n m"},"status":"ok"}

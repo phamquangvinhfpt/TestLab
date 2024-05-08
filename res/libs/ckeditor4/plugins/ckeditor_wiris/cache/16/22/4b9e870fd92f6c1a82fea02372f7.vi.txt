@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 0 minus 14 comma 5 less than 2 k less than 0 not stretchy rightwards double arrow negative 7 comma 25 less than k less than 0 not stretchy rightwards double arrow k equals negative 7 comma... comma space minus 1 not stretchy rightwards double arrow C Ó space 7 space G I Á space T R Ị"},"status":"ok"}

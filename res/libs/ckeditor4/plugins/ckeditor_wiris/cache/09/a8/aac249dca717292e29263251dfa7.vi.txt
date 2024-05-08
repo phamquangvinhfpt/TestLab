@@ -1,0 +1,1 @@
+{"result":{"text":"alpha comma space beta to the power of plus comma space beta to the power of minus space v à space gamma"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"xi subscript alpha equals alpha open parentheses T subscript 2 minus T subscript 1 close parentheses equals I open parentheses R plus r close parentheses rightwards double arrow T subscript 2 equals ?"},"status":"ok"}

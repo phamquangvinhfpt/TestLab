@@ -1,0 +1,1 @@
+{"result":{"text":"straight a equals negative omega to the power of 2 end exponent straight x"},"status":"ok"}

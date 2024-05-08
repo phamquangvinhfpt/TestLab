@@ -1,0 +1,1 @@
+{"result":{"text":"3 over 4 lambda equals 60 rightwards double arrow rightwards double arrow lambda equals ?\nv equals lambda. f equals ?"},"status":"ok"}

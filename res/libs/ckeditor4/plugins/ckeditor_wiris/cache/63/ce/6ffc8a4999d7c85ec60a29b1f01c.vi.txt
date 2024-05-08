@@ -1,0 +1,1 @@
+{"result":{"text":"tan phi equals fraction numerator Z subscript L minus Z subscript C over denominator R end fraction equals negative 1 rightwards double arrow phi equals negative pi over 4"},"status":"ok"}

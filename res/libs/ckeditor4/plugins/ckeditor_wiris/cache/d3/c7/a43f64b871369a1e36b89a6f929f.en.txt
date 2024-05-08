@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 8 over denominator 15 end fraction blank mu m"},"status":"ok"}

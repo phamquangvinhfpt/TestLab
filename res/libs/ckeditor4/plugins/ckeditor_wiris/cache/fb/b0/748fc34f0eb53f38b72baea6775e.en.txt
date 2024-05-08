@@ -1,0 +1,1 @@
+{"result":{"text":"U equals fraction numerator U over denominator square root of 2 end fraction equals 220 left parenthesis V right parenthesis"},"status":"ok"}

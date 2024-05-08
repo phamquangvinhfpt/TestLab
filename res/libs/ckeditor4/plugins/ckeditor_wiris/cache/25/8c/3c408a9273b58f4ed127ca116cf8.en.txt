@@ -1,0 +1,1 @@
+{"result":{"text":"2 f subscript 0 end subscript equals f subscript 1 end subscript plus f subscript 2 end subscript"},"status":"ok"}

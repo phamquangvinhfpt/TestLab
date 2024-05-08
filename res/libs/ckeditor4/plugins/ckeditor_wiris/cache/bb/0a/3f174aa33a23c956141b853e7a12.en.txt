@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript min end subscript equals vertical line f subscript 1 end subscript minus f subscript 2 end subscript vertical line"},"status":"ok"}

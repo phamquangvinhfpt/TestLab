@@ -1,0 +1,1 @@
+{"result":{"text":"9 comma 1.10 to the power of negative 31 end exponent open parentheses K g close parentheses"},"status":"ok"}

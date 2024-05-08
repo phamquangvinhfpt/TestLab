@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 2 end subscript minus t subscript 1 end subscript equals left parenthesis 2.0 plus 1 right parenthesis T over 4"},"status":"ok"}

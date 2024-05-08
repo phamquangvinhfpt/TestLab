@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript N M end subscript equals q. U subscript N M end subscript equals open parentheses negative 1 close parentheses. left parenthesis negative 2 right parenthesis equals 2 J"},"status":"ok"}

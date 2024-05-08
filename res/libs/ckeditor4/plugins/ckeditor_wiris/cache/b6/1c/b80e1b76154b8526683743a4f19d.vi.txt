@@ -1,0 +1,1 @@
+{"result":{"text":"lambda greater or equal than lambda subscript 0"},"status":"ok"}

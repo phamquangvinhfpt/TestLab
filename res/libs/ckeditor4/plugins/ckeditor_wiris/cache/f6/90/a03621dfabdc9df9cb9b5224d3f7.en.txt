@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals v T equals v fraction numerator 2 pi over denominator lambda end fraction equals 80. fraction numerator 2 pi over denominator 40 pi end fraction equals 4 left parenthesis c m right parenthesis"},"status":"ok"}

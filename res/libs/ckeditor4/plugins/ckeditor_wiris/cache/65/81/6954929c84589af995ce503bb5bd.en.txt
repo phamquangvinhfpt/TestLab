@@ -1,0 +1,1 @@
+{"result":{"text":"a subscript M end subscript equals 2 a vertical line cos invisible function application left parenthesis fraction numerator pi left parenthesis d subscript 1 end subscript minus d subscript 2 end subscript right parenthesis over denominator lambda end fraction right parenthesis vertical line"},"status":"ok"}

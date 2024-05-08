@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow n subscript 21 end subscript equals fraction numerator sin invisible function application 30 to the power of 0 end exponent over denominator sin invisible function application 60 to the power of 0 end exponent end fraction equals 0 comma 577"},"status":"ok"}

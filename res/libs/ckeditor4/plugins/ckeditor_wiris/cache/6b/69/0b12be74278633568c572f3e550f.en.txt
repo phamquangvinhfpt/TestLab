@@ -1,0 +1,1 @@
+{"result":{"text":"a subscript max end subscript equals omega to the power of 2 end exponent A"},"status":"ok"}

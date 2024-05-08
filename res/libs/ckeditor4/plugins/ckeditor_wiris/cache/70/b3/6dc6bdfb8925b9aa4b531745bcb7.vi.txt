@@ -1,0 +1,1 @@
+{"result":{"text":"1 u. c squared"},"status":"ok"}

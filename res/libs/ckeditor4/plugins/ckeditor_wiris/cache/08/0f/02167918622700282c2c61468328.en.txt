@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript identical to equals 2 i subscript 1 equals 3 i subscript 2 equals 2.2 comma 4 equals 4 comma 8 straight m straight m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"r subscript N minus r subscript L equals r subscript o 16 minus r subscript o 4 equals r subscript o 12"},"status":"ok"}

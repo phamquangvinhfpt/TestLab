@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator L over denominator 2 i end fraction equals 3 comma 25 equals 3 plus 0 comma 25 equals space n plus l ẻ"},"status":"ok"}

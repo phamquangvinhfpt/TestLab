@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1234 end subscript equals R subscript 1 end subscript plus R subscript 234 end subscript equals 23 over 9 straight capital omega semicolon U subscript 1 end subscript equals I subscript 1 end subscript R subscript 1 end subscript equals 2 V"},"status":"ok"}

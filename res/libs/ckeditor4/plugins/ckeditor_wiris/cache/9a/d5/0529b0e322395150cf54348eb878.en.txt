@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator d to the power of 2 end exponent over denominator 4 x to the power of 2 end exponent end fraction equals 1 minus fraction numerator d to the power of 2 end exponent over denominator 4 x to the power of 2 end exponent end fraction"},"status":"ok"}

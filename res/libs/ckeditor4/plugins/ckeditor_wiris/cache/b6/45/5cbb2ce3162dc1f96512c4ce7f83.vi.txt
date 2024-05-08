@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript d equals I subscript R equals U subscript R over R not stretchy rightwards double arrow R equals U subscript R over I subscript R equals fraction numerator 110 over denominator begin display style 10 over 11 end style end fraction equals 121 straight capital omega"},"status":"ok"}

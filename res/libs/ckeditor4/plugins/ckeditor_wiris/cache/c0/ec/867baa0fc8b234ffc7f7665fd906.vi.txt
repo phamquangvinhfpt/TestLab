@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta E equals E subscript 0 minus E equals open parentheses m subscript P subscript 0 end subscript minus m subscript alpha minus m subscript P b end subscript close parentheses. c squared equals ?"},"status":"ok"}

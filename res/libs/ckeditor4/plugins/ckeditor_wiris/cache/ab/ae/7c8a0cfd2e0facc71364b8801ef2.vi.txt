@@ -1,0 +1,1 @@
+{"result":{"text":"1 half m v squared plus 1 half m omega squared x squared rightwards double arrow Đ Á P space Á N"},"status":"ok"}

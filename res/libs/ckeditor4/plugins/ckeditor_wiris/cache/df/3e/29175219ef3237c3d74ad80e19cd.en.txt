@@ -1,0 +1,1 @@
+{"result":{"text":"t equals ell over v equals 0 comma 175 left parenthesis s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript L equals W space minus space W subscript C"},"status":"ok"}

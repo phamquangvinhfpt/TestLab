@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta m equals m subscript 0 minus m equals open parentheses open parentheses 29 m subscript Z plus 34 m subscript n close parentheses minus m close parentheses equals ?"},"status":"ok"}

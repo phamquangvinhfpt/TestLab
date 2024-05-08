@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of 18 end exponent"},"status":"ok"}

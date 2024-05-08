@@ -1,0 +1,1 @@
+{"result":{"text":"p squared equals 2 m K rightwards double arrow p equals ?"},"status":"ok"}

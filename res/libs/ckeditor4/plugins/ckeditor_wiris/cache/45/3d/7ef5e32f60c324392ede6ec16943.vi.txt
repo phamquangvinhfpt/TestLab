@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals 4 fraction numerator capital delta phi over denominator omega end fraction equals fraction numerator 4 pi over 3 over denominator 100 pi end fraction equals 4 over 300 s"},"status":"ok"}

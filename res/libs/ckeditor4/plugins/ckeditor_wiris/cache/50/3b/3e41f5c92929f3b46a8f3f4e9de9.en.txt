@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow straight capital delta x equals 4 fraction numerator lambda subscript 1 end subscript D over denominator a end fraction equals 2 comma 56 left parenthesis m m right parenthesis not stretchy rightwards double arrow lambda subscript 1 end subscript equals 0 comma 48 left parenthesis mu m right parenthesis."},"status":"ok"}

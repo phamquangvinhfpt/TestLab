@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript M equals 2 a open vertical bar cos fraction numerator pi open parentheses d subscript 1 minus d subscript 2 close parentheses over denominator lambda end fraction close vertical bar equals ?"},"status":"ok"}

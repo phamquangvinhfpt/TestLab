@@ -1,0 +1,1 @@
+{"result":{"text":"U squared equals U subscript R superscript 2 plus U subscript C superscript 2 equals U subscript R superscript 2 plus fraction numerator 16 over denominator 9 end fraction U subscript R superscript 2"},"status":"ok"}

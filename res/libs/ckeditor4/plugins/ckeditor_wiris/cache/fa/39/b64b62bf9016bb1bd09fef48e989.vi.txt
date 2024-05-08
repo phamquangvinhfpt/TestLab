@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta m equals fraction numerator capital delta E over denominator c squared end fraction equals ?"},"status":"ok"}

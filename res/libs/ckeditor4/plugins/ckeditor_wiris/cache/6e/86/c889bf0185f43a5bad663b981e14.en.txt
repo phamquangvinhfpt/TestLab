@@ -1,0 +1,1 @@
+{"result":{"text":"n equals fraction numerator I subscript b h end subscript over denominator vertical line e vertical line end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses omega t plus phi subscript 1 close parentheses equals pi over 3 space semicolon space open parentheses omega t plus phi subscript 2 close parentheses equals negative pi over 3"},"status":"ok"}

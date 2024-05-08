@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript A equals u subscript B equals 2 cos open parentheses 10 pi t close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight n equals fraction numerator straight c over denominator straight v end fraction space of 0.278em"},"status":"ok"}

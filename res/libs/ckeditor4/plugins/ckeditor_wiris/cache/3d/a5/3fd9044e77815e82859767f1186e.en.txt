@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta E equals 2 W subscript X end subscript minus W subscript P end subscript not stretchy rightwards double arrow W subscript P end subscript minus straight capital delta E equals fraction numerator 4 W over denominator 3 end fraction"},"status":"ok"}

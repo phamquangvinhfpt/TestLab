@@ -1,0 +1,1 @@
+{"result":{"text":"H equals fraction numerator P subscript c o end subscript over denominator P end fraction equals fraction numerator P minus I to the power of 2 end exponent r over denominator P end fraction equals 1 minus fraction numerator 2 comma 5 to the power of 2 end exponent.7.568 over denominator 476 end fraction equals 0 comma 9 equals 90"},"status":"ok"}

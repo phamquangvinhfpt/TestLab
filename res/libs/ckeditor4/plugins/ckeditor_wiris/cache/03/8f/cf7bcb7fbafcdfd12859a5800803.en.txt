@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow straight capital delta t equals fraction numerator L i over denominator e end fraction equals fraction numerator 3 comma 5 over denominator 6 end fraction equals 2 comma 5 left parenthesis s right parenthesis"},"status":"ok"}

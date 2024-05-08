@@ -1,0 +1,1 @@
+{"result":{"text":"f space of 0.167em equals space of 0.167em fraction numerator 1 over denominator 2 pi end fraction square root of k over m end root"},"status":"ok"}

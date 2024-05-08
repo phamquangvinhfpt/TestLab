@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript n equals 1 comma 00866 u comma space m subscript p equals 1 comma 00728 u comma space m subscript e equals 5 comma 486.10 to the power of negative 4 end exponent u semicolon space 1 u equals 931 comma 5 space bevelled fraction numerator M e V over denominator c squared end fraction"},"status":"ok"}

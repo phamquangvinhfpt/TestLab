@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals alpha over omega equals alpha. fraction numerator T over denominator 2 pi end fraction"},"status":"ok"}

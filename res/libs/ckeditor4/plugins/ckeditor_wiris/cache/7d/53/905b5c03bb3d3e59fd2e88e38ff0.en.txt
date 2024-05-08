@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals fraction numerator straight capital delta phi over denominator omega end fraction equals fraction numerator fraction numerator 6032 pi over denominator 3 end fraction over denominator fraction numerator 2 pi over denominator 3 end fraction end fraction equals 3016 straight s"},"status":"ok"}

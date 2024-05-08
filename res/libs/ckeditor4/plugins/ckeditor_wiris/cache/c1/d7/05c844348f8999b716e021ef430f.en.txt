@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 30 square root of 2 cos invisible function application left parenthesis 100 pi t minus 5 pi divided by 12 right parenthesis left parenthesis V right parenthesis"},"status":"ok"}

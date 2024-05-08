@@ -1,0 +1,1 @@
+{"result":{"text":"alpha space plus space A presubscript 13 presuperscript 27 l space rightwards arrow space n space plus space P presubscript 15 presuperscript 30"},"status":"ok"}

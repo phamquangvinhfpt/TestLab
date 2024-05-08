@@ -1,0 +1,1 @@
+{"result":{"text":"m equals 1 over F. A over n. I t equals 1 over 96500.32.2.60 almost equal to 40 m g"},"status":"ok"}

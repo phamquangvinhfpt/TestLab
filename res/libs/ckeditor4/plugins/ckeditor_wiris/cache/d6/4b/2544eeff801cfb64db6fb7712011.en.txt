@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator l subscript 1 over denominator l subscript 2 end fraction space of 0.167em equals space of 0.167em fraction numerator 25 over denominator 16 end fraction space of 0.167em"},"status":"ok"}

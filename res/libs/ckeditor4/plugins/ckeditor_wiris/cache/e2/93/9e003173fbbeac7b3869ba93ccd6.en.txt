@@ -1,0 +1,1 @@
+{"result":{"text":"M N equals left parenthesis n plus 0 comma 5 right parenthesis i"},"status":"ok"}

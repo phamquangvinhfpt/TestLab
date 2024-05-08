@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell u subscript 1 equals 150 cos open parentheses 100 pi t close parentheses V end cell row cell u subscript 2 equals 100 cos open parentheses 100 pi t plus pi over 3 close parentheses V end cell end table close"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"n equals 1 not stretchy rightwards double arrow x subscript min end subscript equals 9 comma 9 m m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator U subscript 1 over denominator U subscript 2 end fraction space of 0.167em equals space of 0.167em fraction numerator I subscript 1 over denominator I subscript 2 end fraction space of 0.167em equals space of 0.167em fraction numerator N subscript 1 over denominator N subscript 2 end fraction"},"status":"ok"}

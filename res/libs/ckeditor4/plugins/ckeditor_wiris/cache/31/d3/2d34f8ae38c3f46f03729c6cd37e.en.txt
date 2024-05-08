@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript t d end subscript equals R plus R over 2 equals 1 comma 5 R"},"status":"ok"}

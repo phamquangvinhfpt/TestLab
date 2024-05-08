@@ -1,0 +1,1 @@
+{"result":{"text":"12 i equals 7 comma 2 m m not stretchy rightwards double arrow i equals 0 comma 6 m m not stretchy rightwards double arrow i equals fraction numerator lambda D over denominator a end fraction not stretchy rightwards double arrow lambda equals 0 comma 6 mu m"},"status":"ok"}

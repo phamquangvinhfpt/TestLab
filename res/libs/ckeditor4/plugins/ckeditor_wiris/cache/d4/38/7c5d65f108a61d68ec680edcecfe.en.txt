@@ -1,0 +1,1 @@
+{"result":{"text":"B equals 4 pi. fraction numerator I N over denominator ell end fraction"},"status":"ok"}

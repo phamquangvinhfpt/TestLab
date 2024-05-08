@@ -1,0 +1,1 @@
+{"result":{"text":"t equals 4 comma 25 equals 21 T plus T over 4"},"status":"ok"}

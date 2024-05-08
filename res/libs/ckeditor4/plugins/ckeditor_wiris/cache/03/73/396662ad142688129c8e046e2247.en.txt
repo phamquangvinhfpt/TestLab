@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 50 over denominator square root of 50 squared plus 100 squared end root end fraction"},"status":"ok"}

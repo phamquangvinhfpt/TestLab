@@ -1,0 +1,1 @@
+{"result":{"text":"s equals 1 half a t to the power of 2 end exponent"},"status":"ok"}

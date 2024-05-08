@@ -1,0 +1,1 @@
+{"result":{"text":"delta equals d subscript 2 minus d subscript 1 equals open parentheses k plus 1 half close parentheses lambda"},"status":"ok"}

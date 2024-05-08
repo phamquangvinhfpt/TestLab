@@ -1,0 +1,1 @@
+{"result":{"text":"1 half square root of fraction numerator 1. K subscript P over denominator 4. K subscript alpha end fraction end root"},"status":"ok"}

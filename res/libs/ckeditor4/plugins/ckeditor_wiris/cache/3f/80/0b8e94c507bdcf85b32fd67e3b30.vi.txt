@@ -1,0 +1,1 @@
+{"result":{"text":"delta equals 1 comma 5 lambda"},"status":"ok"}

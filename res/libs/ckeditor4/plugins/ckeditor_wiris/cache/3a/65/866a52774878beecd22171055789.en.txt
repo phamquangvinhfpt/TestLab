@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals left parenthesis M O B right parenthesis equals left parenthesis M to the power of divided by end exponent O B right parenthesis equals pi over 3"},"status":"ok"}

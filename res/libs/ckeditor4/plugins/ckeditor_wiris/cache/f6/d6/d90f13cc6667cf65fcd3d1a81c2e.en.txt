@@ -1,0 +1,1 @@
+{"result":{"text":"v equals negative A omega s i n not stretchy left parenthesis omega t plus phi not stretchy right parenthesis"},"status":"ok"}

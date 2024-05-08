@@ -1,0 +1,1 @@
+{"result":{"text":"cos phi equals bevelled 5 over 6"},"status":"ok"}

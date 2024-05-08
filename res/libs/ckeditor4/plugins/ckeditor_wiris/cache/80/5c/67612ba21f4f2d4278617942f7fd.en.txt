@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 0 equals I subscript 0. R subscript 0 equals 70 comma 2 square root of 2 V"},"status":"ok"}

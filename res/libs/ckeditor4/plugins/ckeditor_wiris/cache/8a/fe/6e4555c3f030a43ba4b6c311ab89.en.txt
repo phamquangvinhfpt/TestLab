@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 0 end subscript equals omega N B S not stretchy rightwards double arrow omega equals fraction numerator E subscript 0 end subscript over denominator N B S end fraction almost equal to 79 left parenthesis r a d. s right parenthesis"},"status":"ok"}

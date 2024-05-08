@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 4 cos open parentheses 100 pi t space plus space pi over 6 close parentheses open parentheses A close parentheses"},"status":"ok"}

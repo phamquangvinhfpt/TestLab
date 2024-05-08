@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application phi subscript L C end subscript equals fraction numerator Z subscript L end subscript minus Z subscript C end subscript over denominator 0 end fraction equals negative straight infinity not stretchy rightwards double arrow phi subscript L C end subscript equals negative pi over 2 less than 0"},"status":"ok"}

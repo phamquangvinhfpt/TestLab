@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript C subscript m a x end subscript end subscript not stretchy left right double arrow omega subscript C equals fraction numerator square root of L over C minus R squared over 2 end root over denominator L end fraction less than square root of fraction numerator 1 over denominator L C end fraction end root equals omega subscript R"},"status":"ok"}

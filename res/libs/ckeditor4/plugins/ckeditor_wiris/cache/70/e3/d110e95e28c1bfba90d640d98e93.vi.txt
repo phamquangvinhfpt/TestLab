@@ -1,0 +1,1 @@
+{"result":{"text":"I equals negative 2 square root of 2 open parentheses A close parentheses"},"status":"ok"}

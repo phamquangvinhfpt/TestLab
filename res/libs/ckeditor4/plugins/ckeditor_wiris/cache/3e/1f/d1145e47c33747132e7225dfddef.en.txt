@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals fraction numerator alpha over denominator omega end fraction equals fraction numerator fraction numerator pi over denominator 2 end fraction over denominator 4 pi end fraction equals 1 over 8 straight s."},"status":"ok"}

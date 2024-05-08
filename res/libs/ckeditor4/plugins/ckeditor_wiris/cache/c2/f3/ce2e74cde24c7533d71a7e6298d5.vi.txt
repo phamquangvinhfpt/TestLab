@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript m a x end subscript equals 525 space N"},"status":"ok"}

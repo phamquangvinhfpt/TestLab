@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals k.2 pi not stretchy rightwards double arrow M A equals k plus 31 over 6 left parenthesis c m right parenthesis"},"status":"ok"}

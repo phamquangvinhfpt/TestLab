@@ -1,0 +1,1 @@
+{"result":{"text":"q equals Q subscript 0 cos invisible function application fraction numerator 2 pi over denominator T end fraction. T over 8 equals fraction numerator Q subscript 0 over denominator square root of 2 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"r equals 0 comma 25 straight capital omega"},"status":"ok"}

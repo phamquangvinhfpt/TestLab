@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator not stretchy vertical line q subscript 1 end subscript q subscript 2 end subscript not stretchy vertical line over denominator r to the power of 2 end exponent end fraction"},"status":"ok"}

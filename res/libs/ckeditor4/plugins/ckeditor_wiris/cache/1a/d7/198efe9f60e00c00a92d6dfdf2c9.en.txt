@@ -1,0 +1,1 @@
+{"result":{"text":"omega subscript 2 end subscript left parenthesis omega subscript 1 end subscript less than omega subscript 2 end subscript less than omega subscript 0 end subscript right parenthesis"},"status":"ok"}

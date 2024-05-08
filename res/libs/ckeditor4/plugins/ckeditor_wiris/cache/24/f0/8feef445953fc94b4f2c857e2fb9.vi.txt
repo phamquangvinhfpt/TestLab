@@ -1,0 +1,1 @@
+{"result":{"text":"i equals omega C. U subscript 0 cos open parentheses omega t plus pi over 2 close parentheses space open parentheses A close parentheses"},"status":"ok"}

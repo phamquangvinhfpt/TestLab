@@ -1,0 +1,1 @@
+{"result":{"text":"plus fraction numerator 0 comma 5 U subscript 0 L end subscript over denominator square root of 2 end fraction"},"status":"ok"}

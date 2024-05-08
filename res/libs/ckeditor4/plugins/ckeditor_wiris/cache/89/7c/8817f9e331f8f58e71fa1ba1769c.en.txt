@@ -1,0 +1,1 @@
+{"result":{"text":"pi over 3 minus pi over 2 equals negative pi over 6"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript left parenthesis t plus 0 comma 005 right parenthesis end subscript equals fraction numerator negative U subscript 0 end subscript cos invisible function application 100 pi t subscript 1 end subscript over denominator 100 end fraction equals negative 0 comma 5 left parenthesis A right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

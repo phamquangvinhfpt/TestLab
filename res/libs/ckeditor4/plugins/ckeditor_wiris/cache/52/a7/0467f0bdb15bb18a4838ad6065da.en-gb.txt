@@ -1,0 +1,1 @@
+{"result":{"text":"a subscript m a x end subscript equals A omega squared rightwards double arrow omega squared equals a subscript m a x end subscript over A equals 300"},"status":"ok"}

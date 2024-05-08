@@ -1,0 +1,1 @@
+{"result":{"text":"display style x space of 0.167em equals space of 0.167em 10 cos invisible function application left parenthesis 4 pi t space of 0.167em plus space of 0.167em pi over 3 right parenthesis space of 0.167em space of 0.167em left parenthesis c m right parenthesis"},"status":"ok"}

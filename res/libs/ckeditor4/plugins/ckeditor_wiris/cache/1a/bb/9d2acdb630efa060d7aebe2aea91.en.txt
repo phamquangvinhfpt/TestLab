@@ -1,0 +1,1 @@
+{"result":{"text":"2 a b less or equal than a to the power of 2 end exponent plus b to the power of 2 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"A B equals 8 equals space lambda over 4 plus 4 lambda over 2 plus lambda over 4 equals 5 lambda over 2 rightwards double arrow lambda equals 16 over 5 c m"},"status":"ok"}

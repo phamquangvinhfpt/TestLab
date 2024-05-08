@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M equals 3 comma 5 fraction numerator lambda left parenthesis D plus 0 comma 6 right parenthesis over denominator a end fraction equals 4 comma 2.10 to the power of negative 3 end exponent m"},"status":"ok"}

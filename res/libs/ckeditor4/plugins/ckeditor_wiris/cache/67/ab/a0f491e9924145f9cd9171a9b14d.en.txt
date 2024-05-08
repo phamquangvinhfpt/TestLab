@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 1 over f"},"status":"ok"}

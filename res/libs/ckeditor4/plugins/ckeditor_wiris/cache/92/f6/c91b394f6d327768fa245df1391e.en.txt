@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator u squared over denominator Z subscript L superscript 2 end fraction plus i squared equals I subscript 0 superscript 2"},"status":"ok"}

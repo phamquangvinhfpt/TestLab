@@ -1,0 +1,1 @@
+{"result":{"text":"1 comma 9 not stretchy left parenthesis 1 half m v subscript 0 superscript 2 minus e U not stretchy right parenthesis equals 1 half m v subscript 0 superscript 2 minus 2 e U not stretchy rightwards double arrow v subscript 0 equals square root of fraction numerator 2 e U over denominator 9 m end fraction end root"},"status":"ok"}

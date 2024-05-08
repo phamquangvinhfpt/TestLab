@@ -1,0 +1,1 @@
+{"result":{"text":"pi t plus phi minus pi over 2 equals pi rightwards double arrow phi equals negative pi over 2"},"status":"ok"}

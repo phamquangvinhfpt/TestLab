@@ -1,0 +1,1 @@
+{"result":{"text":"3.10 to the power of negative 6 end exponent space s"},"status":"ok"}

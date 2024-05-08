@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript R superscript blank equals square root of U squared minus not stretchy left parenthesis U subscript L minus U subscript C not stretchy right parenthesis squared end root"},"status":"ok"}

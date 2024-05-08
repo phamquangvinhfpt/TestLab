@@ -1,0 +1,1 @@
+{"result":{"text":"u greater or equal than 155 V almost equal to 110 square root of 2 V"},"status":"ok"}

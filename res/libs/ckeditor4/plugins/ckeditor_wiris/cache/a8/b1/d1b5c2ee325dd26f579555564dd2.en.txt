@@ -1,0 +1,1 @@
+{"result":{"text":"straight t subscript straight n end subscript equals blank straight t subscript 1 plus fraction numerator straight n minus 1 over denominator 2 end fraction. straight T"},"status":"ok"}

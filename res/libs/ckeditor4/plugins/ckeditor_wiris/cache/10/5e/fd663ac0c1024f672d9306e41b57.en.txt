@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator xi over denominator R subscript N end subscript plus r end fraction not stretchy rightwards double arrow 2 comma 5 equals fraction numerator 42 comma 5 over denominator R plus 6 plus 1 end fraction not stretchy rightwards double arrow R equals 10 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

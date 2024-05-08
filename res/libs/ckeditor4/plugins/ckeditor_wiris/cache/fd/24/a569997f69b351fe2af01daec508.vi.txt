@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript n superscript 3 equals fraction numerator n open parentheses n minus 1 close parentheses over denominator 2 end fraction equals 3"},"status":"ok"}

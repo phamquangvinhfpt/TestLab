@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator F subscript e over denominator mu end fraction end root"},"status":"ok"}

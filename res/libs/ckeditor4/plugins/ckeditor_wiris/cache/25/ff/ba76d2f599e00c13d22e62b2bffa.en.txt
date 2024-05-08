@@ -1,0 +1,1 @@
+{"result":{"text":"i equals fraction numerator u subscript 2 end subscript over denominator omega L end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"omega not equal to 0 not stretchy rightwards double arrow Z subscript L not equal to 0"},"status":"ok"}

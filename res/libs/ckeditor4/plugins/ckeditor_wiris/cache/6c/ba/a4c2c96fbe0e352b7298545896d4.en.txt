@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript R end subscript plus U subscript d m end subscript equals U not stretchy rightwards double arrow U subscript R end subscript equals 220 minus 110 equals 110 V"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"R equals open vertical bar Z subscript L minus Z subscript C close vertical bar"},"status":"ok"}

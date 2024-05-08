@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 pi. d over denominator lambda end fraction equals 2 k pi"},"status":"ok"}

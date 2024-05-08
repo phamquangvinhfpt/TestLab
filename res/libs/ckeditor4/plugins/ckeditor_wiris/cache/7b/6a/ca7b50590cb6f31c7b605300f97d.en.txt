@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5. Q subscript 1 end subscript omega"},"status":"ok"}

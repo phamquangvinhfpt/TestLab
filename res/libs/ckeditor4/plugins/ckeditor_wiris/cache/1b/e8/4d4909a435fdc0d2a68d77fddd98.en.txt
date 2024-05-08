@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L space of 0.167em equals space of 0.167em omega L space of 0.167em equals space of 0.167em 2 pi f L"},"status":"ok"}

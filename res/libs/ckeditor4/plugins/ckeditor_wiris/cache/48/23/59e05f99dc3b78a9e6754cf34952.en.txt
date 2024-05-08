@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 0 end subscript equals negative square root of 2 not stretchy left parenthesis c m not stretchy right parenthesis"},"status":"ok"}

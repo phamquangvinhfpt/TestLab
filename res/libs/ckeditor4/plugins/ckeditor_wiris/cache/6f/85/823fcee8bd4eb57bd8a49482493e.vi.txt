@@ -1,0 +1,1 @@
+{"result":{"text":"k equals m omega squared"},"status":"ok"}

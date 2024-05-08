@@ -1,0 +1,1 @@
+{"result":{"text":"1 space plus space 6 over R subscript x equals fraction numerator 12 over denominator 4 space plus space begin display style fraction numerator 6. R subscript x over denominator 6 space plus space R subscript x end fraction end style end fraction"},"status":"ok"}

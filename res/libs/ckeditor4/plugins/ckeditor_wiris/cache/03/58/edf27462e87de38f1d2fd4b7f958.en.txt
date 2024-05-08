@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0 comma 693 over denominator 138.24.3600 end fraction N equals 3 comma 7.10 to the power of 7"},"status":"ok"}

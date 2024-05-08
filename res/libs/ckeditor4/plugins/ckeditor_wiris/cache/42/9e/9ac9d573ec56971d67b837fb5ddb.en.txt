@@ -1,0 +1,1 @@
+{"result":{"text":"1 fourth fraction numerator straight L straight I subscript 0 end subscript superscript 2 end superscript over denominator 2 end fraction equals fraction numerator straight W subscript 0 end subscript over denominator 4 end fraction equals 9 straight C subscript 0 end subscript"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals space of 0.167em phi subscript u minus phi subscript i"},"status":"ok"}

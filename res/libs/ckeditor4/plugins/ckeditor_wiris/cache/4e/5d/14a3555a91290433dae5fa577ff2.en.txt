@@ -1,0 +1,1 @@
+{"result":{"text":"P with rightwards arrow on top plus Q with rightwards arrow on top plus F with rightwards arrow on top equals 0 with rightwards arrow on top"},"status":"ok"}

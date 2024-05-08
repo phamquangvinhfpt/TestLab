@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals text Ir end text"},"status":"ok"}

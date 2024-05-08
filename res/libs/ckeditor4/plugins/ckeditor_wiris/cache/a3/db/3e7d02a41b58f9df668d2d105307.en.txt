@@ -1,0 +1,1 @@
+{"result":{"text":"k equals fraction numerator f over denominator f minus d end fraction not stretchy rightwards double arrow d equals left parenthesis 1 minus 1 over k right parenthesis f equals f over 2 equals 7 comma 5 left parenthesis c m right parenthesis."},"status":"ok"}

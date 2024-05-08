@@ -1,0 +1,1 @@
+{"result":{"text":"m equals m subscript n g t end subscript space minus space Z. m subscript e space equals 55 comma 934939 u space minus space 20.5 comma 486.10 to the power of negative 4 end exponent u equals ?"},"status":"ok"}

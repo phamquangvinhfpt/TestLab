@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow vertical line u vertical line equals square root of 0 comma 75 end root U subscript 0 end subscript equals 0 comma 5 square root of 3 U subscript 0 end subscript not stretchy rightwards double arrow"},"status":"ok"}

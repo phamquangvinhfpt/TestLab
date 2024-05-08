@@ -1,0 +1,1 @@
+{"result":{"text":"phi space of 0.167em equals space of 0.167em minus space of 0.167em pi over 2 space of 0.167em left parenthesis r a d right parenthesis"},"status":"ok"}

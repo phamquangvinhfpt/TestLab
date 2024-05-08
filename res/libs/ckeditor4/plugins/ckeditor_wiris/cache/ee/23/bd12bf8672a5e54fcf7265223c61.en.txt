@@ -1,0 +1,1 @@
+{"result":{"text":"q equals Q subscript 0 cos invisible function application phi equals plus Q subscript 0 not stretchy rightwards double arrow cos invisible function application phi equals 1 not stretchy rightwards double arrow phi equals 0"},"status":"ok"}

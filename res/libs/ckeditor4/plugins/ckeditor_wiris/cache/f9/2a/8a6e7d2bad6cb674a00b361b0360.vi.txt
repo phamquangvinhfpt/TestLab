@@ -1,0 +1,1 @@
+{"result":{"text":"4 cos left parenthesis pi over 6 3 plus s h i f t cos left parenthesis 2 square root of 3 divided by 4 right parenthesis right parenthesis"},"status":"ok"}

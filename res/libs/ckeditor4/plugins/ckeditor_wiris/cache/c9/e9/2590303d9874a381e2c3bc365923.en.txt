@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator U over denominator R plus r end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"N equals fraction numerator q over denominator open vertical bar e close vertical bar end fraction equals fraction numerator 32.10 to the power of negative 17 end exponent over denominator 1 comma 6.10 to the power of negative 19 end exponent end fraction equals 2000"},"status":"ok"}

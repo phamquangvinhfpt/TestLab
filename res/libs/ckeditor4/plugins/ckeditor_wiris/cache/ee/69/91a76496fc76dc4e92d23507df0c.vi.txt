@@ -1,0 +1,1 @@
+{"result":{"text":"4 over 3 W subscript L equals W subscript L subscript m a x end subscript end subscript rightwards double arrow i"},"status":"ok"}

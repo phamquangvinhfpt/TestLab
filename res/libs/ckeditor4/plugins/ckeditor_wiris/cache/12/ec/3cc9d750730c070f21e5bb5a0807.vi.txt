@@ -1,0 +1,1 @@
+{"result":{"text":"1 half L I subscript 0 superscript 2 equals 1 half C U subscript 0 superscript 2 rightwards double arrow I subscript blank"},"status":"ok"}

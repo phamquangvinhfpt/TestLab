@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow x subscript max end subscript equals n lambda over 2 plus lambda over 4 equals 2. fraction numerator 1 comma 5 over denominator 2 end fraction plus 0 comma 75 equals 2 comma 25 left parenthesis c m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

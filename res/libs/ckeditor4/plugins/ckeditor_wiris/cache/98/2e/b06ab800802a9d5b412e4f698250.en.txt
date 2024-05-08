@@ -1,0 +1,1 @@
+{"result":{"text":"E equals m. c"},"status":"ok"}

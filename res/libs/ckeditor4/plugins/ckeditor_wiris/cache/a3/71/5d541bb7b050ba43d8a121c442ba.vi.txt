@@ -1,0 +1,1 @@
+{"result":{"text":"F equals I. B. l. sin alpha"},"status":"ok"}

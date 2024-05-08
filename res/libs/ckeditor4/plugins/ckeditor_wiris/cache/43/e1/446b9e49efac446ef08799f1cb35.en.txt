@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript 0 end subscript equals A subscript max end subscript divided by square root of 2 semicolon straight capital delta x equals lambda divided by 4"},"status":"ok"}

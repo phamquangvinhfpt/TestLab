@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals T over 12 plus T over 6 equals T over 4 equals 1 fourth.2 pi square root of m over k end root equals pi over 40 left parenthesis s right parenthesis"},"status":"ok"}

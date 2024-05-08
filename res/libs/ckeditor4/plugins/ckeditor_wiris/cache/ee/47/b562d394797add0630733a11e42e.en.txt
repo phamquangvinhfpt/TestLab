@@ -1,0 +1,1 @@
+{"result":{"text":"vertical line Q vertical line subscript T end subscript equals fraction numerator 4 I subscript 0 end subscript over denominator omega end fraction"},"status":"ok"}

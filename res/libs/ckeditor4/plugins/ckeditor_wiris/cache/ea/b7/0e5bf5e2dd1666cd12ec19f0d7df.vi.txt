@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 1 half m pi squared f squared A squared"},"status":"ok"}

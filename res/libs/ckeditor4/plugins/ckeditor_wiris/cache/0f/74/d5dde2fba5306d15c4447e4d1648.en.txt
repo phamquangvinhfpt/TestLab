@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 3 equals left parenthesis 2 plus 1 half right parenthesis. i equals 2 comma 5. i equals 4 comma 5"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript 2 end subscript equals 5 cos invisible function application left parenthesis 40 pi t plus pi right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript 1 end subscript semicolon C subscript 2 end subscript"},"status":"ok"}

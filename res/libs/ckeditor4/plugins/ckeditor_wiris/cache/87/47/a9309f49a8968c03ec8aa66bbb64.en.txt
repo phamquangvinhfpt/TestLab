@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals 13 comma 5 V"},"status":"ok"}

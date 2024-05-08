@@ -1,0 +1,1 @@
+{"result":{"text":"A space of 0.167em equals space of 0.167em 3. straight capital delta l space of 0.167em equals space of 0.167em 6 space of 0.167em c m"},"status":"ok"}

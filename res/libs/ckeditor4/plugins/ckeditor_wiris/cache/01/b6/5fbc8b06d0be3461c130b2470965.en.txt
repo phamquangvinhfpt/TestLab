@@ -1,0 +1,1 @@
+{"result":{"text":"2 a q subscript 1 end subscript q subscript 1 end subscript superscript blank to the power of prime end superscript plus 2 b q subscript 2 end subscript q subscript 2 end subscript superscript blank to the power of prime end superscript equals 0"},"status":"ok"}

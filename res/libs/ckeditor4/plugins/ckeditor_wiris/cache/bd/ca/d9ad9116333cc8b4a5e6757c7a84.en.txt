@@ -1,0 +1,1 @@
+{"result":{"text":"a equals fraction numerator B I ell minus mu m g over denominator m end fraction equals fraction numerator 0 comma 05.1 comma 6.12 minus 0 comma 4.0 comma 2.10 over denominator 0 comma 2 end fraction equals 0 comma 8 left parenthesis fraction numerator m over denominator s to the power of 2 end exponent end fraction right parenthesis"},"status":"ok"}

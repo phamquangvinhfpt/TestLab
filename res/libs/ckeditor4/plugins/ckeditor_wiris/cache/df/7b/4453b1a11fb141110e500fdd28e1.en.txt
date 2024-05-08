@@ -1,0 +1,1 @@
+{"result":{"text":"display style alpha subscript 1 end subscript equals pi over 6"},"status":"ok"}

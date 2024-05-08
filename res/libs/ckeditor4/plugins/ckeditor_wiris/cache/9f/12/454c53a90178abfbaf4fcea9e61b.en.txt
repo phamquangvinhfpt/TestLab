@@ -1,0 +1,1 @@
+{"result":{"text":"E equals fraction numerator N omega B S over denominator square root of 2 end fraction semicolon I equals E over R semicolon P equals I to the power of 2 end exponent R semicolon Q equals P t equals I to the power of 2 end exponent R t"},"status":"ok"}

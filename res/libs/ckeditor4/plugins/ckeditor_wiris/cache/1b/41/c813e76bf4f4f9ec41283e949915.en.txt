@@ -1,0 +1,1 @@
+{"result":{"text":"straight v equals negative 50 pi sin invisible function application left parenthesis 10 pi straight t minus fraction numerator pi over denominator 6 end fraction right parenthesis greater than 0"},"status":"ok"}

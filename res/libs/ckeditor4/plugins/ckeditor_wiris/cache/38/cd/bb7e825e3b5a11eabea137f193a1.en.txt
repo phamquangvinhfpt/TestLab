@@ -1,0 +1,1 @@
+{"result":{"text":"vertical line A subscript 1 end subscript minus A subscript 2 end subscript vertical line less than A less than A subscript 1 end subscript plus A subscript 2 end subscript not stretchy rightwards double arrow"},"status":"ok"}

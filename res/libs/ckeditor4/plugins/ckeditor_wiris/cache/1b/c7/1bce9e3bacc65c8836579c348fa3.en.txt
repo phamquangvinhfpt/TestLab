@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight capital delta t subscript s end subscript over denominator straight capital delta t subscript t end subscript end fraction equals fraction numerator alpha subscript s end subscript over denominator alpha subscript t end subscript end fraction equals 2 over 1"},"status":"ok"}

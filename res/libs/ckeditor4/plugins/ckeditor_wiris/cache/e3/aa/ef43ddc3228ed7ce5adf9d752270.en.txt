@@ -1,0 +1,1 @@
+{"result":{"text":"H equals R r"},"status":"ok"}

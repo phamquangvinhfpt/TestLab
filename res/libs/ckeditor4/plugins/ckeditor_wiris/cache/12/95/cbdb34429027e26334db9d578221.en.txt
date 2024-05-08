@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript 0 end subscript equals fraction numerator straight C straight U to the power of 2 end exponent over denominator 2 end fraction equals fraction numerator 2 straight C subscript 0 end subscript straight E to the power of 2 end exponent over denominator 2 end fraction equals 36 straight C subscript 0 end subscript"},"status":"ok"}

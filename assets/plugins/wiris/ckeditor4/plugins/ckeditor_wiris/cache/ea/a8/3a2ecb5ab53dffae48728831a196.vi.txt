@@ -1,0 +1,1 @@
+{"result":{"text":"divided by increment increment increment partial differential straight pi increment nabla nabla"},"status":"ok"}

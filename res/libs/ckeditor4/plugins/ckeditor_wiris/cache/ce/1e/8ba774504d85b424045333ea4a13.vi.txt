@@ -1,0 +1,1 @@
+{"result":{"text":"E equals k Q over r squared"},"status":"ok"}

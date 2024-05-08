@@ -1,0 +1,1 @@
+{"result":{"text":"Z m subscript p space plus space open parentheses A space minus space Z close parentheses m subscript m space equals m"},"status":"ok"}

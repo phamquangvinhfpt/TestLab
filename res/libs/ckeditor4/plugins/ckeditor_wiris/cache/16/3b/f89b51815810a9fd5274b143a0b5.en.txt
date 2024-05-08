@@ -1,0 +1,1 @@
+{"result":{"text":"U equals square root of U subscript R superscript 2 plus not stretchy left parenthesis U subscript L minus U subscript C not stretchy right parenthesis squared end root equals square root of 80 squared plus not stretchy left parenthesis 120 minus 60 not stretchy right parenthesis squared end root equals 100"},"status":"ok"}

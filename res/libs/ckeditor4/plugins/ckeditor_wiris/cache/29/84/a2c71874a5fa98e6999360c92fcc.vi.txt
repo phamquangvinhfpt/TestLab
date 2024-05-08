@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript h n end subscript equals m subscript n g t end subscript space minus Z. m subscript e"},"status":"ok"}

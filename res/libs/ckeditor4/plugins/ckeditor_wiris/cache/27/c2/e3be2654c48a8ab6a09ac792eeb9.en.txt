@@ -1,0 +1,1 @@
+{"result":{"text":"text W end text subscript t end subscript equals 1 half k x to the power of 2 end exponent"},"status":"ok"}

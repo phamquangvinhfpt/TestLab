@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript identical to end subscript equals left parenthesis fraction numerator 6 comma 72 over denominator 0 comma 48 end fraction plus 1 right parenthesis plus left parenthesis fraction numerator 6 comma 72 over denominator 0 comma 64 end fraction plus 0 comma 5 right parenthesis minus 22 equals 4 not stretchy rightwards double arrow"},"status":"ok"}

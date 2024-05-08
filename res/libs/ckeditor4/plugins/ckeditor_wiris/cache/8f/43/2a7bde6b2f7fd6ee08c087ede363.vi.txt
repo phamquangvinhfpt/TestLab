@@ -1,0 +1,1 @@
+{"result":{"text":"M space l à space c ự c space đ ạ i space n ê n space d subscript 2 minus d subscript 1 equals k lambda"},"status":"ok"}

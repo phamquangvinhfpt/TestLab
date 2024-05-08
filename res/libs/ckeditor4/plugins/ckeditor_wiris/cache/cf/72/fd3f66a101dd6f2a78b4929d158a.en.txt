@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript P end subscript v with rightwards arrow on top subscript P end subscript equals m subscript X end subscript v with rightwards arrow on top subscript X 1 end subscript plus m subscript X end subscript v with rightwards arrow on top subscript X 2 end subscript"},"status":"ok"}

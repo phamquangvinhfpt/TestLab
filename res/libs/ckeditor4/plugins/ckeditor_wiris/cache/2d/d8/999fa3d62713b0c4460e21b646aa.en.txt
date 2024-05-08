@@ -1,0 +1,1 @@
+{"result":{"text":"S equals 1 comma 5 S subscript 0 end subscript equals 1 comma 5. left parenthesis 4 right parenthesis equals 6 c m"},"status":"ok"}

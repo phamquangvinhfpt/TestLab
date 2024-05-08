@@ -1,0 +1,1 @@
+{"result":{"text":"l to the power of divided by equals 4 l rightwards double arrow f to the power of divided by equals f over 2"},"status":"ok"}

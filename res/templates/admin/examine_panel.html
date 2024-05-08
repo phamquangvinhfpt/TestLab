@@ -1,0 +1,166 @@
+<!-- [ Main Content ] start -->
+<div class="pcoded-main-container">
+  <div class="pcoded-wrapper">
+    <div class="pcoded-content">
+      <div class="pcoded-inner-content">
+        <!-- [ breadcrumb ] start -->
+        <div class="page-header">
+          <div class="page-block">
+            <div class="row align-items-center">
+              <div class="col-md-12">
+                <div class="page-header-title">
+                  <h5 class="m-b-10">Đề khảo sát</h5>
+                </div>
+                <ul class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                  <li class="breadcrumb-item"><a href="#!">Quản lý đề khảo sát</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- [ breadcrumb ] end -->
+        <div class="main-body">
+          <div class="page-wrapper">
+            <!-- [ Main Content ] start -->
+            <div class="row">
+              <!-- [ Responsive table ] start -->
+              <div class="col-sm-12">
+                <div class="card">
+                  <div class="card-header">
+                    <h5>Quản lý đề khảo sát</h5>
+                    <a class="card-header-left" href="tao-de"><button type="button" class="btn btn-sm btn-icon btn-info"><i class="fas fa-plus"></i></button></a>
+                    <div class="card-header-right">
+                      <div class="btn-group card-option">
+                        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          <i class="feather icon-more-horizontal"></i>
+                        </button>
+                        <ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+                          <li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> Phóng to</span><span style="display:none"><i class="feather icon-minimize"></i> Khôi phục</span></a></li>
+                          <li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> Đóng lại</span><span style="display:none"><i class="feather icon-plus"></i> Mở ra</span></a></li>
+                          <li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> Tải lại</a></li>
+                          <li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> Xóa</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-block Application-list">
+                    <div class="table-responsive">
+                      <table id="responsive-table-model" class="centered striped responsive-table table" style="width:100%">
+                        <thead>
+                          <tr>
+                            <th>Tên</th>
+                            <th>Mã Đề</th>
+                            <th>Môn</th>
+                            <th>Khối</th>
+                            <th>Thông tin</th>
+                            <th>Trạng thái</th>
+                            <th><i class="fas fa-edit"></i></th>
+                          </tr>
+                        </thead>
+                        <tbody class="table-list" id="list_tests">
+                        </tbody>
+                      </table>
+                    </div>
+                    <div id="sp_ld" class="d-flex justify-content-center" style="padding-bottom: 30px;">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- [ Responsive table ] end -->
+              <!-- [ Student list ] start -->
+              <!-- [ Student list ] end -->
+              <div id="hd_modal">
+              </div>
+            </div>
+            <!-- [ Main Content ] end -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Required Js -->
+<script src="assets/js/vendor-all.min.js"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/pcoded.min.js"></script>
+<!-- datatable Js -->
+<script src="assets/plugins/data-tables/js/datatables.min.js"></script>
+<!-- jquery-validation Js -->
+<script src="assets/plugins/jquery-validation/js/jquery.validate.min.js"></script>
+<!-- notification Js -->
+<script src="assets/plugins/notification/js/bootstrap-growl.min.js"></script>
+<!-- custom js -->
+<script src="res/js/examine_panel.js"></script>
+<!-- sweet alert Js -->
+<script src="assets/plugins/sweetalert/js/sweetalert.min.js"></script>
+<!-- Smart Wizard css -->
+<link href="assets/plugins/smart-wizard/css/smart_wizard.min.css" rel="stylesheet">
+<link href="assets/plugins/smart-wizard/css/smart_wizard_theme_arrows.min.css" rel="stylesheet">
+<link href="assets/plugins/smart-wizard/css/smart_wizard_theme_circles.min" rel="stylesheet">
+<link href="assets/plugins/smart-wizard/css/smart_wizard_theme_dots.min.css" rel="stylesheet">
+<!-- Smart Wizard Js -->
+<script src="assets/plugins/wizard/js/jquery.bootstrap.js"></script>
+<script src="assets/plugins/smart-wizard/js/jquery.smartWizard.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("[data-name=to-chuc-on-luyen]").addClass("pcoded-trigger");
+  });
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var data_test = {};
+    var btnFinish = $('<button id="finish" style="display: none;"></button>').text('Finish')
+                                 .addClass('btn btn-info')
+                                 .on('click', function(){
+                                   submit_add_test($('form').serializeArray());
+                                 });
+    setTimeout(function() {
+      $('#smartwizard').smartWizard({
+        theme: 'dots',
+        transitionEffect: 'fade',
+        autoAdjustHeight: false,
+        useURLhash: false,
+        showStepURLhash: false,
+        lang: {
+          next: 'Tiếp',
+          previous: 'Trước'
+        },
+        toolbarSettings: {toolbarPosition: 'bottom',
+                  toolbarButtonPosition: 'end',
+                  toolbarExtraButtons: [btnFinish]
+                }
+      });
+    }, 700);
+    $("#smartwizard").on("leaveStep", function(e, anchorObject, stepNumber, stepDirection) {
+       if (stepNumber == 0) {
+         data_test.name = $("#test_name").val();
+         data_test.password = $("#test_password").val();
+         data_test.grade = $("#test_grade").val();
+         data_test.subject = $("#test_subject").val();
+         if (data_test.name == '' || data_test.password == '' || data_test.grade == '' || data_test.subject == '') {
+           alert('Bạn chưa nhập đầy đủ thông tin, vui lòng kiểm tra lại !');
+           return false;
+         } else {
+           return true;
+         }
+       }
+    });
+    $("#smartwizard").on("showStep", function(e, anchorObject, stepNumber, stepDirection) {
+      if (stepNumber == 2) {
+        $('#finish').show();
+      } else {
+        $('#finish').hide();
+      }
+    });
+    $("#test_grade").change(function(){
+     list_unit();
+    });
+    $("#test_subject").change(function(){
+     list_unit();
+    });
+
+  });
+</script>

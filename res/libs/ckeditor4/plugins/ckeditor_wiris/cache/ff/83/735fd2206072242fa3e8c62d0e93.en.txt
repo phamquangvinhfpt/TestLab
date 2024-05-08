@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator h c over denominator m subscript 0 c squared not stretchy left parenthesis fraction numerator 1 over denominator 0 comma 6 end fraction minus 1 not stretchy right parenthesis end fraction"},"status":"ok"}

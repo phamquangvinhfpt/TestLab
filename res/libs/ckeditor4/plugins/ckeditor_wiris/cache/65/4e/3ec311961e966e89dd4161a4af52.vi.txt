@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator P over denominator 4 pi space r squared end fraction"},"status":"ok"}

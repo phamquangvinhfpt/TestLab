@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta N equals N subscript 0 minus N"},"status":"ok"}

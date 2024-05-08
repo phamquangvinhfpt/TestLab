@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals 2 t subscript 1 end subscript equals 2 t subscript 2 end subscript"},"status":"ok"}

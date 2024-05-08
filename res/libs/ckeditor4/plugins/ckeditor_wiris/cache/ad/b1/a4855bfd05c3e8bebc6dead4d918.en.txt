@@ -1,0 +1,1 @@
+{"result":{"text":"i equals I subscript o c straight o straight s left parenthesis omega t plus phi right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript A N end subscript superscript 2 end superscript divided by left parenthesis R plus r right parenthesis"},"status":"ok"}

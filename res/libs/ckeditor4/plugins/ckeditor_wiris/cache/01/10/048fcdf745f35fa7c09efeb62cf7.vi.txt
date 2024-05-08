@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 equals 5 A space rightwards double arrow I equals 2 comma 5 square root of 2 A"},"status":"ok"}

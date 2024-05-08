@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 100 to the power of 2 end exponent equals 200 to the power of 2 end exponent plus 3.100 to the power of 2 end exponent minus 200 square root of 3. U subscript L end subscript"},"status":"ok"}

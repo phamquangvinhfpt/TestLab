@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals R. I squared. t"},"status":"ok"}

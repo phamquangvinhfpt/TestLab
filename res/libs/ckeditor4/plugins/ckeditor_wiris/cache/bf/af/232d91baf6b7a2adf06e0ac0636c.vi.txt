@@ -1,0 +1,1 @@
+{"result":{"text":"R equals fraction numerator m. v over denominator open vertical bar q close vertical bar B end fraction"},"status":"ok"}

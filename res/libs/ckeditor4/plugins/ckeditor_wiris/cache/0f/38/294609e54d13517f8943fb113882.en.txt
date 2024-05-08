@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals fraction numerator straight u over denominator straight U end fraction equals fraction numerator 100 square root of 2 over denominator 200 square root of 2 end fraction"},"status":"ok"}

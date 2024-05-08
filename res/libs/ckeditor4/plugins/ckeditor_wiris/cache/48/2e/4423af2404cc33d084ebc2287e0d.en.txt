@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals A sin omega t space equals A cos open parentheses omega t minus pi over 2 close parentheses"},"status":"ok"}

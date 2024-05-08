@@ -1,0 +1,1 @@
+{"result":{"text":"10916 pi"},"status":"ok"}

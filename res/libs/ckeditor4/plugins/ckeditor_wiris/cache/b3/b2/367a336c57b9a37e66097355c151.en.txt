@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator i subscript 2 over denominator i subscript 1 end fraction equals fraction numerator 1 comma 6 over denominator 2 comma 4 end fraction equals 2 over 3"},"status":"ok"}

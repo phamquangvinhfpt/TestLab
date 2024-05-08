@@ -1,0 +1,1 @@
+{"result":{"text":"straight D subscript straight t end subscript minus straight D subscript straight d end subscript equals 2 comma 3 4 to the power of 0 end exponent."},"status":"ok"}

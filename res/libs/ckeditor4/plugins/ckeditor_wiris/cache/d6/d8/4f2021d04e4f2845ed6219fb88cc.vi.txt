@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript u space equals phi space plus phi subscript i space space semicolon space space v ớ i space tan phi equals 1 rightwards double arrow phi equals pi over 4 rightwards double arrow phi subscript u equals pi over 3 r a d"},"status":"ok"}

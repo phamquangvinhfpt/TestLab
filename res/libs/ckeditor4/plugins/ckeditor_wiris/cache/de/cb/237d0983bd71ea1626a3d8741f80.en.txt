@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript $ square root of 3 $ end subscript"},"status":"ok"}

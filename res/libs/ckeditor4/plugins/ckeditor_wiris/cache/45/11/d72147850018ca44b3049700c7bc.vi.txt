@@ -1,0 +1,1 @@
+{"result":{"text":"sin i subscript g h end subscript equals fraction numerator 1 over denominator square root of 2 end fraction rightwards double arrow i subscript g h end subscript equals 45 to the power of 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"stack straight M subscript 1 end subscript straight M subscript 2 end subscript with hat on top"},"status":"ok"}

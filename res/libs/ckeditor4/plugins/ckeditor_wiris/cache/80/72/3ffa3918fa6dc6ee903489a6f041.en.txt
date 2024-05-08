@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow B equals fraction numerator E over denominator E subscript 0 end subscript end fraction B subscript 0 end subscript equals 0 comma 072 left parenthesis T right parenthesis"},"status":"ok"}

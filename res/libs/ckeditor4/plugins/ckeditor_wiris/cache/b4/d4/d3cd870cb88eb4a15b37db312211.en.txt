@@ -1,0 +1,1 @@
+{"result":{"text":"I equals P over S open parentheses W divided by m squared close parentheses"},"status":"ok"}

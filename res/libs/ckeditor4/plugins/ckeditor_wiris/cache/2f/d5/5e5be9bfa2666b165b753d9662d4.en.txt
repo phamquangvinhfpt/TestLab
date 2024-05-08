@@ -1,0 +1,1 @@
+{"result":{"text":"A equals square root of A subscript 1 superscript 2 plus A subscript 2 superscript 2 end root equals square root of 3 squared plus 4 squared end root equals 5 space of 0.167em space of 0.167em c m."},"status":"ok"}

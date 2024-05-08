@@ -1,0 +1,1 @@
+{"result":{"text":"f tilde operator fraction numerator 1 over denominator square root of l end fraction"},"status":"ok"}

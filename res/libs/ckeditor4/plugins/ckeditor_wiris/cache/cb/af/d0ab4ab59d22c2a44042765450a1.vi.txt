@@ -1,0 +1,1 @@
+{"result":{"text":"e equals negative capital phi to the power of apostrophe equals"},"status":"ok"}

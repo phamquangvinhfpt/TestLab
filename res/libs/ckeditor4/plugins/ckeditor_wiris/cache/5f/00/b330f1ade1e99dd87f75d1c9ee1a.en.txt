@@ -1,0 +1,1 @@
+{"result":{"text":"k fraction numerator not stretchy vertical line q subscript 1 q subscript 2 not stretchy vertical line over denominator epsilon. r squared end fraction"},"status":"ok"}

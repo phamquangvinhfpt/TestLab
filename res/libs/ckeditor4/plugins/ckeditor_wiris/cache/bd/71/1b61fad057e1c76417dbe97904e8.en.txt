@@ -1,0 +1,1 @@
+{"result":{"text":"T over 3 equals fraction numerator 1 over denominator 4.3 end fraction equals fraction numerator 1 over denominator 12 end fraction s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 0 equals 0"},"status":"ok"}

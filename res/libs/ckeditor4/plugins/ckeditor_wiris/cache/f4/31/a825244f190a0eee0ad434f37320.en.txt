@@ -1,0 +1,1 @@
+{"result":{"text":"equals 7 V â n s á n g t h ứ 7 c ủ a b ứ c x ạ"},"status":"ok"}

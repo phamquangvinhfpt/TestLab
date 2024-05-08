@@ -1,0 +1,1 @@
+{"result":{"text":"straight v greater or equal than fraction numerator pi over denominator 4 end fraction straight v subscript straight t straight b end subscript"},"status":"ok"}

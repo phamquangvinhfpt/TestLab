@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals phi subscript u end subscript minus phi subscript i end subscript equals pi over 4"},"status":"ok"}

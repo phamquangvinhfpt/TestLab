@@ -1,0 +1,1 @@
+{"result":{"text":"K subscript X subscript 1 end subscript superscript 2 equals 4 K subscript X subscript 2 end subscript superscript 2 open parentheses 1 close parentheses space V ì space v subscript 1 equals 2 v subscript 2"},"status":"ok"}

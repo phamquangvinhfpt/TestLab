@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript 0 end subscript equals 12 left parenthesis V right parenthesis comma"},"status":"ok"}

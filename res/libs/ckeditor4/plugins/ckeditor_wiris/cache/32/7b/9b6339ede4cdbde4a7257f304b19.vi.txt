@@ -1,0 +1,1 @@
+{"result":{"text":"N equals open vertical bar q over e close vertical bar equals 2000"},"status":"ok"}

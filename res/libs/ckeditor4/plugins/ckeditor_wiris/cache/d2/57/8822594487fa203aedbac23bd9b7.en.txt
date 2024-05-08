@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 mu m less or equal than lambda subscript 2 end subscript less or equal than 0 comma 65 mu m"},"status":"ok"}

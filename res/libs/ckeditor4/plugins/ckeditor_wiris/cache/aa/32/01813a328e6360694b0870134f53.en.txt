@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript x equals 2 straight capital omega semicolon space P subscript x equals 3 W"},"status":"ok"}

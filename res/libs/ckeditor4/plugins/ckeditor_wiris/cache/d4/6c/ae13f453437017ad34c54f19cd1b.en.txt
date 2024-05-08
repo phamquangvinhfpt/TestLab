@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals c over f equals fraction numerator 3.10 to the power of 8 end exponent over denominator 10.10 to the power of 6 end exponent end fraction equals 30 m"},"status":"ok"}

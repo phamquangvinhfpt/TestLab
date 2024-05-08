@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow m equals 2 comma 3 not stretchy rightwards double arrow lambda subscript 1 end subscript equals 27 over 70 left parenthesis mu m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

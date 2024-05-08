@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript min end subscript minus A O equals 0 comma 5 lambda"},"status":"ok"}

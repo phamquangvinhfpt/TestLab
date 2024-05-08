@@ -1,0 +1,1 @@
+{"result":{"text":"n equals fraction numerator 6 comma 366.10 to the power of negative 3 end exponent over denominator 1 comma 6.10 to the power of negative 19 end exponent end fraction almost equal to 3 comma 98.10 to the power of 16 end exponent"},"status":"ok"}

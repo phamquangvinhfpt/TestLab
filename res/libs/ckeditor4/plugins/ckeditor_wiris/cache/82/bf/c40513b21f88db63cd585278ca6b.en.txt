@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 pi over denominator straight T end fraction"},"status":"ok"}

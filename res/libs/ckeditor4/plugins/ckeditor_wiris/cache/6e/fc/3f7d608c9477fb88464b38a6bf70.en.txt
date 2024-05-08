@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis U subscript R end subscript equals max right parenthesis colon omega subscript R end subscript equals square root of fraction numerator 1 over denominator L C end fraction end root"},"status":"ok"}

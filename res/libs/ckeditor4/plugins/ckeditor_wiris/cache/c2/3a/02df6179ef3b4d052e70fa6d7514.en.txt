@@ -1,0 +1,1 @@
+{"result":{"text":"h a y fraction numerator lambda subscript o 1 end subscript over denominator lambda subscript o 2 end subscript end fraction equals fraction numerator A subscript 2 over denominator A subscript 1 end fraction"},"status":"ok"}

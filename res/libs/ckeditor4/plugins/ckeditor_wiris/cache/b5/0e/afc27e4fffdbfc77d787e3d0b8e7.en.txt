@@ -1,0 +1,1 @@
+{"result":{"text":"T to the power of prime equals T over 2 not stretchy rightwards double arrow T equals 2 T to the power of prime equals 2.0 comma 5 equals 1 left parenthesis s right parenthesis"},"status":"ok"}

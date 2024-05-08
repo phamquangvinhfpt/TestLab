@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript m minus E subscript n equals h f => f equals fraction numerator E subscript m minus E subscript n over denominator h end fraction"},"status":"ok"}

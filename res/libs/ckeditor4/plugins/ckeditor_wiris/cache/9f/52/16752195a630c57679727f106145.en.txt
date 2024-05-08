@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals left parenthesis k pi plus pi over 2 right parenthesis comma k equals 0 comma plus-or-minus 1 comma..."},"status":"ok"}

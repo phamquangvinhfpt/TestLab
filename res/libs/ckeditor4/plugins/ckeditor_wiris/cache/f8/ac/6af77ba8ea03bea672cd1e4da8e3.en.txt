@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 38 less or equal than lambda equals fraction numerator 2 comma 28 over denominator k end fraction less or equal than 0 comma 76 not stretchy rightwards double arrow 3 less or equal than k less or equal than 6 not stretchy rightwards double arrow k equals 4 semicolon 5 semicolon 6"},"status":"ok"}

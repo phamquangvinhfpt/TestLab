@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t << T"},"status":"ok"}

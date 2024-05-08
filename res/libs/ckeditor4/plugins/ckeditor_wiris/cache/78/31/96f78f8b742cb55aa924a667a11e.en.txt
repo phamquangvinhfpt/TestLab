@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow alpha subscript T end subscript equals fraction numerator 2 comma 6.10 to the power of negative 3 end exponent over denominator 50 end fraction equals 52.10 to the power of negative 6 end exponent left parenthesis V divided by K right parenthesis"},"status":"ok"}

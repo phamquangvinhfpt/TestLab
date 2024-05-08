@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 1 close parentheses space v à space open parentheses 2 close parentheses space rightwards double arrow fraction numerator K subscript alpha over denominator capital delta E end fraction.100 percent sign equals ?"},"status":"ok"}

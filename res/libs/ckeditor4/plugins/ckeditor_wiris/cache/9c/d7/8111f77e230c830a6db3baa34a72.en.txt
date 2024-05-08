@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 straight T equals fraction numerator pi over denominator omega end fraction"},"status":"ok"}

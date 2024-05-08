@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 1 end subscript equals 50 square root of 2"},"status":"ok"}

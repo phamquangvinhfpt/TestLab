@@ -1,0 +1,1 @@
+{"result":{"text":"W equals fraction numerator m g S squared subscript 0 over denominator 2. l end fraction"},"status":"ok"}

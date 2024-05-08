@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals 0 not stretchy left parenthesis straight s not stretchy right parenthesis"},"status":"ok"}

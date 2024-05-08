@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript i 1 end subscript"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"T a c ó colon 600 less or equal than"},"status":"ok"}

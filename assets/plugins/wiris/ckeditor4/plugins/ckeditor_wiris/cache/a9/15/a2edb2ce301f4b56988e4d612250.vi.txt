@@ -1,0 +1,1 @@
+{"result":{"text":"m squared open parentheses x to the power of 4 minus 1 close parentheses plus m open parentheses x squared minus 1 close parentheses minus 6 open parentheses x minus 1 close parentheses greater or equal than 0"},"status":"ok"}

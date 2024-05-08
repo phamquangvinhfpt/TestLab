@@ -1,0 +1,1 @@
+{"result":{"text":"T space of 0.167em equals space of 0.167em square root of T subscript 1 superscript 2 space of 0.167em plus space of 0.167em T subscript 2 superscript 2 end root space of 0.167em equals space of 0.167em 1 space of 0.167em left parenthesis s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"omega subscript 0 end subscript equals square root of k over m end root equals square root of fraction numerator 100 over denominator 0 comma 25 end fraction end root equals 20 left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

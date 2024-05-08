@@ -1,0 +1,1 @@
+{"result":{"text":"e equals 0 comma 6 pi cos invisible function application 60 pi t"},"status":"ok"}

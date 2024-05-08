@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals square root of R squared plus not stretchy left parenthesis Z subscript L minus Z subscript C not stretchy right parenthesis squared end root"},"status":"ok"}

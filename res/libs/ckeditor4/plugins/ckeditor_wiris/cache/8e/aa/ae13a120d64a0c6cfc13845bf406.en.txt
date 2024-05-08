@@ -1,0 +1,1 @@
+{"result":{"text":"R plus fraction numerator r to the power of 2 end exponent over denominator R end fraction greater or equal than 2 r"},"status":"ok"}

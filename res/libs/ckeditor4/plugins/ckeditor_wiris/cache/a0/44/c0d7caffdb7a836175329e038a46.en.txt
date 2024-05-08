@@ -1,0 +1,1 @@
+{"result":{"text":"1 fourth square root of fraction numerator K subscript P over denominator K subscript alpha end fraction end root"},"status":"ok"}

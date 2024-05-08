@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals fraction numerator 2.10 squared over denominator pi end fraction cos invisible function application left parenthesis 100 pi t plus pi over 4 right parenthesis W b"},"status":"ok"}

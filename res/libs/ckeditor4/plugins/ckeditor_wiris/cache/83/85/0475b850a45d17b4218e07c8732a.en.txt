@@ -1,0 +1,1 @@
+{"result":{"text":"4 comma 22.10 to the power of negative 6 end exponent e l e c t r o n"},"status":"ok"}

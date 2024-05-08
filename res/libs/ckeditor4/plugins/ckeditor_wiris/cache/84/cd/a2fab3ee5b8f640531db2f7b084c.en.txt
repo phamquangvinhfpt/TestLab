@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript Z to the power of divided by end exponent end subscript superscript A to the power of divided by end exponent end superscript Y"},"status":"ok"}

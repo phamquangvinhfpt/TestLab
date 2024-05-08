@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator lambda left parenthesis D minus straight capital delta D right parenthesis over denominator a end fraction equals i"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"B less or equal than 4.10 to the power of negative 7 end exponent.1 over d"},"status":"ok"}

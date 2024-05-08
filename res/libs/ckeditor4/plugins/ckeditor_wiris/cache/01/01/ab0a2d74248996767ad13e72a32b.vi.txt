@@ -1,0 +1,1 @@
+{"result":{"text":"v equals 20 pi space c m divided by s"},"status":"ok"}

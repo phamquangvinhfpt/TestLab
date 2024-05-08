@@ -1,0 +1,1 @@
+{"result":{"text":"m equals fraction numerator m subscript 0 over denominator square root of 1 minus begin display style v squared over c squared end style end root end fraction equals ?"},"status":"ok"}

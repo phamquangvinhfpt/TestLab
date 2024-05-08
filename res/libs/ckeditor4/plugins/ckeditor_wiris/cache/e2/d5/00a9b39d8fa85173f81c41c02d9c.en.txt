@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals v over f equals fraction numerator 300 over denominator 5 end fraction equals 60 c m"},"status":"ok"}

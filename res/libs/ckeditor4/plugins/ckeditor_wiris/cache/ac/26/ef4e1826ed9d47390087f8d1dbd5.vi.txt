@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript min equals M O equals 0 comma 5 lambda"},"status":"ok"}

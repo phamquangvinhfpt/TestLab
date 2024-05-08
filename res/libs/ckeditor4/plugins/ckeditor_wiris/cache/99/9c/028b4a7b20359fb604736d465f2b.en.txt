@@ -1,0 +1,1 @@
+{"result":{"text":"E with rightwards arrow on top straight perpendicular B with rightwards arrow on top straight perpendicular c with rightwards arrow on top"},"status":"ok"}

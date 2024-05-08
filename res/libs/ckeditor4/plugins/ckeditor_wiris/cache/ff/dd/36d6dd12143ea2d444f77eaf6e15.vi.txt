@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell V subscript M minus V subscript N equals 100 V end cell row cell V subscript M minus V subscript P equals 150 V end cell end table close rightwards double arrow V subscript N minus V subscript P equals 50 V\n\n"},"status":"ok"}

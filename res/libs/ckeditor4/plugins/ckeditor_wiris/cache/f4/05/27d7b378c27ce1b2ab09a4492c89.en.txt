@@ -1,0 +1,1 @@
+{"result":{"text":"∣ v subscript m a x end subscript ∣= omega A"},"status":"ok"}

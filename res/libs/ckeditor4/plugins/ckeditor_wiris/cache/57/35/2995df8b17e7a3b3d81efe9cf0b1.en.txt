@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 5 sin invisible function application not stretchy left parenthesis 5 pi t plus pi over 4 not stretchy right parenthesis"},"status":"ok"}

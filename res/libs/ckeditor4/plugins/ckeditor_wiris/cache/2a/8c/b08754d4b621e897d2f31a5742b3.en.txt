@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals 4 cos invisible function application not stretchy left parenthesis pi t minus pi over 3 not stretchy right parenthesis space of 0.167em space of 0.167em not stretchy left parenthesis c m not stretchy right parenthesis."},"status":"ok"}

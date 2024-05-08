@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 end subscript equals fraction numerator vertical line a subscript 1 end subscript vertical line over denominator omega to the power of 2 end exponent end fraction equals A over 2"},"status":"ok"}

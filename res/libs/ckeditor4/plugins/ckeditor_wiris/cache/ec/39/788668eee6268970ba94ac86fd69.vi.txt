@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript 1 equals 4 comma 5.10 to the power of 9 space n ă m comma space T subscript 2 equals 0 comma 713.10 to the power of 9 space n ă m"},"status":"ok"}

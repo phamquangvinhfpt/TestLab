@@ -1,0 +1,1 @@
+{"result":{"text":"g equals 10 space bevelled m over s squared"},"status":"ok"}

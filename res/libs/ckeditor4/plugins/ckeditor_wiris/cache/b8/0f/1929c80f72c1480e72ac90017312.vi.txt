@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 1 comma 2.10 to the power of negative 15 end exponent space A to the power of bevelled 1 third end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"A H less than 2 k less than A M"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals L. omega equals fraction numerator 0 comma 5 over denominator pi end fraction 100 pi equals 50 straight capital omega"},"status":"ok"}

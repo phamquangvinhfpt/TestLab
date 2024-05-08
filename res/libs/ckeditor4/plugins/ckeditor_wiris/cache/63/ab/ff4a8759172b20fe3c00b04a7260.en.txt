@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript A M end subscript superscript 2 end superscript divided by R"},"status":"ok"}

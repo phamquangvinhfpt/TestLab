@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript $ lambda square root of 7 $ end subscript"},"status":"ok"}

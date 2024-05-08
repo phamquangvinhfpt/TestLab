@@ -1,0 +1,1 @@
+{"result":{"text":"3.10 to the power of 8 open parentheses bevelled m over s close parentheses"},"status":"ok"}

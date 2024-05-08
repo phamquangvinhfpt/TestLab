@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript c equals space of 0.278em W subscript L space of 0.278em not stretchy rightwards double arrow for blank of space of 0.278em W equals space of 0.278em W subscript L plus space of 0.278em W subscript c equals 2 W L space of 0.278em space of 0.278em rightwards double arrow i"},"status":"ok"}

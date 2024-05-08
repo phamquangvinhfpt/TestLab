@@ -1,0 +1,1 @@
+{"result":{"text":"P equals m g equals 4 F"},"status":"ok"}

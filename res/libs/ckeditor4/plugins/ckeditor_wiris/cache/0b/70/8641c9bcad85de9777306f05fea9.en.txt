@@ -1,0 +1,1 @@
+{"result":{"text":"i equals fraction numerator straight capital delta S over denominator 21 minus 1 end fraction equals 2 straight m straight m"},"status":"ok"}

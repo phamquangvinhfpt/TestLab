@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator x subscript M over denominator i end fraction equals fraction numerator 3 comma 5 over denominator 1 end fraction equals 3 comma 5 equals 3 plus 1 half"},"status":"ok"}

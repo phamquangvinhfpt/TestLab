@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t subscript s end subscript equals 1 over 75 s"},"status":"ok"}

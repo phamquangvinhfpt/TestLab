@@ -1,0 +1,1 @@
+{"result":{"text":"2 comma 3.10 to the power of 17 open parentheses K g divided by m cubed close parentheses"},"status":"ok"}

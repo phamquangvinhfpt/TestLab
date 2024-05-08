@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow phi equals pi over 4 not stretchy rightwards double arrow"},"status":"ok"}

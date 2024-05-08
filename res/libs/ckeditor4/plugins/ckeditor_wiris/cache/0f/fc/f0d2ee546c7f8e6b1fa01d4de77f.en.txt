@@ -1,0 +1,1 @@
+{"result":{"text":"t equals fraction numerator blank to the power of pi end exponent divided by blank subscript 3 end subscript over denominator 2 pi end fraction T equals 1 over 6 0 comma 02 equals 1 over 300 s"},"status":"ok"}

@@ -1,0 +1,153 @@
+<!-- [ Main Content ] start -->
+<div class="pcoded-main-container">
+	<div class="pcoded-wrapper">
+		<div class="pcoded-content">
+			<div class="pcoded-inner-content">
+				<!-- [ breadcrumb ] start -->
+				<div class="page-header">
+					<div class="page-block">
+						<div class="row align-items-center">
+							<div class="col-md-12">
+								<div class="page-header-title">
+									<h5 class="m-b-10">Lớp học</h5>
+								</div>
+								<ul class="breadcrumb">
+									<li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+									<li class="breadcrumb-item"><a href="#!">Quản lý lớp học</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- [ breadcrumb ] end -->
+				<div class="main-body">
+					<div class="page-wrapper">
+						<!-- [ Main Content ] start -->
+						<div class="row">
+							<!-- [ Responsive table ] start -->
+							<div class="col-sm-12">
+								<div class="card">
+									<div class="card-header">
+										<h5>Quản lý lớp học</h5>
+										<a class="card-header-left" href="#add"><button type="button" class="btn btn-sm btn-icon btn-info"><i class="fas fa-plus"></i></button></a>
+										<div class="card-header-right">
+											<div class="btn-group card-option">
+												<button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+													<i class="feather icon-more-horizontal"></i>
+												</button>
+												<ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+													<li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> Phóng to</span><span style="display:none"><i class="feather icon-minimize"></i> Khôi phục</span></a></li>
+													<li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> Đóng lại</span><span style="display:none"><i class="feather icon-plus"></i> Mở ra</span></a></li>
+													<li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> Tải lại</a></li>
+													<li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> Xóa</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<div class="card-block">
+										<div class="table-responsive">
+											<table id="responsive-table-model" class="centered striped responsive-table" style="width:100%">
+												<thead>
+													<tr>
+														<th>ID</<th>
+														<th>Avatar</th>
+														<th>Giáo Viên</th>
+														<th>Tên Lớp</th>
+														<th>Khối</th>
+														<th><i class="fas fa-cogs"></i></th>
+														</tr>
+												</thead>
+												<tbody class="table-list" id="list_classes">
+												</tbody>
+											</table>
+										</div>
+										<div id="sp_ld" class="d-flex justify-content-center" style="padding-bottom: 30px;">
+											<div class="spinner-border" role="status">
+												<span class="sr-only">Loading...</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- [ Responsive table ] end -->
+							<!-- [ Admin list ] start -->
+							<!-- [ Admin list ] end -->
+							<div id="hd_modal">
+							</div>
+
+							<div id="add" class="col-xl-12 col-md-12">
+								<div class="card">
+									<div class="card-header">
+										<h5>Thêm Lớp</h5>
+										<div class="card-header-right">
+											<div class="btn-group card-option">
+												<button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+													<i class="feather icon-more-horizontal"></i>
+												</button>
+												<ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+													<li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> Phóng to</span><span style="display:none"><i class="feather icon-minimize"></i> Khôi phục</span></a></li>
+													<li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> Đóng lại</span><span style="display:none"><i class="feather icon-plus"></i> Mở ra</span></a></li>
+													<li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> Tải lại</a></li>
+													<li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> Xóa</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<form id="add_class_form" method="POST" role="form" action="">
+										<div class="card-block pb-0">
+											<div class="row">
+												<div class="col-md-6">
+													<div class="form-group">
+														<label>Tên lớp</label>
+														<input type="text" id="name" name="class_name" class="form-control" placeholder="Tên lớp (vd: 12A1)">
+													</div>
+												</div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Khối</label>
+                                <select class="form-control" name="grade_id">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Giáo viên</label>
+                                <select class="form-control" name="teacher_id">
+                                </select>
+                            </div>
+                        </div>
+											</div>
+											<button id="submit_class" type="submit" class="btn btn-primary">Submit</button>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+				<!-- [ Main Content ] end -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Required Js -->
+<script src="assets/js/vendor-all.min.js"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/pcoded.min.js"></script>
+<!-- datatable Js -->
+<script src="assets/plugins/data-tables/js/datatables.min.js"></script>
+<!-- jquery-validation Js -->
+<script src="assets/plugins/jquery-validation/js/jquery.validate.min.js"></script>
+<!-- notification Js -->
+<script src="assets/plugins/notification/js/bootstrap-growl.min.js"></script>
+<!-- custom js -->
+<script src="res/js/classes_panel.js"></script>
+<!-- sweet alert Js -->
+<script src="assets/plugins/sweetalert/js/sweetalert.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+  	$("[data-name=lop]").addClass("pcoded-trigger");
+	});
+</script>

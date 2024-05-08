@@ -1,0 +1,1 @@
+{"result":{"text":"pi over 3 minus left parenthesis negative pi over 12 right parenthesis equals fraction numerator 5 pi over denominator 12 end fraction"},"status":"ok"}

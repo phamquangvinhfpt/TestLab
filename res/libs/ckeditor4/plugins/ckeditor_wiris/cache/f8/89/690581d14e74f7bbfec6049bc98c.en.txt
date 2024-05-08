@@ -1,0 +1,1 @@
+{"result":{"text":"x equals n i subscript identical to end subscript equals 3 comma 6 n"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 2 equals 0 comma 3 pi equals fraction numerator 3 T over denominator 4 end fraction"},"status":"ok"}

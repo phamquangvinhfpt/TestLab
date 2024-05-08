@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals L. omega equals fraction numerator 1 over denominator 4 pi end fraction 120 pi equals 30 straight capital omega"},"status":"ok"}

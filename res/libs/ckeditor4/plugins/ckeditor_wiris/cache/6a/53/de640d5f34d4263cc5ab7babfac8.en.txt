@@ -1,0 +1,1 @@
+{"result":{"text":"e U subscript A K end subscript equals h f subscript max end subscript"},"status":"ok"}

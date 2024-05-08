@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript 1 end subscript superscript 1 end superscript H plus subscript 3 end subscript superscript 7 end superscript L i stack blank with rightwards arrow below and blank on top subscript 2 end subscript superscript 4 end superscript X plus subscript 2 end subscript superscript 4 end superscript X"},"status":"ok"}

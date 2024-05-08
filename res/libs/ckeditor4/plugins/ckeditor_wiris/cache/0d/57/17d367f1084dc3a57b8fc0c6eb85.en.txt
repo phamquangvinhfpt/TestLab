@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 1 equals T over 6 equals fraction numerator pi over denominator 15 end fraction => T equals 0 comma 4 pi not stretchy left parenthesis s not stretchy right parenthesis"},"status":"ok"}

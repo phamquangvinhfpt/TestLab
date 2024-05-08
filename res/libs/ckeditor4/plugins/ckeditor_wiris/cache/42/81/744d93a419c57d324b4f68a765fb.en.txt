@@ -1,0 +1,1 @@
+{"result":{"text":"T equals fraction numerator 2 pi over denominator omega end fraction equals fraction numerator 2 pi over denominator 2 pi end fraction equals 1 straight s"},"status":"ok"}

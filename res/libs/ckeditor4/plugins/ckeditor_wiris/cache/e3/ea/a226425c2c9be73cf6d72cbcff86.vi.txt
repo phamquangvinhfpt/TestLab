@@ -1,0 +1,1 @@
+{"result":{"text":"p subscript alpha superscript 2 equals p subscript n superscript 2 plus p subscript X superscript 2 space left right double arrow m subscript alpha. K subscript alpha equals m subscript n. K subscript n space plus space m subscript X. K subscript X"},"status":"ok"}

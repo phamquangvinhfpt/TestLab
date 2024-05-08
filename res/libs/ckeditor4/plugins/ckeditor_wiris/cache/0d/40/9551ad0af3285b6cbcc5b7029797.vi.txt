@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript 1 equals 18 comma space space N subscript 2 space equals 15 comma space N subscript 3 equals 12"},"status":"ok"}

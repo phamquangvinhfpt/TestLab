@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals straight A sin invisible function application not stretchy left parenthesis omega t minus fraction numerator 2 pi over denominator 3 end fraction not stretchy right parenthesis"},"status":"ok"}

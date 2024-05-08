@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator A B over denominator lambda end fraction less than k minus 0 comma 5 less than fraction numerator A B over denominator lambda end fraction not stretchy rightwards double arrow negative 7 comma 25 less than negative 0 comma 5 less than 7 comma 25 not stretchy rightwards double arrow k equals"},"status":"ok"}

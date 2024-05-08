@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow I subscript 0 end subscript superscript blank to the power of prime end superscript equals square root of 0 comma 68 end root I subscript 0 end subscript almost equal to 0 comma 82 I subscript 0 end subscript not stretchy rightwards double arrow"},"status":"ok"}

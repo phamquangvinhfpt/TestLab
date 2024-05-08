@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0 comma 64 over denominator 0 comma 48 end fraction"},"status":"ok"}

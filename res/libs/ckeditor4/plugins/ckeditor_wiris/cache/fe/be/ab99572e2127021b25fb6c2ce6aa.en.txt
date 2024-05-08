@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow k equals m omega to the power of 2 end exponent equals 0 comma 2. left parenthesis 4 pi right parenthesis to the power of 2 end exponent equals 32 N not stretchy rightwards double arrow A equals square root of fraction numerator 0 comma 08 over denominator 32 end fraction end root equals 5 c m"},"status":"ok"}

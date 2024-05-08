@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals omega. L equals 100 straight capital omega"},"status":"ok"}

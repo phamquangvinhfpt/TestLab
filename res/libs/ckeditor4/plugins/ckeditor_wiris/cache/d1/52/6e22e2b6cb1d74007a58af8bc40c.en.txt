@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow q equals 25 cos invisible function application left parenthesis 2000 t minus pi right parenthesis mu C"},"status":"ok"}

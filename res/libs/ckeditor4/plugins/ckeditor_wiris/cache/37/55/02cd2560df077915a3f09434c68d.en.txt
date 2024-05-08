@@ -1,0 +1,1 @@
+{"result":{"text":"R equals fraction numerator U subscript d end subscript superscript 2 end superscript over denominator P subscript d end subscript end fraction equals fraction numerator 220 to the power of 2 end exponent over denominator 200 end fraction equals 242 straight capital omega"},"status":"ok"}

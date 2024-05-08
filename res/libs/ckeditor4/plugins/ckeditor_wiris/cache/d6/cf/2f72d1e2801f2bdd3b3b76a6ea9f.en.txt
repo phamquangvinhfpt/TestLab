@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of ell over g end root equals 2 pi square root of fraction numerator 0 comma 64 over denominator pi squared end fraction equals end root 1 comma 6"},"status":"ok"}

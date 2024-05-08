@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 1 superscript prime equals fraction numerator d subscript 1 f over denominator d subscript 1 minus f end fraction equals fraction numerator 5.15 over denominator 5 minus 15 end fraction equals negative 7 comma 5 left parenthesis c m right parenthesis."},"status":"ok"}

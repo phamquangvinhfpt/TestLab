@@ -1,0 +1,1 @@
+{"result":{"text":"straight T equals 2 pi square root of straight L straight C end root equals 1 comma 885.10 to the power of negative 5 end exponent space of 0.278em left parenthesis straight s right parenthesis"},"status":"ok"}

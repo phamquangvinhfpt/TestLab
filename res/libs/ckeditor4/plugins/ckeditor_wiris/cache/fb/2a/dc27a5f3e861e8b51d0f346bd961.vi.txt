@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta m equals Z m subscript p plus A m subscript n space minus space m"},"status":"ok"}

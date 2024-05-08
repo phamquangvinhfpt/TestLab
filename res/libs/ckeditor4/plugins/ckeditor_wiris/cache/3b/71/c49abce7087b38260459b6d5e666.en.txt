@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 58 less or equal than lambda subscript 2 less or equal than 0 comma 76 not stretchy rightwards double arrow c h ọ n space k equals space 3 rightwards double arrow lambda equals 0 comma 75 mu straight m"},"status":"ok"}

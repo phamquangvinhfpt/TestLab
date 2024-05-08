@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator 1 over denominator 2 pi square root of L C end root end fraction equals fraction numerator 1 over denominator 2 pi square root of 2.10 to the power of negative 3 end exponent.8.10 to the power of negative 6 end exponent end root end fraction equals 1250 left parenthesis H z right parenthesis"},"status":"ok"}

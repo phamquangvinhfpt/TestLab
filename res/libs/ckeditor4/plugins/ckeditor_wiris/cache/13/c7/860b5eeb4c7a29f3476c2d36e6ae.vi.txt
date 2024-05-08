@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript 2 equals fraction numerator f subscript 1 over denominator 1 comma 2 end fraction equals 50 H z"},"status":"ok"}

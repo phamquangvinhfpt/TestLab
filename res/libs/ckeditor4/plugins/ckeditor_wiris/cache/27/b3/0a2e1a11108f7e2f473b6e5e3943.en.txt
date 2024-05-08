@@ -1,0 +1,1 @@
+{"result":{"text":"R equals fraction numerator U subscript n end subscript over denominator I subscript n end subscript end fraction equals 10 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"tan open parentheses negative pi over 3 close parentheses equals fraction numerator negative Z subscript C over denominator R end fraction rightwards double arrow f"},"status":"ok"}

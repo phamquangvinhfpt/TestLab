@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals square root of r squared plus Z subscript L superscript 2 end root equals U over I equals fraction numerator 9 over denominator 0 comma 3 end fraction equals 30 straight capital omega not stretchy rightwards double arrow Z subscript L equals 24 straight capital omega"},"status":"ok"}

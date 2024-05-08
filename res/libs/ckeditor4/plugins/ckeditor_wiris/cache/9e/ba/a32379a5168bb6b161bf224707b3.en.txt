@@ -1,0 +1,1 @@
+{"result":{"text":"text W end text subscript t h u end subscript equals left parenthesis straight capital delta m subscript t r u o c end subscript minus straight capital delta m subscript s a u end subscript right parenthesis c to the power of 2 end exponent"},"status":"ok"}

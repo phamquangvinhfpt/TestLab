@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L C end subscript equals square root of 0 to the power of 2 end exponent plus left parenthesis Z subscript L end subscript minus Z subscript C end subscript right parenthesis to the power of 2 end exponent end root equals 40 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

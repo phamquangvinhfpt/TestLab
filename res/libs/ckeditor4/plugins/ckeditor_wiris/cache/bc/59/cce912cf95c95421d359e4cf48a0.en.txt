@@ -1,0 +1,1 @@
+{"result":{"text":"10 to the power of negative phi end exponent equals 2. fraction numerator T over denominator 12 end fraction space of 0.278em stack not stretchy rightwards double arrow with blank below space of 0.278em T equals 6.10 to the power of negative phi end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"T over 4 plus T over 2 equals 0 comma 15 left parenthesis s right parenthesis not stretchy rightwards double arrow T equals 0 comma 2 left parenthesis s right parenthesis not stretchy rightwards double arrow omega equals 100 pi not stretchy left parenthesis r a d divided by s not stretchy right parenthesis"},"status":"ok"}

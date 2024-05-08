@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of – 6 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator a subscript max end subscript over denominator v subscript max end subscript end fraction equals 10 pi left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

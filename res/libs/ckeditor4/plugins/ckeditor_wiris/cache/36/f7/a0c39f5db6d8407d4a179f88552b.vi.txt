@@ -1,0 +1,1 @@
+{"result":{"text":"R equals U squared over P equals 30 straight capital omega"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 36 straight x subscript 2 end subscript straight v subscript 2 over denominator 64 straight x subscript 1 end fraction equals fraction numerator 36.4 square root of 3.8 square root of 3 over denominator 64. not stretchy left parenthesis plus-or-minus 3 not stretchy right parenthesis end fraction"},"status":"ok"}

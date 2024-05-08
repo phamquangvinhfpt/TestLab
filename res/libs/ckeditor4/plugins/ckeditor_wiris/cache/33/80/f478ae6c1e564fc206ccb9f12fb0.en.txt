@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript max end subscript colon R subscript 1 end subscript plus R equals r not stretchy rightwards double arrow R equals R subscript 1 end subscript minus r equals 2 straight capital omega"},"status":"ok"}

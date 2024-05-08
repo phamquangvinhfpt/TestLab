@@ -1,0 +1,1 @@
+{"result":{"text":"lambda space of 0.167em equals space of 0.167em v. T space of 0.167em equals space of 0.167em v over f"},"status":"ok"}

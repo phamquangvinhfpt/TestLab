@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta E subscript X comma space capital delta E subscript Y comma space capital delta E subscript Z space v ớ i space capital delta E subscript Z space less than space capital delta E subscript X space less than capital delta E subscript Y"},"status":"ok"}

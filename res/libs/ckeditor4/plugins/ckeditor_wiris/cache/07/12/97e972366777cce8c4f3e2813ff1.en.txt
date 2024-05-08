@@ -1,0 +1,1 @@
+{"result":{"text":"omega subscript 1 end subscript"},"status":"ok"}

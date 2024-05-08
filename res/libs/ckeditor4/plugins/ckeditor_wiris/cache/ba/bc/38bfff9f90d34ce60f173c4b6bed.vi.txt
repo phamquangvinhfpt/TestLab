@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript l k end subscript equals open square brackets open parentheses Z m subscript p plus open parentheses A minus Z close parentheses m subscript n close parentheses minus m subscript h n end subscript close square brackets x 931 space colon space A"},"status":"ok"}

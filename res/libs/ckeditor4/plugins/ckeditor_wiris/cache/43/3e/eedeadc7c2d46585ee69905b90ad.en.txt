@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow v equals square root of 2 g h end root equals 2"},"status":"ok"}

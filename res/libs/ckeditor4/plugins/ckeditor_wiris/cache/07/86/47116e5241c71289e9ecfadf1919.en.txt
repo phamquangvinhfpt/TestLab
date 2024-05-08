@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator C omega squared end fraction"},"status":"ok"}

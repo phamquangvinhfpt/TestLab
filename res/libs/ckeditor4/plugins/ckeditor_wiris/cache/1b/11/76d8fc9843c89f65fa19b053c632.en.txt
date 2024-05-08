@@ -1,0 +1,1 @@
+{"result":{"text":"D plus 3 straight capital delta D"},"status":"ok"}

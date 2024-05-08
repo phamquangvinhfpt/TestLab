@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript Đ greater than lambda subscript L greater than lambda subscript T"},"status":"ok"}

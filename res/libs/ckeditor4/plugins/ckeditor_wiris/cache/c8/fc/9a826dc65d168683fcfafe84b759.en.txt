@@ -1,0 +1,1 @@
+{"result":{"text":"k equals negative fraction numerator d to the power of divided by end exponent over denominator d end fraction equals negative fraction numerator 36 minus d over denominator d end fraction equals negative 2 not stretchy rightwards double arrow d equals ?"},"status":"ok"}

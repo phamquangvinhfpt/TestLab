@@ -1,0 +1,1 @@
+{"result":{"text":"e equals negative fraction numerator d straight capital phi over denominator d t end fraction equals 0 comma 6 pi. sin invisible function application left parenthesis 60 pi t plus pi over 6 right parenthesis equals 0 comma 6 pi cos invisible function application left parenthesis 60 pi t minus pi over 3 right parenthesis text W end text b"},"status":"ok"}

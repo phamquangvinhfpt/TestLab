@@ -1,0 +1,1 @@
+{"result":{"text":"straight f equals fraction numerator 2 pi over denominator omega end fraction equals fraction numerator 2 pi over denominator pi end fraction equals 2 straight H straight z"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 0 end subscript equals fraction numerator h c over denominator A end fraction equals fraction numerator 6 comma 625.10 to the power of negative 34 end exponent.3.10 to the power of 8 end exponent over denominator 3 comma 45.1 comma 6.10 to the power of negative 19 end exponent end fraction equals 0 comma 36 mu m"},"status":"ok"}

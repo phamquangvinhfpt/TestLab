@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals k subscript 2 fraction numerator lambda subscript 2. D over denominator a end fraction equals 5. fraction numerator 0 comma 6.10 to the power of negative 6 end exponent.2 over denominator 1 comma 5.10 to the power of negative 3 end exponent end fraction equals 4.10 to the power of negative 3 end exponent m equals 4 m m"},"status":"ok"}

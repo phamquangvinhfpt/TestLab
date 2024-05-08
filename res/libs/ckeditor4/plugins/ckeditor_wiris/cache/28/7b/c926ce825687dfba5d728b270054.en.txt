@@ -1,0 +1,1 @@
+{"result":{"text":"v equals fraction numerator v subscript max end subscript over denominator 2 end fraction equals fraction numerator omega A over denominator 2 end fraction"},"status":"ok"}

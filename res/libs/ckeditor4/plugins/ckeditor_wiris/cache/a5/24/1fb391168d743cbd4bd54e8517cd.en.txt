@@ -1,0 +1,1 @@
+{"result":{"text":"u equals U subscript 0 cos invisible function application left parenthesis omega t minus pi over 2 right parenthesis not stretchy rightwards double arrow i equals I subscript 0 cos invisible function application left parenthesis omega t minus pi over 4 right parenthesis not stretchy rightwards double arrow R equals Z subscript C"},"status":"ok"}

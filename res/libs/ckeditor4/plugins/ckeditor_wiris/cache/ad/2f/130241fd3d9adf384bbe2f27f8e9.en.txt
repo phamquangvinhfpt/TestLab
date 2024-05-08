@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of 9 end exponent"},"status":"ok"}

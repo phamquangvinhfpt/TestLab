@@ -1,0 +1,1 @@
+{"result":{"text":"l equals k lambda over 2 equals k fraction numerator v over denominator 2 f end fraction rightwards double arrow k equals fraction numerator 2. l. f over denominator v end fraction equals 4"},"status":"ok"}

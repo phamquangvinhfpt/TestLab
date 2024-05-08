@@ -1,0 +1,1 @@
+{"result":{"text":"4 q subscript 1 superscript 2 plus q subscript 2 superscript 2 equals 1 comma 3.10 to the power of negative 17 end exponent"},"status":"ok"}

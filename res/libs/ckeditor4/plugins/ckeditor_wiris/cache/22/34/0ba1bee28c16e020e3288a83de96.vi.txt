@@ -1,0 +1,1 @@
+{"result":{"text":"A equals square root of A subscript 1 superscript 2 plus A subscript 2 superscript 2 end root equals 3 square root of 2 space c m space rightwards double arrow v subscript m a x end subscript equals omega. A space equals ?"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x equals A cos invisible function application not stretchy left parenthesis omega t plus 0 comma 5 pi not stretchy right parenthesis not stretchy left parenthesis c m not stretchy right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text U end text subscript text cd end text end subscript text =  end text text U end text subscript text C end text end subscript square root of text 2 end text end root"},"status":"ok"}

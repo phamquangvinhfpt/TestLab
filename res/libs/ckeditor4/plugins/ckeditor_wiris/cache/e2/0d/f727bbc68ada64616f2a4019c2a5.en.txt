@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 100 squared minus not stretchy left parenthesis 120 minus 60 not stretchy right parenthesis squared end root equals 80 V"},"status":"ok"}

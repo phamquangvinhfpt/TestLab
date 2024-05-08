@@ -1,0 +1,1 @@
+{"result":{"text":"q subscript 1 equals negative q subscript 2 equals q subscript 3 equals q greater than 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"8 q subscript 1 end subscript i subscript 1 end subscript plus 2 q subscript 2 end subscript i subscript 2 end subscript equals 0 left parenthesis 2 right parenthesis"},"status":"ok"}

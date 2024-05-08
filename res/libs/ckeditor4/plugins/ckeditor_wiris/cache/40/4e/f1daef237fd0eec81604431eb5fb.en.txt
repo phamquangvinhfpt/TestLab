@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 1 over f equals 1 over 50"},"status":"ok"}

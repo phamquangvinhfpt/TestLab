@@ -1,0 +1,1 @@
+{"result":{"text":"2 over 3 minus 1 third equals 1 third left parenthesis s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 4 cos open parentheses 10 t plus pi over 6 close parentheses c m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"space a equals v squared over R comma space v ớ i space R equals A"},"status":"ok"}

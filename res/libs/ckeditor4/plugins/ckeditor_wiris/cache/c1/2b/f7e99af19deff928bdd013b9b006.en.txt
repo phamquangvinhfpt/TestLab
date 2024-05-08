@@ -1,0 +1,1 @@
+{"result":{"text":"e equals N B S omega cos invisible function application left parenthesis omega t plus phi right parenthesis"},"status":"ok"}

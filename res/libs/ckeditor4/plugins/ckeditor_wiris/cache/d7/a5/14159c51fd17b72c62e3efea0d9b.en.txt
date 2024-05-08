@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals square root of R squared plus Z subscript L superscript 2 end root equals 50 square root of 2 straight capital omega"},"status":"ok"}

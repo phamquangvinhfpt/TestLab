@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 16 space of 0.278em p F"},"status":"ok"}

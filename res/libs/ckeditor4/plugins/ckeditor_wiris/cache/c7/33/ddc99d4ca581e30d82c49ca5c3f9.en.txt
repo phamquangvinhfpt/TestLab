@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator h. c over denominator lambda subscript straight infinity 1 end subscript end fraction equals E subscript straight infinity minus E subscript 1"},"status":"ok"}

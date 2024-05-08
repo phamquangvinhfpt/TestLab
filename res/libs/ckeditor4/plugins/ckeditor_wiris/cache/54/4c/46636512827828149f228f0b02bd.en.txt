@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript A B end subscript superscript 2 end superscript equals U subscript R L end subscript superscript 2 end superscript plus U to the power of 2 end exponent plus 2 U subscript R L end subscript U cos invisible function application left parenthesis phi minus phi subscript R L end subscript right parenthesis"},"status":"ok"}

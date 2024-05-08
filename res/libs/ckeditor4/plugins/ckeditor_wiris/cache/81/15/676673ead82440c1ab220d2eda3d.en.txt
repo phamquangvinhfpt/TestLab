@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 0 equals I subscript 0. Z equals 2.100 square root of 2 equals 200 square root of 2 V"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator f subscript 1 end subscript over denominator f subscript 2 end subscript end fraction equals 21 over 35 equals 3 over 5"},"status":"ok"}

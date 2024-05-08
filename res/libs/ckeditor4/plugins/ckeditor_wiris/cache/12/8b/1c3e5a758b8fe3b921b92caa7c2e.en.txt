@@ -1,0 +1,1 @@
+{"result":{"text":"A squared equals x squared plus fraction numerator v squared over denominator omega squared end fraction equals 2 x squared not stretchy rightwards double arrow x equals plus-or-minus fraction numerator A over denominator square root of 2 end fraction"},"status":"ok"}

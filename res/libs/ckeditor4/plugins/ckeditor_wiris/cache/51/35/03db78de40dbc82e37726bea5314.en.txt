@@ -1,0 +1,1 @@
+{"result":{"text":"13 plus 15 minus 3 equals 25 not stretchy rightwards double arrow"},"status":"ok"}

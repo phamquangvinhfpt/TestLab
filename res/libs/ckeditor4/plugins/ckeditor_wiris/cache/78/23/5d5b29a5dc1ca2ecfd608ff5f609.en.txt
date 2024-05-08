@@ -1,0 +1,1 @@
+{"result":{"text":"L equals 10 log invisible function application left parenthesis fraction numerator I subscript 0 end subscript over denominator I end fraction right parenthesis left parenthesis d B right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"F. O N equals P. H N not stretchy left right double arrow B I ell ell over 2 equals m g ell over 2 sin invisible function application alpha"},"status":"ok"}

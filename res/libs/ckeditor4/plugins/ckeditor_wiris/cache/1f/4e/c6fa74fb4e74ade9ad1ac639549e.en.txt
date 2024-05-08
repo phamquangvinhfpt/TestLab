@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript n equals fraction numerator E subscript 0 over denominator n squared end fraction"},"status":"ok"}

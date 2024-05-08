@@ -1,0 +1,1 @@
+{"result":{"text":"square root of A squared minus x squared end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"stack blank with rightwards arrow below and negative 2 comma 25 less or equal than x less or equal than 6 comma 75 blank on top minus 2 less or equal than n less or equal than 4 not stretchy rightwards double arrow n not stretchy =⇒"},"status":"ok"}

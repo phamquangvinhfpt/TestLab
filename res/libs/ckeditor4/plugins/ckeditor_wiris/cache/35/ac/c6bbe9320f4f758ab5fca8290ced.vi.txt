@@ -1,0 +1,1 @@
+{"result":{"text":"v squared over omega to the power of 4 space of 0.278em plus space of 0.278em a squared over omega squared plus open curly brackets f d g f d g close curly brackets"},"status":"ok"}

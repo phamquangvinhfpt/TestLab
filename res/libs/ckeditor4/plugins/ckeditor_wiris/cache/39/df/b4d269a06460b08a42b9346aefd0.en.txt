@@ -1,0 +1,1 @@
+{"result":{"text":"W equals space of 0.278em W subscript C plus space of 0.278em W subscript L equals space of 0.278em 3 W subscript L plus space of 0.278em W subscript L equals 4 W subscript L"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v equals lambda over T equals fraction numerator 12 over denominator 0 comma 1 end fraction equals 120 c m divided by s equals 1 comma 2 m divided by s"},"status":"ok"}

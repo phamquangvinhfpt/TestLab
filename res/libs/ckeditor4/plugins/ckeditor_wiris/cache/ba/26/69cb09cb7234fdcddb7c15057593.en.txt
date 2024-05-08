@@ -1,0 +1,1 @@
+{"result":{"text":"P equals fraction numerator E to the power of 2 end exponent over denominator R plus r end fraction equals 9 over 2 equals 4 comma 5 W"},"status":"ok"}

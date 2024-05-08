@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon equals W subscript l k end subscript over A equals fraction numerator capital delta m. c squared over denominator A end fraction equals ?"},"status":"ok"}

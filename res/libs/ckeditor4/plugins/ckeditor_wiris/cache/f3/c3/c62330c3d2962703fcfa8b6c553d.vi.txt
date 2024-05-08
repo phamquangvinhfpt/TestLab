@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript R n end subscript over m subscript alpha equals K subscript alpha over K subscript R n end subscript"},"status":"ok"}

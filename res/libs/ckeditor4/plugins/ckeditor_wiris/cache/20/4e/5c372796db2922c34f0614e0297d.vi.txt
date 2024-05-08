@@ -1,0 +1,1 @@
+{"result":{"text":"capital phi equals B. S. cos alpha equals B. a squared. cos alpha rightwards double arrow alpha"},"status":"ok"}

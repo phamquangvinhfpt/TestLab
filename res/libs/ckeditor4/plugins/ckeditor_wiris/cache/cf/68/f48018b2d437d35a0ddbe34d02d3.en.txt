@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript s equals 6 plus 1 equals 7"},"status":"ok"}

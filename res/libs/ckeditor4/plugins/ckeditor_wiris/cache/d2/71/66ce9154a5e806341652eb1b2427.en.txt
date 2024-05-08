@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 over denominator 6 end fraction straight s"},"status":"ok"}

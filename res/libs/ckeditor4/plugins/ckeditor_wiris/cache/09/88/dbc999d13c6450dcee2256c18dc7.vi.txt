@@ -1,0 +1,1 @@
+{"result":{"text":"x over i equals 3 space plus space 1 half"},"status":"ok"}

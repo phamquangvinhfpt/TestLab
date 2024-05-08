@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0 comma 05 over denominator pi end fraction H"},"status":"ok"}

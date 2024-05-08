@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 5 square root of 2 cos invisible function application 100 pi t space of 0.167em left parenthesis A right parenthesis"},"status":"ok"}

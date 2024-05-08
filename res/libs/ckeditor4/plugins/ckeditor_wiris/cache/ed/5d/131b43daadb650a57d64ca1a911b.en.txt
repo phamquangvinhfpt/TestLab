@@ -1,0 +1,1 @@
+{"result":{"text":"u space of 0.167em equals space of 0.167em 141 cos invisible function application left parenthesis 100 pi t right parenthesis space of 0.167em V"},"status":"ok"}

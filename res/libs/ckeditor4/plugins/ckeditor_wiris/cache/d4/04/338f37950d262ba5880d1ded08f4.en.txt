@@ -1,0 +1,1 @@
+{"result":{"text":"e equals space of 0.167em 200 sin invisible function application left parenthesis 100 pi t minus pi over 3 right parenthesis not stretchy right parenthesis not stretchy left parenthesis V not stretchy right parenthesis."},"status":"ok"}

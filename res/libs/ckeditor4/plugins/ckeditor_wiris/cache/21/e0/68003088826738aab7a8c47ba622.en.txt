@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript t 5 end subscript space of 0.167em equals space of 0.167em left parenthesis k space of 0.167em plus space of 0.167em 1 half right parenthesis fraction numerator lambda subscript 1 D over denominator a end fraction space of 0.167em equals space of 0.167em 9 comma 45 space of 0.167em m m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t to the power of prime equals 4 straight capital delta t equals 4. left parenthesis 1 comma 5.10 to the power of negative 4 end exponent right parenthesis equals 6.10 to the power of negative 4 end exponent"},"status":"ok"}

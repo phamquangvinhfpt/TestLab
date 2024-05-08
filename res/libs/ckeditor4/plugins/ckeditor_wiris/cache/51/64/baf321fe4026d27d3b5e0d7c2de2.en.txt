@@ -1,0 +1,1 @@
+{"result":{"text":"rho equals rho subscript 0 open parentheses 1 plus alpha. t close parentheses"},"status":"ok"}

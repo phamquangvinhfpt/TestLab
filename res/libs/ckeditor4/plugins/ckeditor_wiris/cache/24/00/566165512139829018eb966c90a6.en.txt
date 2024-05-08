@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals not stretchy left parenthesis omega t plus pi over 3 not stretchy right parenthesis minus not stretchy left parenthesis omega t minus fraction numerator 2 pi over denominator 3 end fraction not stretchy right parenthesis equals pi"},"status":"ok"}

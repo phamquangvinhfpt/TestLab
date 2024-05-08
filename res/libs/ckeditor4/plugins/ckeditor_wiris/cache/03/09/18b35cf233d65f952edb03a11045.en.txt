@@ -1,0 +1,1 @@
+{"result":{"text":"A c o s not stretchy left parenthesis straight capital pi divided by 4 not stretchy right parenthesis equals A divided by square root of 2"},"status":"ok"}

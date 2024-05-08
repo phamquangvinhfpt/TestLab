@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript t equals left square bracket fraction numerator M N minus 0 comma 5 i over denominator i end fraction right square bracket plus 1 equals left square bracket fraction numerator 18 comma 2 over denominator 0 comma 5 end fraction minus 0 comma 5 right square bracket plus 1 equals 36"},"status":"ok"}

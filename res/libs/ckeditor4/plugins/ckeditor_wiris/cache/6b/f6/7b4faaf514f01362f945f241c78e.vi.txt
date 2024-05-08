@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript t equals W subscript d space h a y space W subscript t equals 1 divided by 2 W not stretchy rightwards double arrow alpha equals plus-or-minus alpha subscript 0 divided by square root of 2"},"status":"ok"}

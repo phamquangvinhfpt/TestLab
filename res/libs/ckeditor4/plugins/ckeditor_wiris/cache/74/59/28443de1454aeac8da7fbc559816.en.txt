@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight t subscript straight M straight a straight x end subscript over denominator straight t subscript straight m straight i straight n end subscript end fraction"},"status":"ok"}

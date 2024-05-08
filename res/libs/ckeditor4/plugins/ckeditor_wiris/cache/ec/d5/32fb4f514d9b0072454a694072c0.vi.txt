@@ -1,0 +1,1 @@
+{"result":{"text":"C equals fraction numerator 10 to the power of negative 3 end exponent over denominator 4 pi end fraction F"},"status":"ok"}

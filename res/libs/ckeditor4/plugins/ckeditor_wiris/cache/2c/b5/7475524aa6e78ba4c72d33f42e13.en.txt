@@ -1,0 +1,1 @@
+{"result":{"text":"f equals fraction numerator 2 pi over denominator omega end fraction"},"status":"ok"}

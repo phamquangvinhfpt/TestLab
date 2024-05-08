@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals c.2 pi square root of L. C end root"},"status":"ok"}

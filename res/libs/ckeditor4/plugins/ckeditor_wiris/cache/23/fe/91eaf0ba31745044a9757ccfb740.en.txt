@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 to the power of negative 2 end exponent over denominator pi end fraction H"},"status":"ok"}

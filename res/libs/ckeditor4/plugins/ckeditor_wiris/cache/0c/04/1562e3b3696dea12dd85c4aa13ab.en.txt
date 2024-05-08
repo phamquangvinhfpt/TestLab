@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 0 less than k less or equal than 3 comma 5 not stretchy rightwards double arrow k equals 1 comma 2 comma 3"},"status":"ok"}

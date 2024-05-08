@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript straight C end subscript equals 3 straight W subscript straight L end subscript not stretchy rightwards double arrow straight W subscript straight L end subscript equals fraction numerator straight W subscript straight C end subscript over denominator 3 end fraction"},"status":"ok"}

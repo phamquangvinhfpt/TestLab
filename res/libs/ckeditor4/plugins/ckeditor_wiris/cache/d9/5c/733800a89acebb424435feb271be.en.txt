@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m v blank to the power of prime 2 end exponent over denominator 2 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript min end subscript superscript blank to the power of prime end superscript equals fraction numerator 2 f over denominator left parenthesis 2 n minus 1 right parenthesis end fraction"},"status":"ok"}

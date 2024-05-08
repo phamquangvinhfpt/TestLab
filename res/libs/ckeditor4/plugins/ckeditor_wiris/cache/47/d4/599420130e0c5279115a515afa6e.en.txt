@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 equals 36 m A"},"status":"ok"}

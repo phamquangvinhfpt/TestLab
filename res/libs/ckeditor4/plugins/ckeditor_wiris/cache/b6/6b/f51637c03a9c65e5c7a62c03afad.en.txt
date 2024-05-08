@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M equals 3 fraction numerator lambda not stretchy left parenthesis D plus 0 comma 25 not stretchy right parenthesis over denominator a end fraction equals 3 fraction numerator lambda D over denominator a end fraction plus 0 comma 75. lambda over a not stretchy left parenthesis 2 not stretchy right parenthesis"},"status":"ok"}

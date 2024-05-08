@@ -1,0 +1,1 @@
+{"result":{"text":"4 t subscript 1 end subscript equals 4 T over 12 equals T over 3"},"status":"ok"}

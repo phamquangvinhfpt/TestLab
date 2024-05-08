@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1 over R subscript 2 equals fraction numerator begin display style fraction numerator U subscript 1 superscript 2 over denominator P end fraction end style over denominator begin display style fraction numerator U subscript 2 superscript 2 over denominator P end fraction end style end fraction equals space ?"},"status":"ok"}

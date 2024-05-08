@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 2 square root of 2 left parenthesis A right parenthesis. end root cos invisible function application 100 pi t"},"status":"ok"}

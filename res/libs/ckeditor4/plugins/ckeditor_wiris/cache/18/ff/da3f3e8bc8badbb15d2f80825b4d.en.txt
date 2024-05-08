@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta t equals T over 12 plus T over 12 equals T over 6 equals 0 comma 1 rightwards double arrow T equals 0 comma 6 s"},"status":"ok"}

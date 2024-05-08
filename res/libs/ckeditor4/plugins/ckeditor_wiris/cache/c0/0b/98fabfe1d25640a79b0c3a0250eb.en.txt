@@ -1,0 +1,1 @@
+{"result":{"text":"K subscript alpha space plus space capital delta E equals K subscript X subscript 1 end subscript space plus space K subscript X subscript 2 end subscript open parentheses 2 close parentheses"},"status":"ok"}

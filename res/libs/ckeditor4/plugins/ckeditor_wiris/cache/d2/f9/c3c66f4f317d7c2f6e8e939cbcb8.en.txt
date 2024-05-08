@@ -1,0 +1,1 @@
+{"result":{"text":"square root of a squared minus x squared end root space of 0.278em space of 0.278em"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"B equals 4 pi.10 to the power of negative 7 end exponent fraction numerator B over denominator I ell end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1 half k S squared comma blank 1 half.4 k S squared comma blank 1 half.9 k S squared"},"status":"ok"}

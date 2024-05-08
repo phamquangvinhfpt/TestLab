@@ -1,0 +1,1 @@
+{"result":{"text":"T plus T over 3 equals 9 comma 2 minus 1 comma 2 not stretchy rightwards double arrow T equals 6 left parenthesis s right parenthesis"},"status":"ok"}

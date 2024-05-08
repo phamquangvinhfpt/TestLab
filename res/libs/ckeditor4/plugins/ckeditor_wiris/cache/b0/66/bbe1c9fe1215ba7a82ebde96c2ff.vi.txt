@@ -1,0 +1,1 @@
+{"result":{"text":"f equals q. v. B. sin alpha equals"},"status":"ok"}

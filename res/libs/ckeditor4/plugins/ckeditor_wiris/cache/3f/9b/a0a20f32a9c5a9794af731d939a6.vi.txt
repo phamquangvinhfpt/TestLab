@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals omega L equals 10 capital omega semicolon space Z subscript C equals fraction numerator 1 over denominator omega C end fraction equals 20 capital omega semicolon space R equals 10 capital omega"},"status":"ok"}

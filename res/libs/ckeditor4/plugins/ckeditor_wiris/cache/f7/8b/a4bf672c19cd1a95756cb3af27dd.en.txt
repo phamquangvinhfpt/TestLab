@@ -1,0 +1,1 @@
+{"result":{"text":"straight I subscript 0 equals space of 0.278em straight U subscript 0 space of 0.278em square root of fraction numerator straight L over denominator straight C end fraction end root"},"status":"ok"}

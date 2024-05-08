@@ -1,0 +1,1 @@
+{"result":{"text":"tan phi equals U subscript L over U subscript R equals 1 not stretchy rightwards double arrow U subscript L equals U subscript R"},"status":"ok"}

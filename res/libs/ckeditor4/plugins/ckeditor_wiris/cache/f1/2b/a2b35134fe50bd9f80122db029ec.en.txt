@@ -1,0 +1,1 @@
+{"result":{"text":"220 text cos100 end text pi text t end text left parenthesis V right parenthesis"},"status":"ok"}

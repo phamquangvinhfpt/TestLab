@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta l subscript 0 end subscript equals fraction numerator m g over denominator k end fraction equals fraction numerator 0 comma 2.10 over denominator 100 end fraction equals 2 c m not stretchy rightwards double arrow A equals straight capital delta l subscript 0 end subscript plus 2 equals 4 c m"},"status":"ok"}

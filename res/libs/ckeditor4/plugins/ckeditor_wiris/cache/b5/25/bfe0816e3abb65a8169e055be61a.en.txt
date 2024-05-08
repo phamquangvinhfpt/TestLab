@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript min end subscript equals 0 comma 5 vertical line f subscript 1 end subscript minus f subscript 2 end subscript vertical line equals 7 H z"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals phi subscript u minus phi subscript i equals negative pi over 3 minus pi over 6 equals negative pi over 2"},"status":"ok"}

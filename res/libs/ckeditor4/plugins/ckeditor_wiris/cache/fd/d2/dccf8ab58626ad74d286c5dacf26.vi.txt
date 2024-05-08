@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript 1 equals pi over 4"},"status":"ok"}

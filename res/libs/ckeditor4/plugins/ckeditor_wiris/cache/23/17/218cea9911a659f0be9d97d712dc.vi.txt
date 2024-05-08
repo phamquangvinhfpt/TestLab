@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell A equals U I t equals 6.1.3600 equals 21600 W end cell row cell P equals U I equals 6 W end cell end table close"},"status":"ok"}

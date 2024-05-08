@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript less than end subscript"},"status":"ok"}

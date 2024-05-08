@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow n greater or equal than fraction numerator 1 over denominator sin invisible function application i end fraction equals fraction numerator 1 over denominator sin invisible function application 50 comma 19 to the power of 0 end exponent end fraction equals 1 comma 3"},"status":"ok"}

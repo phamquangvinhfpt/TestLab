@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator A B over denominator lambda end fraction less than m minus 0 comma 5 less than fraction numerator A B over denominator lambda end fraction not stretchy rightwards double arrow negative 2 less than m less than 3 not stretchy rightwards double arrow m equals negative 1 semicolon..2 not stretchy rightwards double arrow"},"status":"ok"}

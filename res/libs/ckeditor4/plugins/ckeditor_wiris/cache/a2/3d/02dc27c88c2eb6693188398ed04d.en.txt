@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript 1 end subscript equals negative 40 pi square root of 3"},"status":"ok"}

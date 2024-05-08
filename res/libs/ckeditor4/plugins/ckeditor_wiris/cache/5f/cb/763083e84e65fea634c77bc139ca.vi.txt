@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 10 capital omega"},"status":"ok"}

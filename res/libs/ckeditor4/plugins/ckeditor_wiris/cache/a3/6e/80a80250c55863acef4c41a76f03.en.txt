@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 54 end subscript equals fraction numerator h c over denominator E subscript 5 minus E subscript 4 end fraction"},"status":"ok"}

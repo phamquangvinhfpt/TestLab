@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript x end subscript equals 12 straight capital omega semicolon P subscript x end subscript equals 3 W"},"status":"ok"}

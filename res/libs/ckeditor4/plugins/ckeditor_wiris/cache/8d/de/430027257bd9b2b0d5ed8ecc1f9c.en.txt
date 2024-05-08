@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript n equals k fraction numerator e squared over denominator r subscript n superscript 2 end fraction comma space of 0.167em r subscript n superscript blank equals r subscript o n squared"},"status":"ok"}

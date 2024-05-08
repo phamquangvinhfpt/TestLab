@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript n equals fraction numerator negative 13 comma 6 over denominator n squared end fraction not stretchy left parenthesis e V not stretchy right parenthesis"},"status":"ok"}

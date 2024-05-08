@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript d end subscript equals I. R subscript d end subscript equals fraction numerator 150 R subscript d end subscript over denominator 20 plus R subscript d end subscript end fraction"},"status":"ok"}

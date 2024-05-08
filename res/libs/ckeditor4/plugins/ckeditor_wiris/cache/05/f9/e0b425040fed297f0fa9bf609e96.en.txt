@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 2 pi end fraction square root of fraction numerator g over denominator straight capital delta l end fraction end root"},"status":"ok"}

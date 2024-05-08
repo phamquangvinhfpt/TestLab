@@ -1,0 +1,1 @@
+{"result":{"text":"T space of 0.167em equals space of 0.167em 2 pi square root of m over k end root space of 0.167em equals space of 0.167em 2 pi square root of fraction numerator 0 comma 2 over denominator 50 end fraction end root space of 0.167em equals space of 0.167em 0 comma 4 space of 0.167em left parenthesis s right parenthesis"},"status":"ok"}

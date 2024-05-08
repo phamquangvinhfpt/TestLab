@@ -1,0 +1,1 @@
+{"result":{"text":"text R end text to the power of text 2 end text end exponent text  =  end text text Z end text subscript text L end text end subscript text ( end text text Z end text subscript text L end text end subscript text --  end text text Z end text subscript text C end text end subscript text ) end text"},"status":"ok"}

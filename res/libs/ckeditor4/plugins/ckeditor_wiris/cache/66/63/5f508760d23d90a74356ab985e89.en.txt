@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 2 equals 2 square root of 3 c straight o straight s left parenthesis 100 pi t plus fraction numerator 5 pi over denominator 12 end fraction right parenthesis not stretchy left parenthesis A not stretchy right parenthesis"},"status":"ok"}

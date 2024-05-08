@@ -1,0 +1,1 @@
+{"result":{"text":"120 to the power of 2 end exponent equals 160 to the power of 2 end exponent minus 2 U subscript L end subscript.56 plus 56 to the power of 2 end exponent not stretchy rightwards double arrow U subscript L end subscript equals 128 left parenthesis V right parenthesis"},"status":"ok"}

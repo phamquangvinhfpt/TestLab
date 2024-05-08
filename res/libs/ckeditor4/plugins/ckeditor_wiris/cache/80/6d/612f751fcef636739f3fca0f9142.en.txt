@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript l k end subscript equals capital delta m. c squared equals open square brackets left parenthesis 26 m subscript p plus space 30 m subscript n right parenthesis minus m close square brackets c squared equals ?"},"status":"ok"}

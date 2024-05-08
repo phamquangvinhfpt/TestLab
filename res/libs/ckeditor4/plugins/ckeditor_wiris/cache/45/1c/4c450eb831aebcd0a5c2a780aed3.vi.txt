@@ -1,0 +1,1 @@
+{"result":{"text":"6 T equals 12 rightwards double arrow T equals 2 s space rightwards double arrow lambda equals v. T equals 4 space m"},"status":"ok"}

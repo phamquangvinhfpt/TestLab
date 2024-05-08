@@ -1,0 +1,1 @@
+{"result":{"text":"B equals 2 B subscript 1 end subscript cos invisible function application alpha equals 2 B subscript 1 end subscript fraction numerator square root of A M to the power of 2 end exponent minus A H to the power of 2 end exponent end root over denominator A M end fraction equals 11 comma 6.10 to the power of negative 6 end exponent T"},"status":"ok"}

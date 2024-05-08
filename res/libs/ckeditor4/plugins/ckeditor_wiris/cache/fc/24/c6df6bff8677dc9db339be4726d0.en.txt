@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of negative 24 end exponent"},"status":"ok"}

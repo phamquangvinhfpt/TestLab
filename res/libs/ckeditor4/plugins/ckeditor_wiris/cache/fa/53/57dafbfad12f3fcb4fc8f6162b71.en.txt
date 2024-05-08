@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow vertical line x subscript min end subscript vertical line equals i subscript identical to end subscript equals 31 comma 2 left parenthesis m m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

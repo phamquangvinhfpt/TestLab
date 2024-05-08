@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 end subscript equals plus-or-minus 0 comma 5 A square root of 3."},"status":"ok"}

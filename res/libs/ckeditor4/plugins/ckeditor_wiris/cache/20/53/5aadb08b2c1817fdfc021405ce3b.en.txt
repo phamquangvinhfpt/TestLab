@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 1 comma 26 I subscript 0 cos invisible function application left parenthesis omega t minus 0 comma 352 pi right parenthesis space of 0.167em not stretchy left parenthesis A not stretchy right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of not stretchy vertical line A subscript 1 superscript 2 minus A subscript 2 superscript 2 not stretchy vertical line end root"},"status":"ok"}

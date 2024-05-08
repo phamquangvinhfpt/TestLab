@@ -1,0 +1,1 @@
+{"result":{"text":"l equals 2 lambda"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"d 2 minus d 1 equals k lambda"},"status":"ok"}

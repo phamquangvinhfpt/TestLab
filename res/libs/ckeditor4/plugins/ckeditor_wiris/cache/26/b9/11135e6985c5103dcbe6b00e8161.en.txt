@@ -1,0 +1,1 @@
+{"result":{"text":"C equals C subscript min end subscript plus fraction numerator C subscript M end subscript minus C subscript m end subscript over denominator 180 to the power of 0 end exponent minus 20 to the power of 0 end exponent end fraction alpha equals 120 plus 3 alpha"},"status":"ok"}

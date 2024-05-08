@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 9 cos invisible function application omega t"},"status":"ok"}

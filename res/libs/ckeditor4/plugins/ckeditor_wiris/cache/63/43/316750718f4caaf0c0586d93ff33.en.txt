@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript n end subscript equals negative fraction numerator 13 comma 6 over denominator n to the power of 2 end exponent end fraction e V left parenthesis n equals 1 comma 2 comma 3 comma... right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"alpha subscript T end subscript equals tan invisible function application beta equals fraction numerator M H over denominator O H end fraction"},"status":"ok"}

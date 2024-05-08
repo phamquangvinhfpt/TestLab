@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript t"},"status":"ok"}

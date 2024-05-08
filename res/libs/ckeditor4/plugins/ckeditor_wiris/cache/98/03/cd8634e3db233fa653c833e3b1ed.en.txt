@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 2 pi f equals 2 pi n p"},"status":"ok"}

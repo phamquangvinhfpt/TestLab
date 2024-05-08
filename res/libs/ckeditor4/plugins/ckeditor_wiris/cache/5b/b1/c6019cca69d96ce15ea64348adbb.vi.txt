@@ -1,0 +1,1 @@
+{"result":{"text":"A equals L over 2 equals 6 c m"},"status":"ok"}

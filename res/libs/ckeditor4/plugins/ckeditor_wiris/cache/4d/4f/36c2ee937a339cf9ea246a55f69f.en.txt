@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript 1234 end subscript equals R subscript 1 end subscript plus R subscript 234 end subscript equals 10 straight capital omega not stretchy rightwards double arrow I equals fraction numerator U subscript A B end subscript over denominator R subscript 1234 end subscript end fraction equals 3 A"},"status":"ok"}

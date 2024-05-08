@@ -1,0 +1,1 @@
+{"result":{"text":"m equals 1 over F. A over n. I t equals 1 over 96500.108 over 1.5.7200 equals 40 comma 29 g"},"status":"ok"}

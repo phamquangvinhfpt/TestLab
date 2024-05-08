@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript 2 equals 2 left square bracket fraction numerator L over denominator 2 i subscript 2 end fraction right square bracket plus 1 equals 15"},"status":"ok"}

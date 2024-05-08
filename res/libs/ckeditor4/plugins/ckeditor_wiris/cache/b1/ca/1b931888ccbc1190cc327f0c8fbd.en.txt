@@ -1,0 +1,1 @@
+{"result":{"text":"k subscript 1 end subscript min not stretchy rightwards double arrow"},"status":"ok"}

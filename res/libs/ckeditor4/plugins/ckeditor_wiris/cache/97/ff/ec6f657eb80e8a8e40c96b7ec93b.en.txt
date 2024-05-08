@@ -1,0 +1,1 @@
+{"result":{"text":"3 m less or equal than lambda less or equal than 15 m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi subscript M divided by O end subscript equals fraction numerator 2 pi over denominator lambda end fraction left parenthesis d minus A O right parenthesis"},"status":"ok"}

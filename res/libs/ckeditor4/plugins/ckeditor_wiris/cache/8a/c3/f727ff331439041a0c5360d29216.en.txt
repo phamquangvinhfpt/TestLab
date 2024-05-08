@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 01 end subscript equals 150 V semicolon U subscript 02 end subscript equals 100 V semicolon T subscript 1 end subscript divided by 4 equals 5.10 to the power of negative 3 end exponent s not stretchy rightwards double arrow T subscript 1 end subscript equals 0 comma 02 s"},"status":"ok"}

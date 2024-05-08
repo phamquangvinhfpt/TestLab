@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket omega not stretchy left parenthesis t plus T over 4 not stretchy right parenthesis plus ϕ right square bracket"},"status":"ok"}

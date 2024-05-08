@@ -1,0 +1,1 @@
+{"result":{"text":"x equals n i subscript identical to equals 3 n"},"status":"ok"}

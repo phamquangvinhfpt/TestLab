@@ -1,0 +1,1 @@
+{"result":{"text":"equals Z"},"status":"ok"}

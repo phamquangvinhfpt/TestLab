@@ -1,0 +1,1 @@
+{"result":{"text":"i space of 0.167em equals space of 0.167em fraction numerator lambda D over denominator a end fraction space of 0.167em equals space of 0.167em 2.10 to the power of negative 3 end exponent space of 0.167em m"},"status":"ok"}

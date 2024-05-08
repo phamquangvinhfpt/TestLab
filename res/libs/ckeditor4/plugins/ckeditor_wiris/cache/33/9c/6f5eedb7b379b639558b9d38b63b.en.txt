@@ -1,0 +1,1 @@
+{"result":{"text":"text W end text equals 1 half k A to the power of 2 end exponent"},"status":"ok"}

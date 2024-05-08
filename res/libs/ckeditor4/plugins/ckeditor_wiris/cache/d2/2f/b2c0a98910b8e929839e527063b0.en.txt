@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow k not stretchy =⇒"},"status":"ok"}

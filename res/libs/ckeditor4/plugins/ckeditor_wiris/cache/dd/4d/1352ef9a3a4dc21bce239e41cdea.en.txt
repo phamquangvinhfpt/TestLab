@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript c c end subscript equals I to the power of 2 end exponent R equals 1 half I subscript 0 end subscript superscript 2 end superscript R."},"status":"ok"}

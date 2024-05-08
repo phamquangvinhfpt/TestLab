@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 1 end subscript equals fraction numerator lambda subscript 1 end subscript D over denominator a end fraction equals 1 comma 2 left parenthesis m m right parenthesis"},"status":"ok"}

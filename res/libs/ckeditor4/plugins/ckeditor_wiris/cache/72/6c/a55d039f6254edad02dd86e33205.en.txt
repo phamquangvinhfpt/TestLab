@@ -1,0 +1,1 @@
+{"result":{"text":"P with rightwards arrow on top subscript P o end subscript equals P with rightwards arrow on top subscript P b end subscript plus P with rightwards arrow on top subscript alpha"},"status":"ok"}

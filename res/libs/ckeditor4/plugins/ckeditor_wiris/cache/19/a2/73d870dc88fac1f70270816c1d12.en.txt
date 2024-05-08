@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow lambda equals 9 left parenthesis c m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

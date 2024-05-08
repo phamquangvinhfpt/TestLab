@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript 1 divided by q subscript 2 greater than F subscript 2 divided by q subscript 1"},"status":"ok"}

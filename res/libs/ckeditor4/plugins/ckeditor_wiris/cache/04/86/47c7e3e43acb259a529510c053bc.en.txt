@@ -1,0 +1,1 @@
+{"result":{"text":"L equals fraction numerator 25 over denominator 100 pi end fraction equals fraction numerator 0 comma 25 over denominator pi end fraction left parenthesis H right parenthesis"},"status":"ok"}

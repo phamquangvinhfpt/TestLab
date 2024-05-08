@@ -1,0 +1,1 @@
+{"result":{"text":"stack blank with rightwards arrow below and blank on top C plus"},"status":"ok"}

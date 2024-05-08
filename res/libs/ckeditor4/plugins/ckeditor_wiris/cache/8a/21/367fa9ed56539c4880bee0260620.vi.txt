@@ -1,0 +1,1 @@
+{"result":{"text":"stack E subscript 1 with rightwards harpoon with barb upwards on top equals stack E subscript 2 with rightwards harpoon with barb upwards on top"},"status":"ok"}

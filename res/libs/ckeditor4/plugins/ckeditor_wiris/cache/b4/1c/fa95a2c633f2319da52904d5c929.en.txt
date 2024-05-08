@@ -1,0 +1,1 @@
+{"result":{"text":"i to the power of prime equals fraction numerator lambda to the power of prime D over denominator a end fraction equals fraction numerator lambda D over denominator n. a end fraction"},"status":"ok"}

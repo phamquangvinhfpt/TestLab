@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application phi equals fraction numerator Z subscript L end subscript minus Z subscript C end subscript over denominator R end fraction equals tan invisible function application pi over 3 not stretchy rightwards double arrow Z subscript L end subscript minus Z subscript C end subscript equals R square root of 3"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1 comma 67.10 to the power of 8 space end exponent bevelled m over s"},"status":"ok"}

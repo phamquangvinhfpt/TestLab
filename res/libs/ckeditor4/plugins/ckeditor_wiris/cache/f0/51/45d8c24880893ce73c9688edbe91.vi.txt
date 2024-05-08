@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon equals fraction numerator h. c over denominator lambda end fraction"},"status":"ok"}

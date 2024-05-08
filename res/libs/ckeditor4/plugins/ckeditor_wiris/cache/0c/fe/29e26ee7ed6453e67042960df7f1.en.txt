@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator A M over denominator 12 minus A M end fraction equals square root of fraction numerator not stretchy vertical line q subscript 1 end subscript not stretchy vertical line over denominator not stretchy vertical line q subscript 2 end subscript not stretchy vertical line end fraction end root equals 1 half"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals left parenthesis 2 k plus 1 right parenthesis pi"},"status":"ok"}

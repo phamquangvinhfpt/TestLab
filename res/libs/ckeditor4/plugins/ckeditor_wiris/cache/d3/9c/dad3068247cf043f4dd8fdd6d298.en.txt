@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator d q over denominator d t end fraction equals i equals I subscript 0 end subscript sin invisible function application omega t not stretchy rightwards double arrow d q equals I subscript 0 end subscript sin invisible function application omega t. d t"},"status":"ok"}

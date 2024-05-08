@@ -1,0 +1,1 @@
+{"result":{"text":"ϕ equals fraction numerator ϕ subscript C minus ϕ subscript L over denominator 2 end fraction equals pi over 3"},"status":"ok"}

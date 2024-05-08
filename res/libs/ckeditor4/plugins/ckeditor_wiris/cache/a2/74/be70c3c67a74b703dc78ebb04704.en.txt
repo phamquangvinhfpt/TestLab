@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript min end subscript equals f subscript k plus 1 end subscript minus f subscript k end subscript equals 42 minus 28 equals 14 left parenthesis H z right parenthesis not stretchy rightwards double arrow f subscript k end subscript equals 14 k left parenthesis H z right parenthesis"},"status":"ok"}

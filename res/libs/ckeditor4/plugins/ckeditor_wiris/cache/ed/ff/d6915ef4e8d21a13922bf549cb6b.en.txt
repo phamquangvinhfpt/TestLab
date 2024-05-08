@@ -1,0 +1,1 @@
+{"result":{"text":"t equals fraction numerator A B over denominator v end fraction not stretchy rightwards double arrow straight capital delta A equals P. fraction numerator A B over denominator v end fraction equals 21600 pi.70 over 340 equals 13971 left parenthesis J right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

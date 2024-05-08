@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta E equals left parenthesis m subscript P 0 end subscript minus m subscript alpha end subscript minus m subscript X end subscript right parenthesis c to the power of 2 end exponent equals 6 comma 4239 left parenthesis M e V right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 0 comma 5 divided by pi left parenthesis m F right parenthesis"},"status":"ok"}

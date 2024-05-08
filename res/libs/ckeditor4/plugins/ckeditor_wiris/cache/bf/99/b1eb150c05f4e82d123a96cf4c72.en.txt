@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator text \\user end text 2 m not stretchy left parenthesis v minus text \\user end text 2 straight capital delta v text \\user end text 2 not stretchy right parenthesis to the power of text \\user end text end exponent 2 2 over denominator text \\user end text 2 2 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals 3 over k"},"status":"ok"}

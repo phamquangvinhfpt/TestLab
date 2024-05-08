@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript 1 end subscript equals 1 divided by pi"},"status":"ok"}

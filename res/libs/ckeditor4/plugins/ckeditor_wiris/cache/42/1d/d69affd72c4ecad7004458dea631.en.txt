@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals 4 square root of 3 cos invisible function application not stretchy left parenthesis pi t not stretchy right parenthesis c m"},"status":"ok"}

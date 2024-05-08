@@ -1,0 +1,1 @@
+{"result":{"text":"n lambda over 4 plus straight capital delta x"},"status":"ok"}

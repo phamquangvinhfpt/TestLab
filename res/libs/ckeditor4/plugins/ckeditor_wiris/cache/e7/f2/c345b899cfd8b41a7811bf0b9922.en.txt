@@ -1,0 +1,1 @@
+{"result":{"text":"1 over f equals fraction numerator 2 l over denominator n v end fraction"},"status":"ok"}

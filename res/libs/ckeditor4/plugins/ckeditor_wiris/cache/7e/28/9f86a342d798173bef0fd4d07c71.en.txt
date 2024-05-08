@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis plus-or-minus fraction numerator pi over denominator 6 end fraction right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript t b end subscript equals fraction numerator 31 comma 5 over denominator 7 end fraction equals 27 straight c straight m divided by straight s."},"status":"ok"}

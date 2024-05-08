@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript M P end subscript equals 150 V"},"status":"ok"}

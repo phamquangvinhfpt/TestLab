@@ -1,0 +1,1 @@
+{"result":{"text":"equals fraction numerator 100 square root of 2 straight angle 0 over denominator not stretchy left parenthesis 40 plus 40 i not stretchy right parenthesis end fraction."},"status":"ok"}

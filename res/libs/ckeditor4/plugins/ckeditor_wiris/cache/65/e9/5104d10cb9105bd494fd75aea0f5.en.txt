@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript h t end subscript equals m. a subscript h t end subscript equals m. fraction numerator v squared over denominator r end fraction equals m omega squared. r"},"status":"ok"}

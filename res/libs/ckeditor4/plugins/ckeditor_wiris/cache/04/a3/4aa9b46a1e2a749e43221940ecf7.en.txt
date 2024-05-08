@@ -1,0 +1,1 @@
+{"result":{"text":"S I straight perpendicular B C"},"status":"ok"}

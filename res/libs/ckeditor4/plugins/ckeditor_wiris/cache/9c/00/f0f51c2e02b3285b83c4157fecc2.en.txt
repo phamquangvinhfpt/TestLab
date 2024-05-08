@@ -1,0 +1,1 @@
+{"result":{"text":"text end text space of -0.167em space of -0.167em omega space of -0.167em space of -0.167em text  L =  end text square root of text 3 end text end root text  R end text"},"status":"ok"}

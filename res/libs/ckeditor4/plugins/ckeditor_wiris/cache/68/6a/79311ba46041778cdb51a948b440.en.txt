@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript d end subscript equals P over t equals 1 comma 2 left parenthesis 20 plus R subscript d end subscript right parenthesis"},"status":"ok"}

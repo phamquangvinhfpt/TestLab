@@ -1,0 +1,1 @@
+{"result":{"text":"160 left square bracket S H I F T c text os end text left parenthesis 80 over 160 plus fraction numerator 3 pi over denominator 2 end fraction right parenthesis right square bracket equals 80 square root of 3 V"},"status":"ok"}

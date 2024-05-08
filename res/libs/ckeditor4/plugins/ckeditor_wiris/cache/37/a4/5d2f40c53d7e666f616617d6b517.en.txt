@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript d end subscript equals 6 not stretchy rightwards double arrow U subscript R end subscript equals E minus U subscript d end subscript equals 6 V"},"status":"ok"}

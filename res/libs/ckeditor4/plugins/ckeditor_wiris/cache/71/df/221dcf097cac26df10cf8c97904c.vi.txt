@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator O subscript 1 O 2 over denominator lambda end fraction less than K less than fraction numerator O subscript 1 O 2 over denominator lambda end fraction"},"status":"ok"}

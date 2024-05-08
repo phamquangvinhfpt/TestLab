@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow u equals 100 square root of 2 cos invisible function application left parenthesis 100 pi t minus fraction numerator 11 pi over denominator 12 end fraction right parenthesis left parenthesis V right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

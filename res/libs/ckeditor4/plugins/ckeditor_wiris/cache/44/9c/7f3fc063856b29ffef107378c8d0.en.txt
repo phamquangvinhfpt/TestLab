@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 1 end subscript equals 2 square root of 2 cos invisible function application left parenthesis 100 pi t subscript 1 end subscript plus pi over 6 right parenthesis equals 0 comma 5 A"},"status":"ok"}

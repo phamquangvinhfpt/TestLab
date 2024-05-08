@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow u subscript M equals 5 cos left parenthesis 10 pi t plus pi over 6 minus fraction numerator 17 pi over denominator 6 end fraction right parenthesis equals 5 cos left parenthesis 10 pi t minus fraction numerator 8 pi over denominator 3 end fraction right parenthesis c m"},"status":"ok"}

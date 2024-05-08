@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight T over denominator 6 end fraction space of 0.278em stack not stretchy rightwards double arrow with blank below invisible function application space of 0.278em straight T equals 6.10 to the power of negative 4 end exponent straight s."},"status":"ok"}

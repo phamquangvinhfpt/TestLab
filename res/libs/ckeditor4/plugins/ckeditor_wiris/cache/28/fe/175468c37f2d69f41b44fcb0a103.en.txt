@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 70 comma 2 square root of 2 c straight o straight s not stretchy left parenthesis 100 pi t plus pi over 3 not stretchy right parenthesis not stretchy left parenthesis V not stretchy right parenthesis"},"status":"ok"}

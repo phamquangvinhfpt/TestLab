@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left columnspacing 1em rowspacing 4 pt end attributes row cell m subscript 1 equals m subscript 0. e to the power of negative lambda subscript 1 t end exponent end cell row cell m subscript 2 equals 2 m subscript 0. e to the power of negative 4 lambda subscript 1 t end exponent end cell end table"},"status":"ok"}

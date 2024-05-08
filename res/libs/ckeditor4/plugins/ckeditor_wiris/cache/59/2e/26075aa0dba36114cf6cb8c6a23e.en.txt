@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript 1 end subscript space of 0.167em equals space of 0.167em 6 square root of 3 space of 0.167em left parenthesis c m right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript e end subscript equals 5 comma 486.10 to the power of negative 4 end exponent u semicolon"},"status":"ok"}

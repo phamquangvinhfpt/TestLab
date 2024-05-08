@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator P subscript 1 max end subscript over denominator P subscript 2 max end subscript end fraction not stretchy rightwards double arrow fraction numerator xi subscript 1 end subscript over denominator xi subscript 2 end subscript end fraction equals 0 comma 6"},"status":"ok"}

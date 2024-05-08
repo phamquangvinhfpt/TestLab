@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M equals 3 square root of 2 cos invisible function application omega t"},"status":"ok"}

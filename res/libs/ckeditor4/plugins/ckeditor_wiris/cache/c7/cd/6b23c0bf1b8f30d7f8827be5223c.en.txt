@@ -1,0 +1,1 @@
+{"result":{"text":"F to the power of divided by"},"status":"ok"}

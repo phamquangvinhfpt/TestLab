@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t subscript t equals alpha over omega equals fraction numerator begin display style pi over 4 end style 4 over denominator 100 pi end fraction equals 1 over 100"},"status":"ok"}

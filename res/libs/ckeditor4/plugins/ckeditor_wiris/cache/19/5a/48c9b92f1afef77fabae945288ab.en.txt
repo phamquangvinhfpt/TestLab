@@ -1,0 +1,1 @@
+{"result":{"text":"M A equals k plus 31 over 6 left parenthesis c m right parenthesis less than A B not stretchy rightwards double arrow k less than 4 comma 8 not stretchy rightwards double arrow k equals 4 not stretchy rightwards double arrow M A almost equal to 9 comma 17 left parenthesis c m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

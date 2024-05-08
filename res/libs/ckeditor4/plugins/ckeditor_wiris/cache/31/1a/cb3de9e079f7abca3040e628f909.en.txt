@@ -1,0 +1,1 @@
+{"result":{"text":"cos invisible function application alpha equals fraction numerator square root of fraction numerator 0 comma 02 over denominator k end fraction end root over denominator square root of fraction numerator 0 comma 08 over denominator k end fraction end root end fraction equals 1 half not stretchy rightwards double arrow alpha equals pi over 3"},"status":"ok"}

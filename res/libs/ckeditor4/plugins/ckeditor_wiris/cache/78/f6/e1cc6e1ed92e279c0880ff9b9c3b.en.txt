@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of m over k end root equals 2 pi square root of fraction numerator 0 comma 4 over denominator 40 end fraction end root equals pi over 5"},"status":"ok"}

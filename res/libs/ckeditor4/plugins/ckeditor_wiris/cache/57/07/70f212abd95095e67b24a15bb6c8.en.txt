@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator lambda h over denominator c end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon equals fraction numerator left parenthesis open parentheses m subscript p plus m subscript n close parentheses minus m subscript X right parenthesis. c squared over denominator A end fraction"},"status":"ok"}

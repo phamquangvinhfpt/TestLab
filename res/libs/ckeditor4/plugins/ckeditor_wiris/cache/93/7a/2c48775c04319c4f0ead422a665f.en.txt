@@ -1,0 +1,1 @@
+{"result":{"text":"1 divided by left parenthesis 3 pi right parenthesis space of 0.167em m F"},"status":"ok"}

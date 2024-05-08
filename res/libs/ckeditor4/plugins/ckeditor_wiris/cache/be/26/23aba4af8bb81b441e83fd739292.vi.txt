@@ -1,0 +1,1 @@
+{"result":{"text":"m equals m subscript 0 e to the power of negative fraction numerator ln 2 over denominator T end fraction t end exponent rightwards double arrow m subscript 0 over m equals e to the power of fraction numerator ln 2 over denominator T end fraction t end exponent rightwards double arrow T equals ?"},"status":"ok"}

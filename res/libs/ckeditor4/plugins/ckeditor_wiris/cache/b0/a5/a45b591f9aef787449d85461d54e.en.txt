@@ -1,0 +1,1 @@
+{"result":{"text":"S subscript 2 equals I H plus H K equals A left parenthesis 1 minus cos invisible function application pi over 3 right parenthesis plus A left parenthesis 1 minus cos invisible function application pi over 6 right parenthesis"},"status":"ok"}

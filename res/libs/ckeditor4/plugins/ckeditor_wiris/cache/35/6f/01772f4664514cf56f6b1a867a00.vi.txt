@@ -1,0 +1,1 @@
+{"result":{"text":"$ backslash l a m b d a space equals 2 backslash p i space. c. backslash s q r t left curly bracket L C right curly bracket"},"status":"ok"}

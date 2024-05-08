@@ -1,0 +1,1 @@
+{"result":{"text":"display style not stretchy rightwards double arrow phi equals pi over 2"},"status":"ok"}

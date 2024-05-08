@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m subscript 0 over denominator square root of 1 minus fraction numerator v squared over denominator c squared end fraction end root end fraction"},"status":"ok"}

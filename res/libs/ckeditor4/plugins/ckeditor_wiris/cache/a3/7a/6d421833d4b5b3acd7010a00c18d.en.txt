@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator q subscript 0 superscript 2 minus q squared over denominator 2 i end fraction end root"},"status":"ok"}

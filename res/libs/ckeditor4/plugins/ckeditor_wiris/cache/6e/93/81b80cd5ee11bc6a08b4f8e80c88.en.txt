@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals 12 V semicolon r equals 4 straight capital omega"},"status":"ok"}

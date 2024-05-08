@@ -1,0 +1,1 @@
+{"result":{"text":"straight x subscript 1 end subscript equals negative 2 comma 5 straight c straight m"},"status":"ok"}

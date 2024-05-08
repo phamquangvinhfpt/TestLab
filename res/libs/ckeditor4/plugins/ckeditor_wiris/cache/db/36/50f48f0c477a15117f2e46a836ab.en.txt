@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript b end subscript equals fraction numerator 4.8 over denominator 4 plus 8 end fraction equals 8 over 3 straight capital omega"},"status":"ok"}

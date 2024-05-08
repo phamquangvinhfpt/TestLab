@@ -1,0 +1,1 @@
+{"result":{"text":"L over C equals r to the power of 2 end exponent left parenthesis fraction numerator U subscript 0 end subscript over denominator E end fraction right parenthesis to the power of 2 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow cos invisible function application pi over 12 left parenthesis d subscript 1 end subscript minus d subscript 2 end subscript right parenthesis equals 0"},"status":"ok"}

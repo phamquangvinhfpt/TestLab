@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator L over denominator 2. i subscript 1 end fraction equals 9 comma 09"},"status":"ok"}

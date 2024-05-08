@@ -1,0 +1,1 @@
+{"result":{"text":"negative omega to the power of 2 end exponent A less or equal than a less or equal than omega to the power of 2 end exponent A"},"status":"ok"}

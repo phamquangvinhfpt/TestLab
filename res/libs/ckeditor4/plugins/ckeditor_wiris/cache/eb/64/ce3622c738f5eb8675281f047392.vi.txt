@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 1 over f equals lambda over c rightwards double arrow lambda equals c. T equals c.2 pi square root of L C end root"},"status":"ok"}

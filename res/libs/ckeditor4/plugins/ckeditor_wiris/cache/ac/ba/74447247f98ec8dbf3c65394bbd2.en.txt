@@ -1,0 +1,1 @@
+{"result":{"text":"675.10 to the power of 11 end exponent e l e c t r o n"},"status":"ok"}

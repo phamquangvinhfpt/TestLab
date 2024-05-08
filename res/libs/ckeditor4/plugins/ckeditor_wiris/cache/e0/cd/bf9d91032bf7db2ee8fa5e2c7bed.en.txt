@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator A over denominator E. d end fraction equals fraction numerator 15.10 to the power of negative 5 end exponent over denominator 1000.5.10 to the power of negative 2 end exponent end fraction"},"status":"ok"}

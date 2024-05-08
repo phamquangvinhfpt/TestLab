@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals fraction numerator 2 pi over denominator T end fraction t plus pi equals fraction numerator 4 pi t over denominator 3 end fraction plus pi"},"status":"ok"}

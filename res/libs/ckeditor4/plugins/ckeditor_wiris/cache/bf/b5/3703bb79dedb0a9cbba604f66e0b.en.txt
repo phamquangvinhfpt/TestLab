@@ -1,0 +1,1 @@
+{"result":{"text":"C equals fraction numerator epsilon. S over denominator 9.10 to the power of 9 end exponent.4 pi d end fraction"},"status":"ok"}

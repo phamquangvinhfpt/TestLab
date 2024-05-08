@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow T equals 1 half square root of left parenthesis 15.10 to the power of negative 3 end exponent.10 right parenthesis to the power of 2 end exponent plus left parenthesis 0 comma 5.0 comma 2.2 right parenthesis to the power of 2 end exponent end root equals 0 comma 125 left parenthesis N right parenthesis"},"status":"ok"}

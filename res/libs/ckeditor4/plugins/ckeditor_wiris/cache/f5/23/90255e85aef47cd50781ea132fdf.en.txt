@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 2 equals fraction numerator 2 lambda subscript 1 over denominator 3 end fraction equals 0 comma 48 blank mu straight m"},"status":"ok"}

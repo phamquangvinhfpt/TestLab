@@ -1,0 +1,1 @@
+{"result":{"text":"D equals m over V equals fraction numerator 23 u over denominator begin display style 4 over 3 end style pi R cubed end fraction equals ?"},"status":"ok"}

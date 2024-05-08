@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta f subscript min end subscript equals fraction numerator f over denominator left parenthesis 2 n minus 1 right parenthesis end fraction equals fraction numerator f subscript min end subscript superscript blank to the power of prime end superscript over denominator 2 end fraction"},"status":"ok"}

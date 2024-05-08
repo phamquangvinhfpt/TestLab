@@ -1,0 +1,1 @@
+{"result":{"text":"2.10 to the power of negative 11 end exponent open parentheses J close parentheses"},"status":"ok"}

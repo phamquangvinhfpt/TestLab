@@ -1,0 +1,1 @@
+{"result":{"text":"bevelled fraction numerator c m over denominator s squared end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 15 square root of 3 space of 0.167em straight capital omega semicolon Z subscript C end subscript equals 15 straight capital omega"},"status":"ok"}

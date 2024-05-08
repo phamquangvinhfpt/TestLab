@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C subscript 2 end subscript equals fraction numerator 1 over denominator omega subscript 2 C end fraction equals fraction numerator 100 over denominator 1 comma 6 square root of 2 end fraction capital omega"},"status":"ok"}

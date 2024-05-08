@@ -1,0 +1,1 @@
+{"result":{"text":"negative 36 square root of 3"},"status":"ok"}

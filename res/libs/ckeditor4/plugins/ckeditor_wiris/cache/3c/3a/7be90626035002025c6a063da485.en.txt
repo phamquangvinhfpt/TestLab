@@ -1,0 +1,1 @@
+{"result":{"text":"100 pi left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

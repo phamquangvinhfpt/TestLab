@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals space of 0.278em fraction numerator 1 over denominator square root of straight L straight C end root end fraction"},"status":"ok"}

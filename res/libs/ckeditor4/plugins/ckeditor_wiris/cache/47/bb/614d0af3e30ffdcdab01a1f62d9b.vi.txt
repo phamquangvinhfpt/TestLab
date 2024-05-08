@@ -1,0 +1,1 @@
+{"result":{"text":"2 W subscript C equals W subscript C subscript m a x end subscript end subscript rightwards double arrow rightwards double arrow q"},"status":"ok"}

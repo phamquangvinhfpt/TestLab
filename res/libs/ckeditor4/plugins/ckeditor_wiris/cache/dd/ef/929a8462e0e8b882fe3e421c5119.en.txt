@@ -1,0 +1,1 @@
+{"result":{"text":"P cos invisible function application left parenthesis 90 to the power of 0 end exponent minus alpha right parenthesis minus F cos invisible function application alpha equals 0"},"status":"ok"}

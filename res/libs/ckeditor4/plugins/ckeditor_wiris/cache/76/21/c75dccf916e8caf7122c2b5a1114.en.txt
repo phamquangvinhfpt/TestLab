@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 220 square root of 2 cos invisible function application left parenthesis omega t minus pi over 2 right parenthesis V"},"status":"ok"}

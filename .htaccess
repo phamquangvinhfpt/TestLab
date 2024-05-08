@@ -1,0 +1,103 @@
+
+RewriteOptions inherit
+RewriteEngine On
+
+RewriteRule ^dang-nhap$ index.php?action=show_login [L]
+
+RewriteRule ^quan-ly-admin$ index.php?action=show_admins_panel [L]
+RewriteRule ^quan-ly-giao-vien$ index.php?action=show_teachers_panel [L]
+RewriteRule ^quan-ly-lop$ index.php?action=show_classes_panel [L]
+RewriteRule ^quan-ly-hoc-sinh$ index.php?action=show_students_panel [L]
+RewriteRule ^quan-ly-mon-hoc$ index.php?action=show_subjects_panel [L]
+RewriteRule ^quan-ly-ngan-hang-cau-hoi$ index.php?action=show_questions_panel [L]
+RewriteRule ^quan-ly-de-thi$ index.php?action=show_tests_panel [L]
+RewriteRule ^quan-ly-de-on-luyen$ index.php?action=show_courses_panel [L]
+RewriteRule ^quan-ly-de-khao-sat$ index.php?action=show_examine_panel [L]
+RewriteRule ^gui-thong-bao$ index.php?action=show_notifications_panel [L]
+RewriteRule ^them-cau-hoi$ index.php?action=show_add_question [L]
+RewriteRule ^sua-cau-hoi-(.*)$ index.php?action=show_edit_question&id=$1 [L]
+RewriteRule ^xem-diem-hs(.*)$ index.php?action=show_diem_hs&student_id=$1 [L]
+RewriteRule ^chi-tiet-de-thi-(.*)$ index.php?action=test_detail&test_code=$1 [L]
+RewriteRule ^in-de-(.*)$ index.php?action=test_print&test_code=$1 [L]
+RewriteRule ^tai-lieu$ index.php?action=show_tai_lieu [L]
+RewriteRule ^bang-xep-hang$ index.php?action=show_ranking [L]
+RewriteRule ^tao-de$ index.php?action=show_create_test [L]
+RewriteRule ^tao-de-tuy-chinh$ index.php?action=show_custom_create_test [L]
+RewriteRule ^ti-le-chon-sai$ index.php?action=show_analysis_wrong_quest [L]
+RewriteRule ^danh-gia-cau-hoi$ index.php?action=show_filter_wrong_quest [L]
+RewriteRule ^cai-dat$ index.php?action=show_setting [L]
+RewriteRule ^phan-hoi$ index.php?action=show_feedback [L]
+RewriteRule ^tin-nhan$ index.php?action=show_messenger [L]
+RewriteRule ^diem-so$ index.php?action=show_diem_so [L]
+RewriteRule ^cau-hoi-chon-sai$ index.php?action=show_cau_hoi_chon_sai [L]
+RewriteRule ^ti-le-tuong-tac$ index.php?action=show_ti_le_tuong_tac [L]
+
+RewriteRule ^tai-lieu-kien-thuc$ index.php?action=show_tai_lieu_kien_thuc [L]
+RewriteRule ^tai-lieu-phuong-phap$ index.php?action=show_tai_lieu_phuong_phap [L]
+RewriteRule ^tai-lieu-de-tham-khao$ index.php?action=show_tai_lieu_de_tham_khao [L]
+RewriteRule ^tai-lieu-khac$ index.php?action=show_tai_lieu_khac [L]
+RewriteRule ^tai-lieu-video$ index.php?action=show_tai_lieu_video [L]
+
+RewriteRule ^thong-tin-lop-(.*)$ /index.php?action=show_class_detail&class_id=$1 [L]
+RewriteRule ^diem-de-thi-(.*)$ index.php?action=test_score&test_code=$1 [L]
+RewriteRule ^xuat-diem-de-thi-(.*)$ index.php?action=export_score&test_code=$1 [L]
+RewriteRule ^danh-sach-de-thi$ /index.php?action=list_test [L]
+
+RewriteRule ^on-luyen$ index.php?action=show_courses_panel [L]
+RewriteRule ^on-luyen-(.*)$ index.php?action=show_courses_panel&subject_id=$1 [L]
+RewriteRule ^xem-ket-qua-(.*)$ /index.php?action=show_result&test_code=$1 [L]
+RewriteRule ^chat$ /index.php?action=show_chat [L]
+RewriteRule ^lich-su-chat$ /index.php?action=show_all_chat [L]
+RewriteRule ^nop-bai$ /index.php?action=accept_test [L]
+
+RewriteRule ^404$ /index.php?action=show_404 [L]
+RewriteRule ^thong-tin$ /index.php?action=show_about [L]
+RewriteRule ^trang-ca-nhan$ /index.php?action=show_profiles [L]
+RewriteRule ^trang-chu$ /index.php?action=show_dashboard [L]
+RewriteRule ^thong-bao$ /index.php?action=show_notifications [L]
+
+ErrorDocument 404 /404
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^ani\-mc\.live$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ani\-mc\.live$
+RewriteRule ^/?$ "https\:\/\/ani\-mc\.live\/" [R=301,L]
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php7_module>
+   php_value date.timezone "Asia/Ho_Chi_Minh"
+   php_flag display_errors Off
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 128M
+   php_value post_max_size 240M
+   php_value session.gc_maxlifetime 864000
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php74"
+   php_value upload_max_filesize 240M
+   php_flag zlib.output_compression On
+</IfModule>
+<IfModule lsapi_module>
+   php_value date.timezone "Asia/Ho_Chi_Minh"
+   php_flag display_errors Off
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 128M
+   php_value post_max_size 240M
+   php_value session.gc_maxlifetime 864000
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php74"
+   php_value upload_max_filesize 240M
+   php_flag zlib.output_compression On
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “alt-php73” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-alt-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

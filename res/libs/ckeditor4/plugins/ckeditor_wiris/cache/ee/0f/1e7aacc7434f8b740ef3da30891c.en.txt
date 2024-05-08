@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta A equals P. t equals P. A B divided by v"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"display style F subscript max end subscript equals 525 space of 0.167em left parenthesis N right parenthesis"},"status":"ok"}

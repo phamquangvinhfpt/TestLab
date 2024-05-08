@@ -1,0 +1,1 @@
+{"result":{"text":"W equals m g l left parenthesis 1 minus c o s alpha subscript 0 right parenthesis equals m g l.2 c o s squared left parenthesis alpha subscript 0 divided by 2 right parenthesis equals m g l alpha subscript 0 superscript 2 divided by 2"},"status":"ok"}

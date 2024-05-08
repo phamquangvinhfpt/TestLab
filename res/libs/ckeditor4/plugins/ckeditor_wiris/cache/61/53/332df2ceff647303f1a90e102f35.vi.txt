@@ -1,0 +1,1 @@
+{"result":{"text":"m equals fraction numerator m subscript 0 over denominator 2 begin display style bevelled t over T end style end fraction"},"status":"ok"}

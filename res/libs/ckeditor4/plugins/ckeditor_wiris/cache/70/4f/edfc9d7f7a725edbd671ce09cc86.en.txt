@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 2 end subscript equals square root of 3 left parenthesis A right parenthesis semicolon u subscript 2 end subscript equals 100 V"},"status":"ok"}

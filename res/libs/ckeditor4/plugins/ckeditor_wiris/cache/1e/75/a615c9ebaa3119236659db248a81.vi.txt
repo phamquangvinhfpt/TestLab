@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals H presubscript 2 presuperscript 4 e"},"status":"ok"}

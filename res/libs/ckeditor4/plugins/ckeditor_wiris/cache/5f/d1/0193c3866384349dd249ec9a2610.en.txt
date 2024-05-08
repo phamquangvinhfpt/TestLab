@@ -1,0 +1,1 @@
+{"result":{"text":"straight s straight i straight n alpha subscript 1 end subscript equals fraction numerator 2 comma 5 over denominator 5 end fraction equals 1 half not stretchy rightwards double arrow alpha subscript 1 equals fraction numerator pi over denominator 6 end fraction"},"status":"ok"}

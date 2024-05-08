@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi subscript left parenthesis 5 right parenthesis end subscript equals left parenthesis 10 pi.5 plus pi over 4 right parenthesis equals 25.2 pi plus pi over 4"},"status":"ok"}

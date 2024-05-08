@@ -1,0 +1,1 @@
+{"result":{"text":"450 less than lambda subscript L less than 510 rightwards double arrow 5 comma 6 less than k subscript 1 less than 6 comma 3 rightwards double arrow C h ọ n space k subscript 1 equals 6"},"status":"ok"}

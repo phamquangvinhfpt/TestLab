@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 220 square root of 2 cos 100 pi t space open parentheses V close parentheses"},"status":"ok"}

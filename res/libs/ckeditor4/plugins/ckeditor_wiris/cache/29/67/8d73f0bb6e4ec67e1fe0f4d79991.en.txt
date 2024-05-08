@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis t subscript 0 end subscript plus 0 comma 875 s right parenthesis"},"status":"ok"}

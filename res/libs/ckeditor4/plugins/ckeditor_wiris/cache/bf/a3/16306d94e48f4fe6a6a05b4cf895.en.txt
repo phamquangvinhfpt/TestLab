@@ -1,0 +1,1 @@
+{"result":{"text":"U equals fraction numerator m v to the power of 2 end exponent over denominator 2 e end fraction equals 2.10 to the power of 5 end exponent V"},"status":"ok"}

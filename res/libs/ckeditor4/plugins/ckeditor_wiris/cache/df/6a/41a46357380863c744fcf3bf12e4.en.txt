@@ -1,0 +1,1 @@
+{"result":{"text":"c straight o straight s phi space of 0.167em space of 0.167em equals space of 0.167em blank fraction numerator straight R over denominator straight Z end fraction space of 0.167em space of 0.167em equals space of 0.167em space of 0.167em fraction numerator U subscript R over denominator U end fraction"},"status":"ok"}

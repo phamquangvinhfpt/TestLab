@@ -1,0 +1,1 @@
+{"result":{"text":"5 equals lambda divided by 2 space of 0.167em h a y space of 0.167em not stretchy rightwards double arrow"},"status":"ok"}

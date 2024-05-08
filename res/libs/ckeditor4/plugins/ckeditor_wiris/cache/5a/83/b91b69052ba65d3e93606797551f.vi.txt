@@ -1,0 +1,1 @@
+{"result":{"text":"U equals A over q equals A to the power of divided by over q to the power of divided by rightwards double arrow A to the power of divided by"},"status":"ok"}

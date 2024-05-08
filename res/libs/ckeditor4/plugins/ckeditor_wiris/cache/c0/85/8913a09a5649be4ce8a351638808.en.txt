@@ -1,0 +1,1 @@
+{"result":{"text":"P equals U I cos invisible function application phi not stretchy rightwards double arrow I equals fraction numerator P over denominator U cos invisible function application phi end fraction equals fraction numerator 473 over denominator 220.0 comma 86 end fraction equals 2 comma 5 left parenthesis A right parenthesis"},"status":"ok"}

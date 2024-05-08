@@ -1,0 +1,1 @@
+{"result":{"text":"9 comma 74.10 to the power of negative 8 end exponent m"},"status":"ok"}

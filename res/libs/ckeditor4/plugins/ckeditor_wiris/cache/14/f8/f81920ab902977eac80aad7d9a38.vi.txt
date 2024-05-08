@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 5 c o s left parenthesis 4 pi t minus pi over 2 right parenthesis c m"},"status":"ok"}

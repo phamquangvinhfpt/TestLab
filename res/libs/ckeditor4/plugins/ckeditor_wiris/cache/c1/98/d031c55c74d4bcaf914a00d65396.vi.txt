@@ -1,0 +1,1 @@
+{"result":{"text":"open vertical bar A subscript 1 minus A subscript 2 close vertical bar less or equal than A less or equal than A subscript 1 plus A subscript 2"},"status":"ok"}

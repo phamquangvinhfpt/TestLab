@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript t equals m g l alpha squared divided by 2"},"status":"ok"}

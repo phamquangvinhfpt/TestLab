@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 4 over f squared m pi squared A squared"},"status":"ok"}

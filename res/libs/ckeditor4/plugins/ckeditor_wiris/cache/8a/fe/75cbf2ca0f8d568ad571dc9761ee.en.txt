@@ -1,0 +1,1 @@
+{"result":{"text":"E equals m omega fraction numerator A squared over denominator 2 end fraction"},"status":"ok"}

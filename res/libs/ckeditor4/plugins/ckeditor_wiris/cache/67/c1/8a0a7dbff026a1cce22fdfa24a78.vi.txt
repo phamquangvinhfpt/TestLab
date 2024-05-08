@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals N. capital delta E equals m over M N subscript A. capital delta E equals ?"},"status":"ok"}

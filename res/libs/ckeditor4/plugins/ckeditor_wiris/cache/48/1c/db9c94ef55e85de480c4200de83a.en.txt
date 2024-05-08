@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 0 A not stretchy left right double arrow 2 cos invisible function application left parenthesis 200 pi t minus pi over 3 right parenthesis equals 0"},"status":"ok"}

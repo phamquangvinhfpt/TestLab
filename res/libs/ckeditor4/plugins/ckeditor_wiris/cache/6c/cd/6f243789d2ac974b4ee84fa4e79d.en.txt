@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator P subscript 2 end subscript over denominator P subscript 1 end subscript end fraction equals fraction numerator cos to the power of 2 end exponent phi subscript 2 end subscript over denominator cos to the power of 2 end exponent phi subscript 1 end subscript end fraction"},"status":"ok"}

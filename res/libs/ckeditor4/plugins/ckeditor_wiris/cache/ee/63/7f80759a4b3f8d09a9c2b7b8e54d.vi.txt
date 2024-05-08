@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript 1 equals k fraction numerator open vertical bar q subscript 1. q subscript 2 close vertical bar over denominator r subscript 1 superscript 2 end fraction equals k fraction numerator open vertical bar q close vertical bar over denominator r subscript 1 superscript 2 end fraction"},"status":"ok"}

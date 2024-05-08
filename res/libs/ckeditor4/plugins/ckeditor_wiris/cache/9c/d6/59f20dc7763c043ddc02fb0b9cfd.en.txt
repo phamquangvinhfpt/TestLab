@@ -1,0 +1,1 @@
+{"result":{"text":"x r subscript M end subscript equals y r subscript B end subscript plus z r subscript A end subscript"},"status":"ok"}

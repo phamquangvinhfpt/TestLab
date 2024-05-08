@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m v squared over denominator 2 end fraction"},"status":"ok"}

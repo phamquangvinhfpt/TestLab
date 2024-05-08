@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals fraction numerator l over denominator n minus 1 end fraction equals fraction numerator 3 over denominator 7 minus 1 end fraction equals 0 comma 5 c m"},"status":"ok"}

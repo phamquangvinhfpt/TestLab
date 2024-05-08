@@ -1,0 +1,1 @@
+{"result":{"text":"beta to the power of plus end exponent"},"status":"ok"}

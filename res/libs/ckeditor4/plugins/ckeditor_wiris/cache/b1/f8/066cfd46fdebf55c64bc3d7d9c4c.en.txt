@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 1000 pi r a d divided by s"},"status":"ok"}

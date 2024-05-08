@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 1 half k A squared equals 1 half m omega squared S subscript 0 superscript 2 equals space ?"},"status":"ok"}

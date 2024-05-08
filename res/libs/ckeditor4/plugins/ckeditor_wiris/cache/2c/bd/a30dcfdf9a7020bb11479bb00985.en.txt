@@ -1,0 +1,1 @@
+{"result":{"text":"x space of 0.167em equals space of 0.167em sin invisible function application 2 t space of 0.167em equals space of 0.167em cos invisible function application left parenthesis 2 t space of 0.167em minus space of 0.167em pi over 2 right parenthesis space of 0.167em c m"},"status":"ok"}

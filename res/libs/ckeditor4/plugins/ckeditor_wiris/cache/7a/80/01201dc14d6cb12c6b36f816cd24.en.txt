@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator text \\user end text 2 m v subscript text \\user end text end subscript 2 0 to the power of text \\user end text end exponent 2 2 over denominator text \\user end text 2 2 end fraction"},"status":"ok"}

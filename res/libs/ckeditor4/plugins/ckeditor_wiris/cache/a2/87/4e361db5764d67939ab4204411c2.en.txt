@@ -1,0 +1,1 @@
+{"result":{"text":"H equals fraction numerator U subscript R end subscript over denominator E end fraction equals fraction numerator R over denominator R plus r end fraction equals 4 over 6 equals 2 over 3"},"status":"ok"}

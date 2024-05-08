@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 2 pi f equals fraction numerator 2 pi over denominator T end fraction equals fraction numerator 1 over denominator square root of L C end root end fraction equals fraction numerator I subscript 0 end subscript over denominator Q subscript 0 end subscript end fraction"},"status":"ok"}

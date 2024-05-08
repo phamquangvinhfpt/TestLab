@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 0 end subscript equals I subscript 0 end subscript square root of L over C end root"},"status":"ok"}

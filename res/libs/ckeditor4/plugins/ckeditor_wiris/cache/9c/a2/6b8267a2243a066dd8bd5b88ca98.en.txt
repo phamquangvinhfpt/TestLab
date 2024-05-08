@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L end subscript equals omega L equals 100 left parenthesis straight capital omega right parenthesis semicolon Z subscript C end subscript equals fraction numerator 1 over denominator omega C end fraction equals 50 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 4 pi fraction numerator f squared over denominator L C end fraction"},"status":"ok"}

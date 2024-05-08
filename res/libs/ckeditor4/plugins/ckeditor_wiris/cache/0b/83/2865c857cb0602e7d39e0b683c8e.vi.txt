@@ -1,0 +1,1 @@
+{"result":{"text":"500 to the power of o C"},"status":"ok"}

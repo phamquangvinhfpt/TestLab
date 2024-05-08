@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals 200 straight capital omega not stretchy rightwards double arrow L"},"status":"ok"}

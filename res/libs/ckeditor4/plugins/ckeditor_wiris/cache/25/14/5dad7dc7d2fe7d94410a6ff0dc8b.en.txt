@@ -1,0 +1,1 @@
+{"result":{"text":"xi subscript 1 end subscript equals 4 comma 5 V semicolon r subscript 1 end subscript equals 3 straight capital omega"},"status":"ok"}

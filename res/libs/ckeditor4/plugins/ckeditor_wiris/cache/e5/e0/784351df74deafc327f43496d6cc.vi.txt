@@ -1,0 +1,1 @@
+{"result":{"text":"W equals 1 half m open parentheses fraction numerator 2 pi over denominator T end fraction close parentheses squared A squared"},"status":"ok"}

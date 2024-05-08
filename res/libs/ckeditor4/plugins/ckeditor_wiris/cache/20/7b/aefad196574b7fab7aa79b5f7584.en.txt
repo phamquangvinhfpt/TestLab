@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow lambda equals 0 comma 75 blank mu straight m"},"status":"ok"}

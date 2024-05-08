@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta E equals W subscript 0 end subscript plus W subscript P end subscript minus W subscript alpha end subscript equals 0 comma 72 plus 2 comma 09 minus 4 almost equal to negative 1 comma 2 left parenthesis M e V right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

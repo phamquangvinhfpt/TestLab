@@ -1,0 +1,1 @@
+{"result":{"text":"e subscript c u end subscript equals fraction numerator capital delta capital phi over denominator capital delta t end fraction equals 5 V"},"status":"ok"}

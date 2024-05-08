@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 0 end subscript equals fraction numerator U subscript 0 L end subscript over denominator Z subscript L end subscript end fraction Z equals 80 left parenthesis V right parenthesis"},"status":"ok"}

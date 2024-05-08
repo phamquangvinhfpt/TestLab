@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight C subscript 1 end subscript straight C subscript 2 over denominator straight C subscript 1 end subscript plus straight C subscript 2 end subscript end fraction straight E equals 2 straight C subscript 0 end subscript straight E equals 6 straight C subscript 0 end subscript"},"status":"ok"}

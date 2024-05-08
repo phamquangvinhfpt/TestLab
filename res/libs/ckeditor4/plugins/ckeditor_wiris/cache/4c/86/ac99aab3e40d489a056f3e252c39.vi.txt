@@ -1,0 +1,1 @@
+{"result":{"text":"cos pi over 3 space v à space cos fraction numerator 5 pi over denominator 3 end fraction"},"status":"ok"}

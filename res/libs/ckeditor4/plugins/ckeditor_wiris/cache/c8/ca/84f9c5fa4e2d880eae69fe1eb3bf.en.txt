@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript 2 space of 0.167em equals space of 0.167em fraction numerator straight capital delta t over denominator 10 end fraction space of 0.167em equals space of 0.167em 2 pi square root of fraction numerator l space of 0.167em minus space of 0.167em 0 comma 16 over denominator g end fraction end root"},"status":"ok"}

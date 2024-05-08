@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application phi equals fraction numerator Z subscript L minus Z subscript C over denominator R end fraction equals fraction numerator U subscript L minus U subscript C over denominator U subscript R end fraction"},"status":"ok"}

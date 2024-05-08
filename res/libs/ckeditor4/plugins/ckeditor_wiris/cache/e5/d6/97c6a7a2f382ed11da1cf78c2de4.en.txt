@@ -1,0 +1,1 @@
+{"result":{"text":"1 divided by left parenthesis 7 comma 2 pi right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta phi equals pi over 2 plus pi over 3 equals fraction numerator 5 pi over denominator 6 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"y plus z equals 25."},"status":"ok"}

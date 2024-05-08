@@ -1,0 +1,1 @@
+{"result":{"text":"straight T equals 2 pi square root of straight L straight C end root equals 2 pi square root of 2.10 to the power of negative 3 end exponent.8.10 to the power of negative 12 end exponent end root equals 8.10 to the power of negative 7 end exponent"},"status":"ok"}

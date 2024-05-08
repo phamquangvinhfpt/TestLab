@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 1 over straight f space of 0.278em equals lambda over c"},"status":"ok"}

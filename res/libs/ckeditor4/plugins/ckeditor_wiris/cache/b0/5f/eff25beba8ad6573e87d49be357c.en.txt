@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital pi divided by 2 minus straight capital pi divided by 4 equals straight capital pi divided by 4"},"status":"ok"}

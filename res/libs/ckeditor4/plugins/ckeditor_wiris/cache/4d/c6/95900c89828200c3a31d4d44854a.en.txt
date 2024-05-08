@@ -1,0 +1,1 @@
+{"result":{"text":"equals fraction numerator H e space of 0.167em s o space of 0.167em c u a space of 0.167em t over denominator H e space of 0.167em s o space of 0.167em c u a space of 0.167em x end fraction equals 20 over 4 equals 5 left parenthesis m divided by s right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

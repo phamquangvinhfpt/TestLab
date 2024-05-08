@@ -1,0 +1,1 @@
+{"result":{"text":"tan open parentheses negative pi over 4 close parentheses equals negative 1 equals fraction numerator negative Z subscript C over denominator R end fraction rightwards double arrow Z subscript C equals R rightwards double arrow Z equals R square root of 2"},"status":"ok"}

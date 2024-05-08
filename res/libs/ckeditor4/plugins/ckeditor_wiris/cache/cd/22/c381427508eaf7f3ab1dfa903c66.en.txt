@@ -1,0 +1,1 @@
+{"result":{"text":"r equals 0 semicolon R subscript d end subscript equals fraction numerator U to the power of 2 end exponent over denominator R end fraction equals 12 straight capital omega"},"status":"ok"}

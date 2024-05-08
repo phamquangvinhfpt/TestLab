@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator U over denominator R plus r end fraction equals 1 A not stretchy rightwards double arrow R equals 40 straight capital omega"},"status":"ok"}

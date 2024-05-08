@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals U plus text Ir end text equals U subscript d 1 end subscript plus left parenthesis I subscript d 1 end subscript plus I subscript d 2 end subscript right parenthesis r equals 12 plus left parenthesis 0 comma 5 plus 0 comma 75 right parenthesis.0 comma 4 equals 12 comma 5 left parenthesis V right parenthesis"},"status":"ok"}

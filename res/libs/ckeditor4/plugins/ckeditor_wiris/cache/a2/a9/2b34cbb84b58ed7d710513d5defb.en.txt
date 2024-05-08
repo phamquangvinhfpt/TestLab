@@ -1,0 +1,1 @@
+{"result":{"text":"O M equals O N equals 10 i equals 10 n i to the power of prime equals 14 i to the power of prime"},"status":"ok"}

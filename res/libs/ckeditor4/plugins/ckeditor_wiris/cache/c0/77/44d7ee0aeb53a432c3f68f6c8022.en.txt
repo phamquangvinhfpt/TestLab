@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals 2 c m not stretchy rightwards double arrow v equals lambda. f equals 24 c m divided by s"},"status":"ok"}

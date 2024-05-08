@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript 1 end subscript divided by q subscript 1 end subscript equals F subscript 2 end subscript divided by q subscript 2 end subscript"},"status":"ok"}

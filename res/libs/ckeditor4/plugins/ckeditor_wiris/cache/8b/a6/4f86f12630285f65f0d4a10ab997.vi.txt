@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 1 comma space lambda subscript 2 space end subscript v ớ i space lambda subscript 2 equals 4 lambda subscript 1"},"status":"ok"}

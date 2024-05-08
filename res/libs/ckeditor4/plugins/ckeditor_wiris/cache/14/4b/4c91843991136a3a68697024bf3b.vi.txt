@@ -1,0 +1,1 @@
+{"result":{"text":"15 to the power of o space v à space 30 to the power of o"},"status":"ok"}

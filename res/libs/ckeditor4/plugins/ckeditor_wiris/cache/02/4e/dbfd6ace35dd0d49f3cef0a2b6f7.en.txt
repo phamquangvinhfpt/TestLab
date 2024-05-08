@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow k equals x subscript s end subscript over i equals fraction numerator 5 comma 4 over denominator 1 comma 8 end fraction equals 3"},"status":"ok"}

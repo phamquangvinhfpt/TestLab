@@ -1,0 +1,1 @@
+{"result":{"text":"t plus fraction numerator straight capital delta t over denominator 4 end fraction"},"status":"ok"}

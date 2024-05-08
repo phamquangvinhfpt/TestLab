@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript m a x end subscript equals omega A equals 2.10 equals 20 c m divided by s."},"status":"ok"}

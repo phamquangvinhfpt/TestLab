@@ -1,0 +1,1 @@
+{"result":{"text":"i to the power of prime equals fraction numerator lambda to the power of prime D over denominator a end fraction equals fraction numerator lambda D over denominator n a end fraction equals i over n equals fraction numerator 2 over denominator 4 over 3 end fraction equals 1 comma 5 left parenthesis m m right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 4 cos to the power of 2 end exponent left parenthesis 100 pi t right parenthesis equals 2 plus 2 cos invisible function application left parenthesis 200 pi t right parenthesis left parenthesis A right parenthesis"},"status":"ok"}

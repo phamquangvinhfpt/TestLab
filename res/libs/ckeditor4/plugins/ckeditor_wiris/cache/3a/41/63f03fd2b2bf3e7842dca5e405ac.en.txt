@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator E over denominator R subscript N end subscript plus r end fraction equals fraction numerator 24 over denominator 5 plus 1 end fraction equals 4 A not stretchy rightwards double arrow I subscript P end subscript equals 4 A"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"u space of 0.167em equals space of 0.167em U subscript 0 cos invisible function application omega t"},"status":"ok"}

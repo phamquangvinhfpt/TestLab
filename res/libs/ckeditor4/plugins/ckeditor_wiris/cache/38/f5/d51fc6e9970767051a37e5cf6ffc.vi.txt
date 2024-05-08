@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell F subscript 1 equals k. x subscript 1 end cell row cell F subscript m a x end subscript equals k. A end cell end table close rightwards double arrow x subscript 1 equals A square root of 32"},"status":"ok"}

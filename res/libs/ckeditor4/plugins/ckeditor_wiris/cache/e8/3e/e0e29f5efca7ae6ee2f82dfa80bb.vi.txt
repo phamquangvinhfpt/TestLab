@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 48 mu m space v à space 0 comma 56 mu m"},"status":"ok"}

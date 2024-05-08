@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript identical to equals 4 comma 8 straight m straight m equals straight capital delta x"},"status":"ok"}

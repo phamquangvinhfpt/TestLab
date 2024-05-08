@@ -1,0 +1,1 @@
+{"result":{"text":"text W end text subscript t end subscript equals fraction numerator k A to the power of 2 end exponent over denominator 2 end fraction equals 0 comma 04 not stretchy rightwards double arrow A equals square root of fraction numerator 0 comma 08 over denominator k end fraction end root"},"status":"ok"}

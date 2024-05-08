@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta phi equals omega t equals 100 pi. space 1 comma 015 equals 1 comma 5 pi equals fraction numerator 3 pi over denominator 2 end fraction"},"status":"ok"}

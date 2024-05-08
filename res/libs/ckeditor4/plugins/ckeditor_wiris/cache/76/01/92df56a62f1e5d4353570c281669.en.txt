@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow P subscript h p end subscript equals I to the power of 2 end exponent R equals 5.357 to the power of 2 end exponent.32 equals 924 comma 5 W greater than 43 left parenthesis text W end text right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

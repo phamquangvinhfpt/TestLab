@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 superscript divided by equals fraction numerator U subscript 0 over denominator R square root of 5 end fraction equals fraction numerator I subscript 0 square root of 2 end subscript over denominator square root of 5 end fraction almost equal to 0 comma 63 I subscript 0"},"status":"ok"}

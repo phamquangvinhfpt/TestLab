@@ -1,0 +1,1 @@
+{"result":{"text":"t equals T over 4 equals 3 over 4 equals 0 comma 75"},"status":"ok"}

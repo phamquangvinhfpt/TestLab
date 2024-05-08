@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript t 3 end subscript equals open parentheses k plus 1 half close parentheses fraction numerator lambda. D over denominator a end fraction comma space v ớ i space k equals 2\nS u y space r a colon space lambda equals 0 comma 60 mu m"},"status":"ok"}

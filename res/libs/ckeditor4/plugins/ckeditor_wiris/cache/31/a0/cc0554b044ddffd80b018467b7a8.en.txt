@@ -1,0 +1,1 @@
+{"result":{"text":"lambda space of 0.167em equals space of 0.167em fraction numerator i a over denominator D end fraction space of 0.167em equals space of 0.167em 0 comma 4.10 to the power of negative 6 space of 0.167em end exponent space of 0.167em m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of L. C end root equals 4.67.10 to the power of negative 3 end exponent s"},"status":"ok"}

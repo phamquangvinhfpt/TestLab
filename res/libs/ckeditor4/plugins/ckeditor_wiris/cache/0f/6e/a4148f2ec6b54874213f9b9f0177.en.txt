@@ -1,0 +1,1 @@
+{"result":{"text":"t equals square root of fraction numerator 2 S over denominator a end fraction end root equals 0 comma 05 s"},"status":"ok"}

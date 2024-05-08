@@ -1,0 +1,1 @@
+{"result":{"text":"plus U subscript 0 L end subscript divided by square root of 2"},"status":"ok"}

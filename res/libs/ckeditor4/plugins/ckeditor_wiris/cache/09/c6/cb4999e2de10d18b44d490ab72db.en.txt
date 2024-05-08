@@ -1,0 +1,1 @@
+{"result":{"text":"omega t space of 0.167em plus space of 0.167em phi"},"status":"ok"}

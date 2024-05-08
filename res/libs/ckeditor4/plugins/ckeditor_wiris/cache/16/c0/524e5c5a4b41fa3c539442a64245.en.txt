@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals N. straight capital delta E equals m over A N subscript A end subscript straight capital delta E equals 1 comma 64.10 to the power of 11 end exponent J"},"status":"ok"}

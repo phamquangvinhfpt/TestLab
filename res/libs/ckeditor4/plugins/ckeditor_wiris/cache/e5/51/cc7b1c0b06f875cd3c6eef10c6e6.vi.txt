@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 6 space equals fraction numerator I subscript 0 square root of 3 over denominator 2 end fraction"},"status":"ok"}

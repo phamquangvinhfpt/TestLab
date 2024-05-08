@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals 5 sin invisible function application left parenthesis 2 pi straight t plus fraction numerator pi over denominator 6 end fraction right parenthesis"},"status":"ok"}

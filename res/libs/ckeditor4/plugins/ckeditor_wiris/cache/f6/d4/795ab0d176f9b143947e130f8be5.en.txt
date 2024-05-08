@@ -1,0 +1,1 @@
+{"result":{"text":"straight f equals 1 over straight T equals fraction numerator omega over denominator 2 pi end fraction equals straight N over straight t equals fraction numerator S ố space d a o space đ ộ n g over denominator K h o ả n g space t h ờ i space g i a n end fraction not stretchy rightwards double arrow"},"status":"ok"}

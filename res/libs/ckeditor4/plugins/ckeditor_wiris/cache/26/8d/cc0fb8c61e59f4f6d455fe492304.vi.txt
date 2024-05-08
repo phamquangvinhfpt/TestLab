@@ -1,0 +1,1 @@
+{"result":{"text":"54. space f left parenthesis x right parenthesis space equals space 6\nf apostrophe left parenthesis x right parenthesis space equals space 0\n\n"},"status":"ok"}

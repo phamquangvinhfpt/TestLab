@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript R greater than v subscript L greater than v subscript K"},"status":"ok"}

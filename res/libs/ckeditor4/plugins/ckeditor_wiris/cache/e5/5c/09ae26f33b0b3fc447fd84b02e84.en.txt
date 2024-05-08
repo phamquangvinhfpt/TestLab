@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript t s end subscript equals 1 third W subscript t đ end subscript"},"status":"ok"}

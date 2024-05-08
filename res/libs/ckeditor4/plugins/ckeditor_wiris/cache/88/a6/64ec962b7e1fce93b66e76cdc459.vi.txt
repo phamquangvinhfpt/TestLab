@@ -1,0 +1,1 @@
+{"result":{"text":"q equals C. U equals N open vertical bar e close vertical bar rightwards double arrow N equals fraction numerator C. U over denominator open vertical bar e close vertical bar end fraction equals"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript min end subscript equals fraction numerator h c over denominator e U subscript A K end subscript end fraction"},"status":"ok"}

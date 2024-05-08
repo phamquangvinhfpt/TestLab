@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript straight infinity 1 end subscript equals fraction numerator h. c over denominator 13 comma 6. e end fraction"},"status":"ok"}

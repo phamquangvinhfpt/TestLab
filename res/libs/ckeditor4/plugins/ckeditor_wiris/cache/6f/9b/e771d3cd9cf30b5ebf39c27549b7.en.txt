@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 6.625.10 to the power of negative 34 end exponent.3.10 to the power of 8 over denominator 1 comma 8.1 comma 6.10 to the power of negative 19 end exponent end fraction equals 0 comma 69.10 to the power of negative 6 end exponent m equals 0 comma 69 mu m"},"status":"ok"}

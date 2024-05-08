@@ -1,0 +1,1 @@
+{"result":{"text":"t equals 5 over 600 plus k over 100 s left parenthesis k equals 0 semicolon 1 semicolon 2.. right parenthesis"},"status":"ok"}

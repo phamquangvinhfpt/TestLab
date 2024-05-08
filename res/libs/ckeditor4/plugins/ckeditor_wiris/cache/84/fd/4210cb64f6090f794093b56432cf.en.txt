@@ -1,0 +1,1 @@
+{"result":{"text":"x equals fraction numerator d over denominator square root of 2 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of k over m end root"},"status":"ok"}

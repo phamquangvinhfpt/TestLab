@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 1006"},"status":"ok"}

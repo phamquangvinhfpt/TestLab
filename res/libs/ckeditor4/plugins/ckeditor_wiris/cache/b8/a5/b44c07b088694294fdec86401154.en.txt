@@ -1,0 +1,1 @@
+{"result":{"text":"B b I square root of M K to the power of 2 end exponent minus M O to the power of 2 end exponent end root"},"status":"ok"}

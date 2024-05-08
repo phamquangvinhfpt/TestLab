@@ -1,0 +1,1 @@
+{"result":{"text":"a equals omega squared r not stretchy rightwards double arrow omega squared equals a over r equals fraction numerator 9 comma 6 over denominator 0 comma 15 end fraction."},"status":"ok"}

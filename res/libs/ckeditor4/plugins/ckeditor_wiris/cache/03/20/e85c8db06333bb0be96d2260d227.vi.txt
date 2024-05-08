@@ -1,0 +1,1 @@
+{"result":{"text":"F equals k fraction numerator vertical line q subscript 1 q subscript 2 vertical line over denominator epsilon. r squared end fraction"},"status":"ok"}

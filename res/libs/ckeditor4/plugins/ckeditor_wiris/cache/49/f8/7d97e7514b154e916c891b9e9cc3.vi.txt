@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow fraction numerator K subscript alpha over denominator capital delta E end fraction equals fraction numerator m subscript R n end subscript over denominator m subscript alpha plus m subscript R n end subscript end fraction open parentheses 2 close parentheses"},"status":"ok"}

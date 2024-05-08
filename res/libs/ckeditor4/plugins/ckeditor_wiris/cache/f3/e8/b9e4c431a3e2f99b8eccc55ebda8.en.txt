@@ -1,0 +1,1 @@
+{"result":{"text":"1 over T vertical line Q vertical line subscript T end subscript"},"status":"ok"}

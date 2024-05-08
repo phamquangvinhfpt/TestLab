@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript m a x end subscript equals 10 comma 24 space N"},"status":"ok"}

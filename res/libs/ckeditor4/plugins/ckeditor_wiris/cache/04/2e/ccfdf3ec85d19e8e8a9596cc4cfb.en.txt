@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow fraction numerator v subscript 1 superscript 2 over denominator v subscript 2 superscript 2 end fraction equals fraction numerator r subscript 2 over denominator r subscript 1 end fraction equals 16 not stretchy rightwards double arrow r subscript 2 equals 16 r subscript 1"},"status":"ok"}

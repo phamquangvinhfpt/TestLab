@@ -1,0 +1,1 @@
+{"result":{"text":"T over 6 plus T equals fraction numerator 7 T over denominator 6 end fraction equals 7 over 6 s"},"status":"ok"}

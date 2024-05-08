@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals I subscript 0 end subscript divided by Q subscript 0 end subscript equals 3000 pi"},"status":"ok"}

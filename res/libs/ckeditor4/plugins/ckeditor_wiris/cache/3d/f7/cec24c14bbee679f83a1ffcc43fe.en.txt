@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta E equals not stretchy left parenthesis m subscript P o end subscript minus m subscript alpha minus m subscript P b end subscript not stretchy right parenthesis c squared"},"status":"ok"}

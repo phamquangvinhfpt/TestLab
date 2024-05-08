@@ -1,0 +1,1 @@
+{"result":{"text":"L open parentheses d B close parentheses equals 10 l g I over I subscript 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of prime equals 10 to the power of n end exponent I not stretchy left right double arrow L to the power of prime equals L plus n left parenthesis B right parenthesis"},"status":"ok"}

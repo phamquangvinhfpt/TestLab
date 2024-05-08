@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator r to the power of 2 end exponent over denominator R end fraction"},"status":"ok"}

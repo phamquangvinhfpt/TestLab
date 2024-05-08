@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript X equals fraction numerator square root of 2 m subscript p. v subscript p over denominator m subscript X end fraction"},"status":"ok"}

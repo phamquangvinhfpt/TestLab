@@ -1,0 +1,1 @@
+{"result":{"text":"negative square root of 3 left parenthesis c m right parenthesis"},"status":"ok"}

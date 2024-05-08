@@ -1,0 +1,1 @@
+{"result":{"text":"A subscript 0 end subscript equals A less than A subscript max end subscript equals 2 A"},"status":"ok"}

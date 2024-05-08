@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals 1 comma 25 cos invisible function application left parenthesis 2 pi straight t minus fraction numerator pi over denominator 12 end fraction right parenthesis"},"status":"ok"}

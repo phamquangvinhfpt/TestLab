@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M end subscript equals 3 comma 5 i subscript 1 end subscript equals 10 comma 5 i"},"status":"ok"}

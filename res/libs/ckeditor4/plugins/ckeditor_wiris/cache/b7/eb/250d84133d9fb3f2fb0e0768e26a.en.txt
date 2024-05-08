@@ -1,0 +1,1 @@
+{"result":{"text":"u equals u subscript t end subscript superscript blank to the power of prime end superscript equals negative omega A sin invisible function application left parenthesis omega t equals beta minus fraction numerator 2 pi over denominator lambda end fraction x right parenthesis"},"status":"ok"}

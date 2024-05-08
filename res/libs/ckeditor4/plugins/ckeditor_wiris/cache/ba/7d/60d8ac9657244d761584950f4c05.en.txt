@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow fraction numerator 6 over denominator 3 plus r end fraction equals fraction numerator 10 comma 5 over denominator 10 comma 5 plus r end fraction not stretchy rightwards double arrow r equals 7 straight capital omega"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"4 over 9 space of 0.278em"},"status":"ok"}

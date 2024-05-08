@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals phi subscript u end subscript minus phi subscript i end subscript equals left parenthesis 100 pi t plus fraction numerator 2 pi over denominator 3 end fraction right parenthesis minus left parenthesis 100 pi t plus pi over 6 right parenthesis equals pi over 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"equals fraction numerator N over denominator N subscript A end subscript end fraction A equals fraction numerator 5 comma 913.10 to the power of 26 end exponent over denominator 6 comma 02.10 to the power of 23 end exponent end fraction.0 comma 235 equals 230 comma 8 left parenthesis k g right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

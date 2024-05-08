@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t to the power of prime equals T over 2"},"status":"ok"}

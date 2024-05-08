@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell e U equals 1 half m v squared end cell row cell e U equals 1 half m open parentheses v plus 5.10 to the power of 6 close parentheses squared end cell end table close"},"status":"ok"}

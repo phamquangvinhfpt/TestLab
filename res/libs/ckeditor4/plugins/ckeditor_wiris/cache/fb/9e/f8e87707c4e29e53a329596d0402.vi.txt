@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 0 equals fraction numerator U subscript 0 over denominator R square root of 2 end fraction rightwards double arrow U subscript 0 over R equals I subscript 0 square root of 2 space"},"status":"ok"}

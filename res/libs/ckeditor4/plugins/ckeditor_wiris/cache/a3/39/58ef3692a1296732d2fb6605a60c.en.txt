@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals omega. straight capital delta t"},"status":"ok"}

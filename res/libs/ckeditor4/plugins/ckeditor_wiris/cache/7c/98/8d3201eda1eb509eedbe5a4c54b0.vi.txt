@@ -1,0 +1,1 @@
+{"result":{"text":"66.10 to the power of 11 J"},"status":"ok"}

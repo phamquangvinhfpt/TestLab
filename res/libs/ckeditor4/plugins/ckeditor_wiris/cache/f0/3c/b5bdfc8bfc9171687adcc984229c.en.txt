@@ -1,0 +1,1 @@
+{"result":{"text":"equals 8 left parenthesis 1 minus 1 half right parenthesis plus 8 left parenthesis 1 minus fraction numerator square root of 3 over denominator 2 end fraction right parenthesis equals 18 comma 93 straight c straight m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript 0 c d end subscript equals fraction numerator U subscript 0 end subscript over denominator Z end fraction Z subscript c d end subscript equals fraction numerator 10 over denominator 20 square root of 2 end fraction.10 square root of 2 equals 5 left parenthesis V right parenthesis"},"status":"ok"}

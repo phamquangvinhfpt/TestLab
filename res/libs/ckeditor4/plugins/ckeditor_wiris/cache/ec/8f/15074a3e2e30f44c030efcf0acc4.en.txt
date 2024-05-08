@@ -1,0 +1,1 @@
+{"result":{"text":"Z space of 0.167em equals space of 0.167em square root of R squared space of 0.167em plus space of 0.167em left parenthesis Z subscript L space of 0.167em minus space of 0.167em Z subscript C right parenthesis squared end root"},"status":"ok"}

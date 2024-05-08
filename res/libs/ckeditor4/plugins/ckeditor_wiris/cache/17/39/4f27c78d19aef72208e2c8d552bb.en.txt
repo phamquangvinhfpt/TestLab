@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 4 cos invisible function application left parenthesis 120 pi t right parenthesis"},"status":"ok"}

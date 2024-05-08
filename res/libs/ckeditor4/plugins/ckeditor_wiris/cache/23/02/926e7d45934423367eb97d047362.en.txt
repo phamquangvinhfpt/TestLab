@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 4 cos invisible function application left square bracket 8 pi left parenthesis t plus 3 right parenthesis plus pi over 6 right square bracket equals 0 comma 7 A"},"status":"ok"}

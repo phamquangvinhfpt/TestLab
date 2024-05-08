@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript d end subscript equals fraction numerator U subscript d m end subscript superscript 2 end superscript over denominator P subscript d m end subscript end fraction equals fraction numerator 6 to the power of 2 end exponent over denominator 9 end fraction equals 4 straight capital omega"},"status":"ok"}

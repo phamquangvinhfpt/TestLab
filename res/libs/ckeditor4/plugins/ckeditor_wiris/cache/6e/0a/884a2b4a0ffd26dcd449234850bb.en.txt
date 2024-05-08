@@ -1,0 +1,1 @@
+{"result":{"text":"L equals fraction numerator 1 over denominator 6 pi end fraction H"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"W equals fraction numerator 1 over denominator 2 f end fraction m pi A squared"},"status":"ok"}

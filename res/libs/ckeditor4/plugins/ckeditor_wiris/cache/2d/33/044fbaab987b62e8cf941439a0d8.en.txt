@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript d end subscript equals 120 cos invisible function application left parenthesis 100 pi t plus pi divided by 3 right parenthesis"},"status":"ok"}

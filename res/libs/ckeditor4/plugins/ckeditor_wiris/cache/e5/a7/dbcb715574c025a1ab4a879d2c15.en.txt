@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript n g end subscript equals xi I equals 60 comma 75 W"},"status":"ok"}

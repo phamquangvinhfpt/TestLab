@@ -1,0 +1,1 @@
+{"result":{"text":"i equals space of 0.278em I subscript 0 space of 0.278em stack not stretchy left right double arrow with blank below space of 0.278em t to the power of prime equals T"},"status":"ok"}

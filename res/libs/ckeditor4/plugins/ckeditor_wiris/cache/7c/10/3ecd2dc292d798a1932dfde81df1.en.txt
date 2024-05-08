@@ -1,0 +1,1 @@
+{"result":{"text":"2 vertical line Z subscript C end subscript plus Z subscript L end subscript vertical line"},"status":"ok"}

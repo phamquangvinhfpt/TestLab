@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript m i n end subscript equals i subscript identical to over 2 equals 0 comma 75 space m m"},"status":"ok"}

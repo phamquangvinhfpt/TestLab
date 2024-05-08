@@ -1,0 +1,1 @@
+{"result":{"text":"W equals W subscript t end subscript plus W subscript d end subscript equals fraction numerator k x to the power of 2 end exponent over denominator 2 end fraction plus fraction numerator m v to the power of 2 end exponent over denominator 2 end fraction equals fraction numerator k A to the power of 2 end exponent over denominator 2 end fraction"},"status":"ok"}

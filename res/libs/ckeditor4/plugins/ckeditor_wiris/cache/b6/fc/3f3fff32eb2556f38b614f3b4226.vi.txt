@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of k over m end root equals 10 space r a d divided by s rightwards double arrow A equals square root of x squared plus v squared over omega squared end root equals 5 space c m"},"status":"ok"}

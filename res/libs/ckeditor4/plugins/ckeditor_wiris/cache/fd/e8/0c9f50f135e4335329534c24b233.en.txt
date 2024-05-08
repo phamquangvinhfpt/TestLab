@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 1 end subscript equals 20 to the power of 0 end exponent C"},"status":"ok"}

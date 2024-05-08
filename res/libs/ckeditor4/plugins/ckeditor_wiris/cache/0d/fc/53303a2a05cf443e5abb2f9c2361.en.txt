@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow F equals fraction numerator m g sin invisible function application alpha minus mu m g cos invisible function application alpha over denominator cos invisible function application alpha plus mu sin invisible function application alpha end fraction equals 0 comma 2005 left parenthesis N right parenthesis"},"status":"ok"}

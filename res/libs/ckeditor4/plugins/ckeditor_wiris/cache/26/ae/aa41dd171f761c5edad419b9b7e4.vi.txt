@@ -1,0 +1,1 @@
+{"result":{"text":"a subscript m a x end subscript equals omega squared A equals open parentheses 2 pi f close parentheses squared A equals 63 comma 1 m divided by s squared"},"status":"ok"}

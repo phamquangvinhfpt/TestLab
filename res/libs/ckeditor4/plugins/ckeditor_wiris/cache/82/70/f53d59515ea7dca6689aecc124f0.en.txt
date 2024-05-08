@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator R squared plus not stretchy left parenthesis omega subscript 3 L minus fraction numerator 1 over denominator omega subscript 3 C end fraction over denominator omega subscript 3 superscript 2 end fraction"},"status":"ok"}

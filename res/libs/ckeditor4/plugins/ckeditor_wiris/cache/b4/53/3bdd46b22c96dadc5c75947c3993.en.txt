@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow S n equals S b equals fraction numerator ell over denominator 0 comma 5 lambda end fraction plus 0 comma 5 equals fraction numerator 65 over denominator 0 comma 5.52 end fraction plus 0 comma 5 equals 3 not stretchy rightwards double arrow"},"status":"ok"}

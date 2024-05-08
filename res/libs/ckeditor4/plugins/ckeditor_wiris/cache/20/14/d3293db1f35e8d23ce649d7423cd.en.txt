@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals fraction numerator a x subscript M over denominator 5 D end fraction equals 0 comma 6.10 to the power of negative 6 end exponent m"},"status":"ok"}

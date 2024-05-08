@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow 1.2 comma 09 plus 4.4 minus square root of 1.2 comma 09.4.4 end root equals 17 W subscript 0 end subscript not stretchy rightwards double arrow W subscript 0 end subscript almost equal to 0 comma 72 left parenthesis M e V right parenthesis"},"status":"ok"}

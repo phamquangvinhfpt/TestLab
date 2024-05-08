@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 10 to the power of negative 10 end exponent over pi F"},"status":"ok"}

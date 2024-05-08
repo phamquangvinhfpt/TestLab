@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application phi subscript A N end subscript equals Z over R equals fraction numerator 100 square root of 3 over denominator 100 end fraction equals square root of 3 not stretchy rightwards double arrow phi subscript A N end subscript equals pi over 3"},"status":"ok"}

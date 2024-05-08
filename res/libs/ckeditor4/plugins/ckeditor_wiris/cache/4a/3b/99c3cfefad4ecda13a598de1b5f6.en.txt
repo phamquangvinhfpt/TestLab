@@ -1,0 +1,1 @@
+{"result":{"text":"∣ a subscript m a x end subscript ∣= omega squared A"},"status":"ok"}

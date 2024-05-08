@@ -1,0 +1,1 @@
+{"result":{"text":"k subscript 1 fraction numerator lambda subscript 1 D over denominator a end fraction equals k subscript 2 fraction numerator lambda subscript 2 D over denominator a end fraction not stretchy left right double arrow k subscript 1 equals 6 over 5 k subscript 2 semicolon k subscript 1 comma k subscript 2 element of Z"},"status":"ok"}

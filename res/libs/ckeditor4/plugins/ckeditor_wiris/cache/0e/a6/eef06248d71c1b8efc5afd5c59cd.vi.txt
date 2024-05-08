@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C equals 50 capital omega"},"status":"ok"}

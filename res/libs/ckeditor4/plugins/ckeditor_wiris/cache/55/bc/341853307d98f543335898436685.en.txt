@@ -1,0 +1,1 @@
+{"result":{"text":"1 divided by pi not stretchy left parenthesis H not stretchy right parenthesis"},"status":"ok"}

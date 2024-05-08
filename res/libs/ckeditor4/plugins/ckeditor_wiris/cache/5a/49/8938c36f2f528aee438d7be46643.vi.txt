@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript l k end subscript equals left parenthesis capital delta m space minus space m right parenthesis. c squared"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Q subscript 1 end subscript equals m c left parenthesis T subscript C end subscript minus t subscript 0 end subscript right parenthesis equals 10 to the power of negative 6 end exponent.4 comma 18.10 to the power of 3 end exponent. left parenthesis 100 minus 30 right parenthesis equals 0 comma 2926 J."},"status":"ok"}

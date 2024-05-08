@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript L equals 3 W subscript C rightwards double arrow W equals 4 W subscript C\n1 half L I subscript 0 superscript 2 equals 4 1 half C. u squared rightwards double arrow u equals square root of fraction numerator L over denominator 2 C end fraction. end root space I subscript 0 equals 5 square root of 10 space V"},"status":"ok"}

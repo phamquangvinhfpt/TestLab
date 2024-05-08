@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight T over denominator 4 end fraction equals 3 over 4 straight s"},"status":"ok"}

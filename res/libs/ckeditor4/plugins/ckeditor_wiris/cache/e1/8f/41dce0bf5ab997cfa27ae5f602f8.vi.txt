@@ -1,0 +1,1 @@
+{"result":{"text":"L equals 10 to the power of negative 2 end exponent over pi H"},"status":"ok"}

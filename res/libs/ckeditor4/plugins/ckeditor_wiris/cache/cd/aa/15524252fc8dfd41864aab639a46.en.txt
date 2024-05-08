@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator i subscript 2 end subscript over denominator i subscript 1 end subscript end fraction equals b over c not stretchy rightwards double arrow i subscript identical to end subscript equals b i subscript 1 end subscript equals c i subscript 2 end subscript"},"status":"ok"}

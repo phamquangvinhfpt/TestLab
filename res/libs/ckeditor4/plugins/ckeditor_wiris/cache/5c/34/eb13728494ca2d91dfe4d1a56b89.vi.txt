@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator G W over denominator m squared end fraction"},"status":"ok"}

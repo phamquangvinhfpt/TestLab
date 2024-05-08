@@ -1,0 +1,1 @@
+{"result":{"text":"q equals negative 6 square root of 3 equals negative fraction numerator Q subscript 0 end subscript square root of 3 over denominator 2 end fraction"},"status":"ok"}

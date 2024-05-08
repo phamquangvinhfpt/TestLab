@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator N over denominator N subscript A end fraction. A equals 0 comma 22 m g"},"status":"ok"}

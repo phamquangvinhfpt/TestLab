@@ -1,0 +1,1 @@
+{"result":{"text":"O T equals b D over d"},"status":"ok"}

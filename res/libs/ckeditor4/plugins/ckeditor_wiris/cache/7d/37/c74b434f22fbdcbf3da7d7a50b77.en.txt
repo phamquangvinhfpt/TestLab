@@ -1,0 +1,1 @@
+{"result":{"text":"T equals fraction numerator 2 pi over denominator omega end fraction equals 2.10 to the power of negative 4 end exponent left parenthesis s right parenthesis not stretchy rightwards double arrow T over 4 equals 0 comma 5.10 to the power of negative 4 end exponent left parenthesis s right parenthesis"},"status":"ok"}

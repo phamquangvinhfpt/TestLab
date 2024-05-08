@@ -1,0 +1,1 @@
+{"result":{"text":"omega squared equals k over m rightwards double arrow m equals k over omega squared equals 0 comma 1 k g equals 100 g."},"status":"ok"}

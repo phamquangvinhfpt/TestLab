@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 1 equals I subscript 0 cos invisible function application not stretchy left parenthesis omega t plus phi subscript 1 not stretchy right parenthesis"},"status":"ok"}

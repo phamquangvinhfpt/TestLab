@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 straight T over denominator 24 end fraction"},"status":"ok"}

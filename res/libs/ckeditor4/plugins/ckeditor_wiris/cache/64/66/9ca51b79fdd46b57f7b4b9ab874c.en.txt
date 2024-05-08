@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of n end exponent"},"status":"ok"}

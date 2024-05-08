@@ -1,0 +1,1 @@
+{"result":{"text":"A squared equals A subscript 1 superscript 2 plus A subscript 2 superscript 2 plus 2 A subscript 1 A subscript 2 cos open parentheses phi subscript 2 minus phi subscript 1 close parentheses"},"status":"ok"}

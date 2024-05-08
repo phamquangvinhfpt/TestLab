@@ -1,0 +1,1 @@
+{"result":{"text":"vertical line u vertical line greater or equal than 100 V"},"status":"ok"}

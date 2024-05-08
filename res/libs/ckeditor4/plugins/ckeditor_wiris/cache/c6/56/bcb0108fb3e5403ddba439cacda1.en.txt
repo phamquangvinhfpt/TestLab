@@ -1,0 +1,1 @@
+{"result":{"text":"omega space of 0.167em equals space of 0.167em square root of fraction numerator g over denominator straight capital delta l end fraction end root space of 0.167em equals space of 0.167em 10 square root of 5 space of 0.167em left parenthesis fraction numerator r a d over denominator s end fraction right parenthesis"},"status":"ok"}

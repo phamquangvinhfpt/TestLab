@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 2 cos left parenthesis 100 pi t plus pi over 12 right parenthesis"},"status":"ok"}

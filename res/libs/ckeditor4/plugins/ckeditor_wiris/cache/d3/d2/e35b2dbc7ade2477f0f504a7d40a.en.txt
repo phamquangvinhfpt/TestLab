@@ -1,0 +1,1 @@
+{"result":{"text":"2 T equals R equals square root of P to the power of 2 end exponent plus F to the power of 2 end exponent end root"},"status":"ok"}

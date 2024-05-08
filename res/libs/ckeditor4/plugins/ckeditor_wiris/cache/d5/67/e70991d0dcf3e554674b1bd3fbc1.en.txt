@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript s 3 end subscript space of 0.167em equals space of 0.167em k fraction numerator lambda D over denominator a end fraction space of 0.167em equals space of 0.167em 3 comma 6 space of 0.167em m m"},"status":"ok"}

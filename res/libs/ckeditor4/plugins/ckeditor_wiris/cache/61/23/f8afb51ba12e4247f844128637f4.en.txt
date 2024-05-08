@@ -1,0 +1,1 @@
+{"result":{"text":"t equals T over 4"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"r equals U over I equals fraction numerator 9 over denominator 0 comma 5 end fraction equals 18 straight capital omega"},"status":"ok"}

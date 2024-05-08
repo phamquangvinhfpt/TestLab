@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript t d end subscript equals R plus R subscript D end subscript equals U over I equals fraction numerator 220 over denominator 0 comma 5 end fraction equals 440 straight capital omega"},"status":"ok"}

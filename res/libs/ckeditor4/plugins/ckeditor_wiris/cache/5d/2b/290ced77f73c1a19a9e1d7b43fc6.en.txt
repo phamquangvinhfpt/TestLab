@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 1 equals 400 straight n straight m"},"status":"ok"}

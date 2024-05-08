@@ -1,0 +1,1 @@
+{"result":{"text":"square root of x squared plus v squared over omega squared end root"},"status":"ok"}

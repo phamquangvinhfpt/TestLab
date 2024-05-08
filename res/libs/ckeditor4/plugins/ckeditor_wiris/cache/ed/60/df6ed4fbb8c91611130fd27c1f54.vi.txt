@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript 1 less than C subscript 2"},"status":"ok"}

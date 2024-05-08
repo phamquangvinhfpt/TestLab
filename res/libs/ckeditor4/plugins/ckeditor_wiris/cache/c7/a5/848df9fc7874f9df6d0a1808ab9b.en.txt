@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator lambda subscript t D over denominator a end fraction"},"status":"ok"}

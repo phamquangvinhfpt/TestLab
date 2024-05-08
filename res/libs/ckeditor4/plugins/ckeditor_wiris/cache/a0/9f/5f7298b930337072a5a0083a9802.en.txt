@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript n equals F subscript 0 sin invisible function application 10 pi t"},"status":"ok"}

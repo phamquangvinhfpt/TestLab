@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript D end subscript equals fraction numerator U subscript D end subscript superscript 2 end superscript over denominator P subscript D end subscript end fraction equals 6 straight capital omega"},"status":"ok"}

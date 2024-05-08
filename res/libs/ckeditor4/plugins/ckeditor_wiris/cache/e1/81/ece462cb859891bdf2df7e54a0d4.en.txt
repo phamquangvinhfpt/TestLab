@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator omega subscript 1 over denominator omega subscript 2 end fraction equals fraction numerator straight capital delta phi subscript 1 over denominator straight capital delta phi subscript 2 end fraction equals 2 comma 5."},"status":"ok"}

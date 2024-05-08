@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of negative t 1 divided by T end exponent"},"status":"ok"}

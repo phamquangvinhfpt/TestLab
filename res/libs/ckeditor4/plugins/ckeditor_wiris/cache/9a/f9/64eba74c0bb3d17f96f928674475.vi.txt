@@ -1,0 +1,1 @@
+{"result":{"text":"i equals square root of 2 cos open parentheses 100 pi t space plus space pi over 3 close parentheses open parentheses A close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 7 pi over denominator 12 end fraction"},"status":"ok"}

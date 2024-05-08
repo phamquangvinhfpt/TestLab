@@ -1,0 +1,1 @@
+{"result":{"text":"text cos end text straight capital delta phi equals u over U equals 1 half not stretchy rightwards double arrow t equals fraction numerator straight capital delta phi over denominator omega end fraction equals 1 over 300 s"},"status":"ok"}

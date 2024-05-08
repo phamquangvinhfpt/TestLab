@@ -1,0 +1,1 @@
+{"result":{"text":"1 u. c squared equals 931 comma 5 space M e V"},"status":"ok"}

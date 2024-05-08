@@ -1,0 +1,21 @@
+[12-Oct-2021 10:40:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'Model_Student' not found in /home/anivntec/ani-mc.live/controllers/controller_student.php:170
+Stack trace:
+#0 /home/anivntec/ani-mc.live/controllers/controller_student.php(12): Controller_Student->profiles()
+#1 /home/anivntec/ani-mc.live/index.php(17): Controller_Student->__construct()
+#2 {main}
+  thrown in /home/anivntec/ani-mc.live/controllers/controller_student.php on line 170
+[07-Nov-2021 16:33:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'IOFactory_Word' not found in /home/anivntec/ani-mc.live/controllers/controller_teacher.php:321
+Stack trace:
+#0 /home/anivntec/ani-mc.live/index.php(19): Controller_Teacher->check_add_question_via_file_docx()
+#1 {main}
+  thrown in /home/anivntec/ani-mc.live/controllers/controller_teacher.php on line 321
+[07-Nov-2021 16:33:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'IOFactory_Word' not found in /home/anivntec/ani-mc.live/controllers/controller_teacher.php:321
+Stack trace:
+#0 /home/anivntec/ani-mc.live/index.php(19): Controller_Teacher->check_add_question_via_file_docx()
+#1 {main}
+  thrown in /home/anivntec/ani-mc.live/controllers/controller_teacher.php on line 321
+[07-Nov-2021 16:37:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'IOFactory_Word' not found in /home/anivntec/ani-mc.live/controllers/controller_teacher.php:321
+Stack trace:
+#0 /home/anivntec/ani-mc.live/index.php(19): Controller_Teacher->check_add_question_via_file_docx()
+#1 {main}
+  thrown in /home/anivntec/ani-mc.live/controllers/controller_teacher.php on line 321

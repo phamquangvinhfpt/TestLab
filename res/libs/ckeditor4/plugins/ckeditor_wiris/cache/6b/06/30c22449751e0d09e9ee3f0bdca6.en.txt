@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript 2 end subscript equals 0 comma 25 A"},"status":"ok"}

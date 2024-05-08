@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript max end subscript equals k. x subscript max end subscript left parenthesis x subscript max end subscript equals A right parenthesis"},"status":"ok"}

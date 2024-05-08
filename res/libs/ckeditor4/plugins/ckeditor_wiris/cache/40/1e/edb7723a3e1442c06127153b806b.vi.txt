@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of l over g subscript h end root open parentheses g subscript h equals fraction numerator G M over denominator open parentheses R plus h close parentheses squared end fraction close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"W equals n g l not stretchy left parenthesis 1 minus c o s alpha subscript 0 not stretchy right parenthesis equals m g l.2 c o s squared not stretchy left parenthesis alpha subscript 0 divided by 2 not stretchy right parenthesis equals m g l alpha subscript 0 superscript 2 divided by 2"},"status":"ok"}

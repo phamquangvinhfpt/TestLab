@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript 2 end subscript equals I to the power of 2 end exponent R equals fraction numerator U to the power of 2 end exponent over denominator R to the power of 2 end exponent plus Z subscript L end subscript superscript 2 end superscript end fraction R less than P subscript 1 end subscript"},"status":"ok"}

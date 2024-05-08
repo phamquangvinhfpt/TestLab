@@ -1,0 +1,1 @@
+{"result":{"text":"t equals T over 6 equals 4 mu S rightwards double arrow"},"status":"ok"}

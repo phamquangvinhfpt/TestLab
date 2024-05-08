@@ -1,0 +1,1 @@
+{"result":{"text":"x space of 0.167em equals space of 0.167em 4 cos invisible function application left parenthesis 10 t right parenthesis space of 0.167em left parenthesis c m right parenthesis"},"status":"ok"}

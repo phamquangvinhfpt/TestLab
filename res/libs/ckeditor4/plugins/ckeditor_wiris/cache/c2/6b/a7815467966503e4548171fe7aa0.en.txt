@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript A M end subscript equals 50 square root of 2 cos invisible function application left parenthesis 100 pi t minus 7 pi divided by 12 right parenthesis"},"status":"ok"}

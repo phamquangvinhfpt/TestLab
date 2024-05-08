@@ -1,0 +1,1 @@
+{"result":{"text":"F equals F subscript 0 end subscript cos invisible function application omega t left parenthesis N right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript t end subscript equals 0"},"status":"ok"}

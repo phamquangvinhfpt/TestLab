@@ -1,0 +1,1 @@
+{"result":{"text":"2 pi fraction numerator Q subscript 0 over denominator I subscript 0 end fraction"},"status":"ok"}

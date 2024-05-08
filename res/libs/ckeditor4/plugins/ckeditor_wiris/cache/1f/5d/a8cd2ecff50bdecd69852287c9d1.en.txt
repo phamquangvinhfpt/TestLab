@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator D subscript t min end subscript plus A over denominator 2 end fraction equals 50 to the power of 0 end exponent"},"status":"ok"}

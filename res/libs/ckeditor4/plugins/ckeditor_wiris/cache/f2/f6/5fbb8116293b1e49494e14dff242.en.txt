@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of 2. N straight capital phi subscript 0 1 over C over denominator square root of R squared plus not stretchy left parenthesis Z subscript L 2 end subscript minus Z subscript C 2 end subscript end root not stretchy right parenthesis squared end fraction"},"status":"ok"}

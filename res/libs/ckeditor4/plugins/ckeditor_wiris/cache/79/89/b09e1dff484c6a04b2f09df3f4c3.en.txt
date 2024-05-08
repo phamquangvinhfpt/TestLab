@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis fraction numerator 0 comma 02 over denominator straight w. space of 0.278em straight Q subscript 0 end fraction right parenthesis squared minus space of 0.278em left parenthesis fraction numerator straight u 4 over denominator straight U subscript 0 end fraction right parenthesis squared equals 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"l equals fraction numerator g over denominator omega to the power of 2 end exponent end fraction equals fraction numerator left parenthesis pi to the power of 2 end exponent right parenthesis over denominator left parenthesis 2 pi right parenthesis to the power of 2 end exponent end fraction equals 25"},"status":"ok"}

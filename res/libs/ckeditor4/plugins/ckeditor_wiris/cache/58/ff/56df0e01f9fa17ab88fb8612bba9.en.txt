@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript N equals 6 cos invisible function application left parenthesis omega t plus fraction numerator pi over denominator 12 end fraction right parenthesis"},"status":"ok"}

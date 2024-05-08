@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 10 square root of 2 c straight o straight s not stretchy left parenthesis 5 t plus pi over 4 not stretchy right parenthesis c m"},"status":"ok"}

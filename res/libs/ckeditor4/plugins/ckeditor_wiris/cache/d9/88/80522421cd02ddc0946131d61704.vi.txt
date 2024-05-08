@@ -1,0 +1,1 @@
+{"result":{"text":"6.10 to the power of 14 H z"},"status":"ok"}

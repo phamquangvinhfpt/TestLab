@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator 1 over denominator square root of L C end root end fraction not stretchy rightwards double arrow C equals fraction numerator 1 over denominator omega to the power of 2 end exponent L end fraction equals 2 over pi.10 to the power of negative 4 end exponent left parenthesis F right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"W equals W subscript C plus W subscript L equals 4 W subscript L left right double arrow 1 half L I subscript 0 superscript 2 equals 1 half L. i squared rightwards double arrow i"},"status":"ok"}

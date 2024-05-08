@@ -1,0 +1,1 @@
+{"result":{"text":"M I equals lambda over 4 equals 0 comma 5 left parenthesis c m right parenthesis not stretchy rightwards double arrow lambda equals 2 left parenthesis c m right parenthesis"},"status":"ok"}

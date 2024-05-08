@@ -1,0 +1,1 @@
+{"result":{"text":"31 comma 25.10 to the power of negative 6 end exponent J"},"status":"ok"}

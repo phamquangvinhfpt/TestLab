@@ -1,0 +1,1 @@
+{"result":{"text":"160 left square bracket s h i f t cos invisible function application fraction numerator 80 over denominator 160 end fraction plus fraction numerator 3 pi over denominator 2 end fraction right square bracket equals 80 square root of 3 V."},"status":"ok"}

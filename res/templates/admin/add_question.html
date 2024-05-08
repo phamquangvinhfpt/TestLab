@@ -1,0 +1,305 @@
+<!-- [ Main Content ] start -->
+<div class="pcoded-main-container">
+  <div class="pcoded-wrapper">
+    <div class="pcoded-content">
+      <div class="pcoded-inner-content">
+        <!-- [ breadcrumb ] start -->
+        <div class="page-header">
+          <div class="page-block">
+            <div class="row align-items-center">
+              <div class="col-md-12">
+                <div class="page-header-title">
+                  <h5 class="m-b-10">Thêm câu hỏi</h5>
+                </div>
+                <ul class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                  <li class="breadcrumb-item"><a href="#!">Thêm câu hỏi</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- [ breadcrumb ] end -->
+        <div class="main-body">
+          <div class="page-wrapper">
+            <!-- [ Main Content ] start -->
+            <form method="POST" role="form" id="add_question_form">
+              <div class="row">
+                <div class="col-md-12 col-xl-12">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Tùy chọn</h5>
+                    </div>
+                    <div class="card-body">
+                      <a href="quan-ly-ngan-hang-cau-hoi"><button type="button" class="btn shadow-2 btn-primary"><i class="fas fa-file-alt"></i>Quản lý câu hỏi</button></a>
+                      <button type="button" class="btn shadow-2 btn-info" data-toggle="modal" data-target=".md-add-question-via-file"><i class="fas fa-file-alt"></i>Thêm câu hỏi từ file</button>
+                      <div class="input-group cust-file-button mb-3">
+                        <div class="input-group-prepend">
+                          <button class="btn btn-primary" type="button">Thêm ảnh</button>
+                        </div>
+                        <div class="custom-file">
+                          <input type="file" id="file" onchange="upload_image(this)" class="custom-file-input">
+                          <label class="custom-file-label" for="file">Chọn ảnh JPG hoặc PNG</label>
+                        </div>
+                      </div>
+                      <div class="form-group">
+                          <label>Đường dẫn ảnh</label>
+                          <input id="url" type="text" class="form-control" value="" readonly>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-xl-12">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Câu hỏi</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <div id="toolbar"></div>
+                        <textarea class="form-control" id="question_detail" name="question_detail" rows="3" required></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-xl-12">
+
+                </div>
+                <div class="col-md-6 col-xl-6">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Đáp Án A</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <textarea contenteditable="true" class="form-control" id="answer_a" name="answer_a" rows="3" required></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-xl-6">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Đáp Án B</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <textarea contenteditable="true" class="form-control" id="answer_b" name="answer_b" rows="3" required></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-xl-6">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Đáp Án C</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <textarea contenteditable="true" class="form-control" id="answer_c" name="answer_c" rows="3" required></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-xl-6">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Đáp Án D</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <textarea contenteditable="true" class="form-control" id="answer_d" name="answer_d" rows="3" required></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-xl-12">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Hướng dẫn giải</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="form-group">
+                        <textarea contenteditable="true" class="form-control" id="huong_dan" name="huong_dan" rows="3"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-xl-12">
+                  <div class="card checked">
+                    <div class="card-header">
+                      <h5>Tùy chỉnh</h5>
+                    </div>
+                    <div class="card-body">
+                      <div class="row">
+                        <div class="col-sm-12 col-md-6 col-xl-4">
+                          <div class="form-group">
+                            <label for="correct_answer">Đáp án đúng</label>
+                            <select class="form-control" name="correct_answer" id="correct_answer">
+                              <option value="A">A</option>
+                              <option value="B">B</option>
+                              <option value="C">C</option>
+                              <option value="D">D</option>
+                            </select>
+                          </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-xl-4">
+                          <div class="form-group">
+                            <label for="grade_id">Khối</label>
+                            <select class="form-control" name="grade_id" id="grade_id">
+                            </select>
+                          </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-xl-4">
+                          <div class="form-group">
+                            <label for="subject_id">Môn Học</label>
+                            <select class="form-control" name="subject_id" id="subject_id">
+                            </select>
+                          </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-xl-4">
+                          <div class="form-group">
+                            <label>Chương</label>
+                            <input value="1" type="number" class="form-control" name="unit" required></input>
+                          </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-xl-4">
+                          <div class="form-group">
+                            <label for="level_id">Độ khó</label>
+                            <select class="form-control" name="level_id" id="level_id">
+                              <option value="1">Nhận biết</option>
+                              <option value="2">Thông hiểu</option>
+                              <option value="3">Vận dụng</option>
+                              <option value="4">Vận dụng cao</option>
+                            </select>
+                          </div>
+                        </div>
+                      </div>
+                      <button id="submit_question" type="button" class="btn btn-primary"><i class="feather icon-check-circle"></i>Thêm câu hỏi</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </form>
+            <div class="modal fade md-add-question-via-file" tabindex="-1" role="dialog" aria-hidden="true">
+              <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title h4" id="myLargeModalLabel">Thêm câu hỏi từ file</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                      </div>
+                      <div class="modal-body">
+                        <form id="add_via_file" enctype="multipart/form-data">
+                          <div class="row">
+                          <div class="col-sm-6 col-md-3 col-xl-3">
+                            <div class="form-group">
+                                <label for="subject_id">Môn Học</label>
+                                <select class="form-control" id="file_subject" name="subject_id">
+                                </select>
+                            </div>
+                          </div>
+                          <div class="col-sm-6 col-md-3 col-xl-3">
+                            <div class="form-group">
+                                <label for="subject_id">Khối</label>
+                                <select class="form-control" id="file_grade" name="grade_id">
+                                </select>
+                            </div>
+                          </div>
+                          <div class="col-sm-6 col-md-3 col-xl-3">
+                            <div class="form-group">
+                                <label for="subject_id">Chương</label>
+                                <input value="1" type="number" class="form-control" id="file_unit" name="unit" required></input>
+                            </div>
+                          </div>
+                          <div class="col-sm-6 col-md-3 col-xl-3">
+                            <div class="form-group">
+                                <label for="subject_id">Mức độ</label>
+                                <select class="form-control" id="file_level" name="level_id">
+                                  <option value="1">Nhận biết</option>
+                                  <option value="2">Thông hiểu</option>
+                                  <option value="3">Vận dụng</option>
+                                  <option value="4">Vận dụng cao</option>
+                                </select>
+                            </div>
+                          </div>
+                          </div>
+                          <div class="input-group cust-file-button mb-3">
+                            <div class="input-group-prepend">
+                              <button class="btn btn-primary" type="button">Chọn tệp</button>
+                            </div>
+                            <div class="custom-file">
+                              <input onchange="upload_file_data(this)" type="file" name="file_data" id="file_data" class="custom-file-input" required>
+                              <label class="custom-file-label" for="file_data" >Hỗ trợ các định dạng .doc .docx .xlsx</label>
+                            </div>
+                          </div>
+                          <p><span style="color:red;">Lưu ý:</span> File câu hỏi phải đúng với định dạng mẫu! Tải file mẫu thêm câu hỏi <a href="upload/document/mau_them_cau_hoi.docx">tại đây</a></p>
+                          <button id="submit_file_data" type="button" class="btn shadow-1 btn-primary"><i class="fas fa-plus-circle"></i>Thêm câu hỏi</button>
+                        </form>
+                      </div>
+                  </div>
+              </div>
+          </div>
+            <!-- [ Main Content ] end -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Required Js -->
+<script src="assets/js/vendor-all.min.js"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/pcoded.min.js"></script>
+<!-- datatable Js -->
+<script src="assets/plugins/data-tables/js/datatables.min.js"></script>
+<!-- jquery-validation Js -->
+<script src="assets/plugins/jquery-validation/js/jquery.validate.min.js"></script>
+<!-- notification Js -->
+<script src="assets/plugins/notification/js/bootstrap-growl.min.js"></script>
+<!-- custom js -->
+<script src="res/js/add_question.js"></script>
+<!-- sweet alert Js -->
+<script src="assets/plugins/sweetalert/js/sweetalert.min.js"></script>
+
+<script>
+    CKEDITOR.config.toolbar_Full =
+        [
+        { name: 'document', items : [ 'Source'] },
+        { name: 'editing', items : [ 'Find'] },
+        { name: 'basicstyles', items : [ 'Bold','Italic','Underline'] },
+        { name: 'paragraph', items : [ 'JustifyLeft','JustifyCenter','JustifyRight'] },
+        ];
+    CKEDITOR.config.toolbar_GX =
+        [
+        { name: 'wiris', items: ['ckeditor_wiris_formulaEditor', 'ckeditor_wiris_formulaEditorChemistry']},
+        { name: 'basicstyles', items: [ 'Bold', 'Italic', 'Underline', 'Strike', 'RemoveFormat' ] },
+        { name: 'clipboard', items: [ 'Undo', 'Redo' ] },
+        { name: 'document', items: [ 'Source', '-', , 'NewPage', 'Preview', 'Print', '-', 'Templates' ] },
+        { name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', '-', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock', '-'] },
+        { name: 'insert', items: [ 'Image','Table', 'Smiley', 'SpecialChar' ] },
+        ];
+
+    let ckEditorC = {
+        toolbar:'GX',
+        height: '150px',
+        extraPlugins: 'divarea,ckeditor_wiris'
+    };
+    CKEDITOR.config.height = '40px';
+    CKEDITOR.plugins.addExternal('divarea', '../extraplugins/divarea/', 'plugin.js');
+    CKEDITOR.plugins.addExternal('sharedspace', '../extraplugins/sharedspace/', 'plugin.js');
+    CKEDITOR.config.removePlugins = 'maximize';
+    CKEDITOR.config.removePlugins = 'resize';
+    CKEDITOR.config.forcePasteAsPlainText = true;
+    CKEDITOR.config.sharedSpaces = { top: 'toolbar'};
+    CKEDITOR.replace('question_detail',{
+        toolbar:'GX',
+        height: '300px',
+        extraPlugins: 'divarea,ckeditor_wiris'
+    });
+    CKEDITOR.replace('answer_a',ckEditorC);
+    CKEDITOR.replace('answer_b',ckEditorC);
+    CKEDITOR.replace('answer_c',ckEditorC);
+    CKEDITOR.replace('answer_d',ckEditorC);
+    CKEDITOR.replace('huong_dan',ckEditorC);
+</script>

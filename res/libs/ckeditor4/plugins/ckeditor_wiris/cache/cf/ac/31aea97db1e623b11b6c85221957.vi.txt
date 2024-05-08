@@ -1,0 +1,1 @@
+{"result":{"text":"f equals v over lambda equals fraction numerator v over denominator 1 half l end fraction equals fraction numerator 2 v over denominator l end fraction equals 2 over l square root of F subscript e over mu end root."},"status":"ok"}

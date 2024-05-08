@@ -1,0 +1,1 @@
+{"result":{"text":"xi equals alpha subscript 1 end subscript. straight capital delta T equals 15 comma 884 m V"},"status":"ok"}

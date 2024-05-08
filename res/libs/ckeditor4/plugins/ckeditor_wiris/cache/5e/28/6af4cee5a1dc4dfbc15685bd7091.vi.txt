@@ -1,0 +1,1 @@
+{"result":{"text":"8. i subscript L equals k subscript 1. i subscript đ left right double arrow 8. lambda subscript L equals k subscript 1. lambda subscript đ rightwards double arrow lambda subscript L equals k subscript 1.640 over 8 equals 80. k subscript 1"},"status":"ok"}

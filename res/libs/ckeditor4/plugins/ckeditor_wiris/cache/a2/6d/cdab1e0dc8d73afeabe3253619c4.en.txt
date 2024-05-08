@@ -1,0 +1,1 @@
+{"result":{"text":"alpha left parenthesis B with rightwards arrow on top subscript 1 end subscript semicolon B with rightwards arrow on top subscript 2 end subscript right parenthesis not stretchy rightwards double arrow alpha equals pi over 3 plus pi over 3 equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"3 over 2 fraction numerator 10 to the power of negative 4 end exponent over denominator pi end fraction"},"status":"ok"}

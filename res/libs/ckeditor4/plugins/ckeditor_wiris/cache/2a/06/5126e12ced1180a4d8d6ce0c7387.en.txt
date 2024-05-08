@@ -1,0 +1,1 @@
+{"result":{"text":"6 comma 25 less or equal than a less or equal than 7 comma 1785 not stretchy rightwards double arrow a equals 7 not stretchy rightwards double arrow"},"status":"ok"}

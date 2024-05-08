@@ -1,0 +1,1 @@
+{"result":{"text":"q equals Q subscript 0 end subscript cos invisible function application left parenthesis 10 to the power of 7 end exponent pi over 3 t minus pi over 3 right parenthesis"},"status":"ok"}

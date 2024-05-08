@@ -1,0 +1,1 @@
+{"result":{"text":"gamma plus subscript 6 end subscript superscript 12 end superscript C stack blank with rightwards arrow below and blank on top subscript 2 end subscript superscript 4 end superscript H e plus subscript 2 end subscript superscript 4 end superscript H e plus subscript 2 end subscript superscript 4 end superscript H e"},"status":"ok"}

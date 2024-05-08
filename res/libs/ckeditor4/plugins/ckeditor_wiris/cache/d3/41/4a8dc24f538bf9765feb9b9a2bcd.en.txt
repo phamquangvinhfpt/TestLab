@@ -1,0 +1,1 @@
+{"result":{"text":"W over epsilon equals fraction numerator W over denominator fraction numerator h c over denominator lambda end fraction end fraction equals fraction numerator W lambda over denominator h c end fraction"},"status":"ok"}

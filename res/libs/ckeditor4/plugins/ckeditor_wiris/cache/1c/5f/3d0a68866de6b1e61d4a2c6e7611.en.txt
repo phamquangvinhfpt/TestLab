@@ -1,0 +1,1 @@
+{"result":{"text":"2. fraction numerator straight T over denominator 12 end fraction equals 4.10 to the power of negative 6 end exponent stack not stretchy rightwards double arrow with blank below invisible function application space of 0.278em straight T equals 24.10 to the power of negative 6 end exponent"},"status":"ok"}

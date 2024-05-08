@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 cos invisible function application not stretchy left parenthesis 100 pi t plus pi over 4 minus pi over 6 plus pi over 3 not stretchy right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"54. space f left parenthesis x right parenthesis space equals space 6\n"},"status":"ok"}

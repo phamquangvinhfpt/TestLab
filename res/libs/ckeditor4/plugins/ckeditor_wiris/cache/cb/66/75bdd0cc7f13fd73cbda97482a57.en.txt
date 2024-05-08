@@ -1,0 +1,1 @@
+{"result":{"text":"u equals 400 square root of 2 cos invisible function application left parenthesis 100 pi t minus pi divided by 2 right parenthesis"},"status":"ok"}

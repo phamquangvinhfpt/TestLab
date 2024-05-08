@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow R subscript x end subscript equals fraction numerator R subscript 3 end subscript. R subscript 2 end subscript over denominator R subscript 1 end subscript end fraction equals fraction numerator 3.2 over denominator 3 end fraction equals 2 straight capital omega"},"status":"ok"}

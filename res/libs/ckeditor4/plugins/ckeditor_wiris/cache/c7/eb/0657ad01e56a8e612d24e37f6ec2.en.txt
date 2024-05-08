@@ -1,0 +1,1 @@
+{"result":{"text":"k equals fraction numerator T subscript C end subscript over denominator T end fraction"},"status":"ok"}

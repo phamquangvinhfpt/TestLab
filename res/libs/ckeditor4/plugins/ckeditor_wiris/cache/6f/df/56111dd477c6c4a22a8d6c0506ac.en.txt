@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator 2 m subscript P K subscript P over denominator 2 m subscript alpha K subscript alpha end fraction end root"},"status":"ok"}

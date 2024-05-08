@@ -1,0 +1,1 @@
+{"result":{"text":"ell equals left parenthesis 2 n plus 1 right parenthesis lambda over 4 not stretchy rightwards double arrow ell subscript min end subscript equals lambda over 4 equals 13 not stretchy rightwards double arrow lambda equals 52 left parenthesis c m right parenthesis"},"status":"ok"}

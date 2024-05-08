@@ -1,0 +1,1 @@
+{"result":{"text":"11 less than N subscript N P end subscript equals fraction numerator M P over denominator i end fraction plus 1 less than 15 not stretchy rightwards double arrow 0 comma 514 left parenthesis m m right parenthesis less than i less than 0 comma 72 left parenthesis m m right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 2 square root of 2 cos invisible function application left parenthesis 100 pi t minus pi divided by 3 right parenthesis not stretchy left parenthesis A not stretchy right parenthesis"},"status":"ok"}

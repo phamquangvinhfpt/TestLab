@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow x equals 38. n fraction numerator lambda subscript 1 end subscript D over denominator a end fraction equals 11 comma 4 n left parenthesis m m right parenthesis"},"status":"ok"}

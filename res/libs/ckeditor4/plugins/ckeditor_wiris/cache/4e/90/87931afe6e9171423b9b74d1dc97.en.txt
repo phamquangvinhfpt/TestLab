@@ -1,0 +1,1 @@
+{"result":{"text":"t equals 1 over 240 plus k over 200 s left parenthesis k equals 0 semicolon 1 semicolon 2.. right parenthesis"},"status":"ok"}

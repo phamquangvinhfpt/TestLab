@@ -1,0 +1,1 @@
+{"result":{"text":"E equals fraction numerator E subscript 0 over denominator square root of 2 end fraction equals fraction numerator 50 over denominator square root of 2 end fraction equals 25 square root of 2 V."},"status":"ok"}

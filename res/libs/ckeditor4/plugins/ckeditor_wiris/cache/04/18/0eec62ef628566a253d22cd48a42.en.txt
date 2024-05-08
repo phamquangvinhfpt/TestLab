@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript t plus N subscript s equals 17"},"status":"ok"}

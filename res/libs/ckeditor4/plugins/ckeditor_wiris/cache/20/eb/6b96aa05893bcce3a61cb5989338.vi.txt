@@ -1,0 +1,1 @@
+{"result":{"text":"T equals T subscript 0 space H a y space space S over v equals 1 comma 5 space rightwards double arrow v equals fraction numerator S over denominator 1 comma 5 end fraction equals fraction numerator 9 over denominator 1 comma 5 end fraction equals 6 m divided by s"},"status":"ok"}

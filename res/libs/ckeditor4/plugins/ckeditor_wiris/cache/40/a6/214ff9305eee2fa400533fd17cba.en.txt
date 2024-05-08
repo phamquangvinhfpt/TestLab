@@ -1,0 +1,1 @@
+{"result":{"text":"e equals omega N B S sin invisible function application left parenthesis omega t plus phi right parenthesis equals omega N straight capital phi subscript 0 sin invisible function application left parenthesis omega t plus phi right parenthesis"},"status":"ok"}

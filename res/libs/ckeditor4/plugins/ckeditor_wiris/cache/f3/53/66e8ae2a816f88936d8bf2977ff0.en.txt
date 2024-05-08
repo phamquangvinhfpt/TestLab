@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 2 space of 0.167em minus space of 0.167em d subscript 1 space of 0.167em equals space of 0.167em 2 comma 5 lambda"},"status":"ok"}

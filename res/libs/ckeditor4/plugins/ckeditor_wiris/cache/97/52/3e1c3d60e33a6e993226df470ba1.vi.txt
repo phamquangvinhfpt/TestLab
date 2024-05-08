@@ -1,0 +1,1 @@
+{"result":{"text":"R squared equals Z subscript L open parentheses Z subscript C minus Z subscript L close parentheses"},"status":"ok"}

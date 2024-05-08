@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript P end subscript n t left parenthesis left parenthesis R subscript 1 end subscript n t space of 0.167em R subscript d end subscript right parenthesis divided by divided by R subscript 2 end subscript right parenthesis"},"status":"ok"}

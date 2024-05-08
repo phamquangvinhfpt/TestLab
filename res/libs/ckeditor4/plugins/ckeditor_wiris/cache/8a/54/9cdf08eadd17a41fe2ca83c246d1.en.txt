@@ -1,0 +1,1 @@
+{"result":{"text":"L equals 1 half left parenthesis L subscript 1 end subscript plus L subscript 2 end subscript right parenthesis"},"status":"ok"}

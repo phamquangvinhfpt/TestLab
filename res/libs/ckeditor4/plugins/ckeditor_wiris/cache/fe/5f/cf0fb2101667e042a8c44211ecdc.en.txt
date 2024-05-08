@@ -1,0 +1,1 @@
+{"result":{"text":"tan invisible function application alpha equals F over P equals fraction numerator B I ell over denominator m g end fraction"},"status":"ok"}

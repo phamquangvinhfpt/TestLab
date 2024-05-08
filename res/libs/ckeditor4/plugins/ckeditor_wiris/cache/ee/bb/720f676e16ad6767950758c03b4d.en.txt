@@ -1,0 +1,1 @@
+{"result":{"text":"q equals 8 cos invisible function application left parenthesis 2 pi.10 to the power of negative 4 end exponent t plus pi over 2 right parenthesis left parenthesis mu C right parenthesis"},"status":"ok"}

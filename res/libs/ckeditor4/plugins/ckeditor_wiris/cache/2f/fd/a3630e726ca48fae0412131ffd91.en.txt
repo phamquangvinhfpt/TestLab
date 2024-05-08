@@ -1,0 +1,1 @@
+{"result":{"text":"90 equals 9. lambda over 4 not stretchy rightwards double arrow lambda equals 40 left parenthesis c m right parenthesis not stretchy rightwards double arrow v equals lambda f equals 450 left parenthesis c m divided by s right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

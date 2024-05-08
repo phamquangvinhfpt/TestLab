@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals square root of blank end root g over l"},"status":"ok"}

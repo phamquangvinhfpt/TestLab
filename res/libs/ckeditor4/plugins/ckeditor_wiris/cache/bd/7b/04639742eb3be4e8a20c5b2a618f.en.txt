@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator U subscript 0 end subscript superscript 2 end superscript over denominator square root of 2 I subscript 01 end subscript I subscript 02 end subscript end root end fraction"},"status":"ok"}

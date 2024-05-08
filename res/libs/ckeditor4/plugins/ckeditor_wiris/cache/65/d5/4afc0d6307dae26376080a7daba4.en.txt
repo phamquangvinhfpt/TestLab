@@ -1,0 +1,1 @@
+{"result":{"text":"2 W subscript C equals W left right double arrow 2 fraction numerator q squared over denominator 2 C end fraction equals fraction numerator Q subscript 0 superscript 2 over denominator 2 C end fraction rightwards double arrow q"},"status":"ok"}

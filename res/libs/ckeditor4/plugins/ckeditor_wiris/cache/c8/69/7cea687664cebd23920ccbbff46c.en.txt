@@ -1,0 +1,1 @@
+{"result":{"text":"straight l subscript min end subscript equals 0 c m"},"status":"ok"}

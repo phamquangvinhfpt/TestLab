@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow omega to the power of 2 end exponent plus 40 pi omega minus 3200 pi to the power of 2 end exponent equals 0 not stretchy rightwards double arrow omega equals 40 pi left parenthesis r a d divided by s right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

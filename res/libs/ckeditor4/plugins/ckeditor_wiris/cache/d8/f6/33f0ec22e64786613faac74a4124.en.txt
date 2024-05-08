@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital phi equals 0 comma 01 cos invisible function application left parenthesis 60 pi t plus pi over 6 right parenthesis text W end text b"},"status":"ok"}

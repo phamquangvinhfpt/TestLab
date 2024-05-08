@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript t equals m g z equals m g l open parentheses 1 minus cos alpha close parentheses"},"status":"ok"}

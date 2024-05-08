@@ -1,0 +1,1 @@
+{"result":{"text":"1 fourth square root of fraction numerator 2 K subscript alpha over denominator K subscript alpha end fraction end root equals fraction numerator square root of 2 over denominator 4 end fraction"},"status":"ok"}

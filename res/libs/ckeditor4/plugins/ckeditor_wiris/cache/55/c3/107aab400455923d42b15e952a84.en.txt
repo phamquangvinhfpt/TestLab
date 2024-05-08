@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis I subscript 0 superscript 2 minus i squared right parenthesis C over L equals u squared"},"status":"ok"}

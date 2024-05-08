@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 36 plus x to the power of 2 end exponent end root minus left parenthesis 6 minus x right parenthesis equals 2 not stretchy rightwards double arrow x equals 1 comma 75 left parenthesis c m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

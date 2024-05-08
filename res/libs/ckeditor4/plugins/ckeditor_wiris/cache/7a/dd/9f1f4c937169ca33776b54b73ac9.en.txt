@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals T over 2 equals fraction numerator l over denominator n v end fraction"},"status":"ok"}

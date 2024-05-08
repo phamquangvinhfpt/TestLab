@@ -1,0 +1,1 @@
+{"result":{"text":"cos 100 pi t equals 1 half"},"status":"ok"}

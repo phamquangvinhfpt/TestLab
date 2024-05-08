@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript i superscript divided by equals phi subscript u minus phi to the power of divided by equals negative pi over 2 plus 0 comma 352 pi equals negative 0 comma 147 pi"},"status":"ok"}

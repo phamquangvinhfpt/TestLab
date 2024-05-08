@@ -1,0 +1,1 @@
+{"result":{"text":"equals left parenthesis 0 comma 0305 minus 0 comma 0111 right parenthesis u c to the power of 2 end exponent equals 0 comma 0194.931 comma 5 equals 18 comma 07 M e V"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals fraction numerator C minus C subscript m end subscript over denominator 8 end fraction equals fraction numerator 480 minus 120 over denominator 3 end fraction equals 120 to the power of 0 end exponent"},"status":"ok"}

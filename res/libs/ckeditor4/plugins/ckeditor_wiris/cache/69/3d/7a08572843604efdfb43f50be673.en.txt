@@ -1,0 +1,1 @@
+{"result":{"text":"stack F equals B I ell blank with rightwards arrow on top I equals fraction numerator F over denominator B ell end fraction equals 4 comma 01 left parenthesis A right parenthesis"},"status":"ok"}

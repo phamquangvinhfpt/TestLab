@@ -1,0 +1,1 @@
+{"result":{"text":"h. f subscript 0 equals fraction numerator h c over denominator lambda subscript 0 end fraction equals A"},"status":"ok"}

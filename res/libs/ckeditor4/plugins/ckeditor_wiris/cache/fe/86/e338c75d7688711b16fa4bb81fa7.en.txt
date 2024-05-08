@@ -1,0 +1,1 @@
+{"result":{"text":"ell equals k lambda over 2 equals k fraction numerator v over denominator 2 f end fraction not stretchy rightwards double arrow fraction numerator v over denominator 2 ell end fraction equals f over k"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v equals lambda. f equals 36 c m divided by s"},"status":"ok"}

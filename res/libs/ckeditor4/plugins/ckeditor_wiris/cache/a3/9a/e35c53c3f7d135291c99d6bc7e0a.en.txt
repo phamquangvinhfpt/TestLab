@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator U subscript 1 over denominator square root of R squared plus not stretchy left parenthesis Z subscript L 1 end subscript minus Z subscript C 1 end subscript not stretchy right parenthesis squared end root end fraction"},"status":"ok"}

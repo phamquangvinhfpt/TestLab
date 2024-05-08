@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow T to the power of prime equals 3 over 2.1 third equals 0 comma 5 left parenthesis s right parenthesis"},"status":"ok"}

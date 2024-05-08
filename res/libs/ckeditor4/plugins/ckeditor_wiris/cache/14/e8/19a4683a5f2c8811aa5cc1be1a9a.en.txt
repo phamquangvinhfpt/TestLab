@@ -1,0 +1,1 @@
+{"result":{"text":"H equals fraction numerator U subscript d end subscript over denominator E end fraction equals 6 over 12 equals 50"},"status":"ok"}

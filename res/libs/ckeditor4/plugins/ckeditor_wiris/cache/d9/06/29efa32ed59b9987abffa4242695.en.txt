@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy left parenthesis x over A not stretchy right parenthesis squared plus not stretchy left parenthesis fraction numerator v over denominator omega A end fraction not stretchy right parenthesis squared equals 1"},"status":"ok"}

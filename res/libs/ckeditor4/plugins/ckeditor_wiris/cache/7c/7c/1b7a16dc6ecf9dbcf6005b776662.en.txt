@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript C equals 1 half. fraction numerator left parenthesis fraction numerator 8.10 to the power of negative 5 end exponent over denominator square root of 2 end fraction right parenthesis squared over denominator 20.10 to the power of negative 6 end exponent end fraction equals 80.10 to the power of negative 4 end exponent J"},"status":"ok"}

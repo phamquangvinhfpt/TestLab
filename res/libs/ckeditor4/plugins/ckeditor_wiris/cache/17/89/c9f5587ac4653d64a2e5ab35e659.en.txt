@@ -1,0 +1,1 @@
+{"result":{"text":"0 comma 5 square root of 3"},"status":"ok"}

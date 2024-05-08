@@ -1,0 +1,1 @@
+{"result":{"text":"f space of 0.167em equals c over lambda space of 0.167em equals space of 0.167em 7 comma 5.10 to the power of 14 end exponent space of 0.167em H z"},"status":"ok"}

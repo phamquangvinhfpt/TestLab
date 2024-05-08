@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 9 T over denominator 8 end fraction"},"status":"ok"}

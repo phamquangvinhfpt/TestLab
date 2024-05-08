@@ -1,0 +1,1 @@
+{"result":{"text":"u greater or equal than 110 square root of 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"q subscript 3 end subscript equals negative 4 mu C"},"status":"ok"}

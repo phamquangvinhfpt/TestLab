@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals 5.10 to the power of negative 3 end exponent s equals T divided by 4"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text i=  end text text I end text subscript text 0 end text end subscript text sin(  end text space of -0.167em space of -0.167em omega space of -0.167em space of -0.167em text  t + 2  end text space of -0.167em space of -0.167em pi space of -0.167em space of -0.167em text  /3) end text"},"status":"ok"}

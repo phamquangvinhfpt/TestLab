@@ -1,0 +1,1 @@
+{"result":{"text":"straight x subscript 2 end subscript equals 2 comma 5 square root of 3 straight c straight m"},"status":"ok"}

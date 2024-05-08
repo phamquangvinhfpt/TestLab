@@ -1,0 +1,1 @@
+{"result":{"text":"phi subscript 1 end subscript plus-or-minus phi subscript 2 end subscript equals alpha"},"status":"ok"}

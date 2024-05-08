@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals 76 to the power of 0 end exponent."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 0 end subscript equals fraction numerator c over denominator h A end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator 2 e U over denominator 9 m subscript e end fraction end root"},"status":"ok"}

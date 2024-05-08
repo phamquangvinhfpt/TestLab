@@ -1,0 +1,1 @@
+{"result":{"text":"S subscript 1 I less than 1 comma 6 k less than S subscript 1 M"},"status":"ok"}

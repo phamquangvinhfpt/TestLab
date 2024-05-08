@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C end subscript equals fraction numerator 1 over denominator omega C end fraction equals fraction numerator 1 over denominator 50.10.10 to the power of negative 6 end exponent end fraction equals 2000 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

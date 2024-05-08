@@ -1,0 +1,1 @@
+{"result":{"text":"R equals open vertical bar Z subscript L minus Z subscript C close vertical bar space semicolon space V Ớ I space Z subscript L greater than Z subscript C space rightwards double arrow phi equals pi over 4"},"status":"ok"}

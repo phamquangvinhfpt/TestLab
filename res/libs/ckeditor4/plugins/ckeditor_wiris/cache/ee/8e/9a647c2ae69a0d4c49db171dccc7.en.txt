@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript A M end subscript equals U subscript P end subscript plus U subscript 1 end subscript"},"status":"ok"}

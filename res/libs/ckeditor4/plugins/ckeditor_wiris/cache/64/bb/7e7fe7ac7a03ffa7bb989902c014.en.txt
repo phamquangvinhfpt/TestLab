@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m subscript 0 over denominator square root of 1 minus 0 comma 8 squared end root end fraction"},"status":"ok"}

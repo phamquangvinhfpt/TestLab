@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 2 left parenthesis 2 n plus 1 right parenthesis 0 comma 5 left parenthesis m m right parenthesis not stretchy rightwards double arrow x subscript n plus 1 end subscript minus x subscript n end subscript equals 2 left parenthesis m m right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

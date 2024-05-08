@@ -1,0 +1,1 @@
+{"result":{"text":"straight I squared equals space of 0.278em 1 half space of 0.278em straight C straight U squared plus 1 half space of 0.278em straight L straight I squared equals space of 0.278em 1 half space of 0.278em straight C straight U squared equals space of 0.278em 1 half space of 0.278em 2 space of 0.278em straight I subscript 0 superscript 2"},"status":"ok"}

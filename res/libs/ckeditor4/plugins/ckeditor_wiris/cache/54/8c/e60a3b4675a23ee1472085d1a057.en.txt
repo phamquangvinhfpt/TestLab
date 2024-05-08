@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator U over denominator Z subscript C end subscript end fraction equals 120 over 20 equals 6 A"},"status":"ok"}

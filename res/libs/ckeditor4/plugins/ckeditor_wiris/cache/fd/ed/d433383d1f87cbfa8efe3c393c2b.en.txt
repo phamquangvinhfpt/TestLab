@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator C squared omega subscript 3 superscript 4 end fraction"},"status":"ok"}

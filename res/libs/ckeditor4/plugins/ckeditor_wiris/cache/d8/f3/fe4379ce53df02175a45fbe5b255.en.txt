@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals square root of R squared plus Z subscript C superscript 2 end root equals U over I equals fraction numerator 100 over denominator square root of 3 end fraction left parenthesis 1 right parenthesis"},"status":"ok"}

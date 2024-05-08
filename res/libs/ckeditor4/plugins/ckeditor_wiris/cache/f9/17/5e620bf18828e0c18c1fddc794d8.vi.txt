@@ -1,0 +1,1 @@
+{"result":{"text":"r subscript N minus r subscript L equals open parentheses 4 squared minus 2 squared close parentheses r subscript 0 equals"},"status":"ok"}

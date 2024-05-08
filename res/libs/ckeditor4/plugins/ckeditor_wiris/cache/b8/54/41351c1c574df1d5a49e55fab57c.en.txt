@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 5 c o s not stretchy left parenthesis 20 t minus pi over 2 not stretchy right parenthesis not stretchy left parenthesis c m comma s not stretchy right parenthesis"},"status":"ok"}

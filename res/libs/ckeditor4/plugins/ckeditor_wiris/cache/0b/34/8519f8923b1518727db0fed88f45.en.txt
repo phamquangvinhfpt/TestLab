@@ -1,0 +1,1 @@
+{"result":{"text":"i equals fraction numerator lambda D over denominator a end fraction equals fraction numerator 0 comma 45.2 comma 2 over denominator 1 comma 1 end fraction equals 0 comma 9 m m"},"status":"ok"}

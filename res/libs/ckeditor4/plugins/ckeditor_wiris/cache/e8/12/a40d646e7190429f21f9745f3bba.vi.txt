@@ -1,0 +1,1 @@
+{"result":{"text":"11 comma 25.10 to the power of negative 3 end exponent N"},"status":"ok"}

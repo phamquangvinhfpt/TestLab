@@ -1,0 +1,1 @@
+{"result":{"text":"C equals 2 pi fraction numerator square root of L C end root over denominator f end fraction"},"status":"ok"}

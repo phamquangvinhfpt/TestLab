@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon equals h f subscript n m end subscript equals E subscript n end subscript minus E subscript m end subscript"},"status":"ok"}

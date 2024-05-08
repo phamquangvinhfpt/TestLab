@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript 1 end subscript equals 2 left square bracket fraction numerator 0 comma 5 L over denominator i subscript 1 end subscript end fraction right square bracket plus 1 equals 2 left square bracket fraction numerator 0 comma 5.20 over denominator 1 comma 215 end fraction right square bracket plus 1 equals 17"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda over 4 equals ell subscript 2 end subscript minus ell subscript 1 end subscript not stretchy rightwards double arrow lambda equals 4 left parenthesis ell subscript 2 end subscript minus ell subscript 1 end subscript right parenthesis"},"status":"ok"}

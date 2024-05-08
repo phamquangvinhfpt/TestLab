@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript L equals 25 capital omega"},"status":"ok"}

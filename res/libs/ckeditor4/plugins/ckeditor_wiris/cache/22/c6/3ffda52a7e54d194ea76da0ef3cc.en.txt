@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals negative x subscript 1 equals negative 4 c m."},"status":"ok"}

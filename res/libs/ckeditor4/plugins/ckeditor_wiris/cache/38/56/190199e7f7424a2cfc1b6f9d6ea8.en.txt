@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 2 pi end fraction square root of blank end root k over m"},"status":"ok"}

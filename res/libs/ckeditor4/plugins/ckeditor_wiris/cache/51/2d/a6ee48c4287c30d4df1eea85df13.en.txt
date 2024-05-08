@@ -1,0 +1,1 @@
+{"result":{"text":"T over 6 equals 1 over 6.2 pi square root of L C end root equals 1 over 300 left parenthesis s right parenthesis"},"status":"ok"}

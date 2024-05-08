@@ -1,0 +1,1 @@
+{"result":{"text":"R subscript M N end subscript equals fraction numerator R subscript 1 end subscript. R subscript 2.34 end subscript over denominator R subscript 1 end subscript plus R subscript 2.34 end subscript end fraction equals 2 left parenthesis straight capital omega right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 0 rightwards double arrow Z subscript L equals 0"},"status":"ok"}

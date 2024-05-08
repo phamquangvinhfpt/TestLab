@@ -1,0 +1,1 @@
+{"result":{"text":"i equals 5 square root of 2 straight c straight o straight s not stretchy left parenthesis 120 pi t plus pi over 4 not stretchy right parenthesis not stretchy left parenthesis A not stretchy right parenthesis"},"status":"ok"}

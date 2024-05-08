@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator 2 pi over denominator T end fraction equals 5 pi left parenthesis r a d divided by s right parenthesis"},"status":"ok"}

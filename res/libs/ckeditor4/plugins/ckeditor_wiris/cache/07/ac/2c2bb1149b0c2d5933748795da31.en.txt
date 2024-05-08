@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow V squared over omega squared plus a squared over omega squared equals A squared"},"status":"ok"}

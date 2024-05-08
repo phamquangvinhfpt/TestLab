@@ -1,0 +1,1 @@
+{"result":{"text":"C equals C subscript 1 end subscript plus fraction numerator C subscript 2 end subscript minus C subscript 1 end subscript over denominator 180 to the power of 0 end exponent end fraction alpha equals 10 plus 8 over 3 alpha equals 51 comma 93 p F"},"status":"ok"}

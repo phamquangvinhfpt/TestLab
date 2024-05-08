@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript M equals 2 fraction numerator lambda D over denominator a end fraction not stretchy left parenthesis 1 not stretchy right parenthesis"},"status":"ok"}

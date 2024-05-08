@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript M C end subscript equals U subscript d end subscript equals 3 V"},"status":"ok"}

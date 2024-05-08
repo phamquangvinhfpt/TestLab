@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript R end subscript equals fraction numerator U subscript d end subscript over denominator 12 end fraction equals 0 comma 5 A"},"status":"ok"}

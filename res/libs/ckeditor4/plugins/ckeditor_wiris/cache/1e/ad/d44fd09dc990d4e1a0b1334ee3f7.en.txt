@@ -1,0 +1,1 @@
+{"result":{"text":"i subscript 2 end subscript equals negative fraction numerator u subscript 1 end subscript over denominator Z subscript L end subscript end fraction equals 50 over 100 equals negative 0 comma 5 left parenthesis A right parenthesis"},"status":"ok"}

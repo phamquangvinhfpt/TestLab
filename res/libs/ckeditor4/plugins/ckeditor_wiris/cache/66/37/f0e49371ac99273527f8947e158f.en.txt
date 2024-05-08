@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator pi square root of 2 end root straight I subscript 0 end subscript over denominator omega end fraction"},"status":"ok"}

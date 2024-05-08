@@ -1,0 +1,1 @@
+{"result":{"text":"straight i equals fraction numerator straight d straight q over denominator straight d straight t end fraction"},"status":"ok"}

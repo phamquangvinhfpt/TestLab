@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator 2 pi over denominator straight T end fraction equals 10 pi"},"status":"ok"}

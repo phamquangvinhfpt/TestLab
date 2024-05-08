@@ -1,0 +1,1 @@
+{"result":{"text":"W subscript l k end subscript equals epsilon. A equals ?"},"status":"ok"}

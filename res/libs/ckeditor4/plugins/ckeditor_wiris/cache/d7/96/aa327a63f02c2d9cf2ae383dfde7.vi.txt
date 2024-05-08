@@ -1,0 +1,1 @@
+{"result":{"text":"v equals lambda. f equals 0 comma 5.100 equals space 50 c m divided by s"},"status":"ok"}

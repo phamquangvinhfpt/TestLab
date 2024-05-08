@@ -1,0 +1,1 @@
+{"result":{"text":"straight u subscript straight L end subscript equals 110 square root of 2 end root straight c straight o straight s not stretchy left parenthesis 120 pi straight t plus fraction numerator pi over denominator 6 end fraction not stretchy right parenthesis"},"status":"ok"}

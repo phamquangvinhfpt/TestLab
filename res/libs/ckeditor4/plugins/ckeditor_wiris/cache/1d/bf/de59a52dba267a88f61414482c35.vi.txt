@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript C subscript m a x end subscript end subscript space less than space omega subscript R space end subscript"},"status":"ok"}

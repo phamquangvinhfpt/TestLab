@@ -1,0 +1,1 @@
+{"result":{"text":"F tilde 1 over r squared"},"status":"ok"}

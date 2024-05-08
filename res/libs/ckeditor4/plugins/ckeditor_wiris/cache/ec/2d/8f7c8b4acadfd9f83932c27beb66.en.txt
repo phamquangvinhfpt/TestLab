@@ -1,0 +1,1 @@
+{"result":{"text":"Q subscript 0 end subscript equals 8 mu C"},"status":"ok"}

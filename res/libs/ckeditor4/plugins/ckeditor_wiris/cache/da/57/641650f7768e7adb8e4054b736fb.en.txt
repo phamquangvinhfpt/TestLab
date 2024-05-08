@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript 2 superscript 2 equals k fraction numerator e squared over denominator m r subscript 2 end fraction comma v subscript 1 superscript 2 equals k fraction numerator e squared over denominator m r subscript 1 end fraction"},"status":"ok"}

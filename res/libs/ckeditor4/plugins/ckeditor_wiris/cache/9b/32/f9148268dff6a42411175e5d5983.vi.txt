@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals v over f equals 0 comma 5 m"},"status":"ok"}

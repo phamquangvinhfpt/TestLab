@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C equals Z subscript L equals omega. L equals 10 straight capital omega not stretchy rightwards double arrow C equals fraction numerator 1 over denominator omega Z subscript C end fraction equals fraction numerator 10 to the power of negative 3 end exponent over denominator pi end fraction F"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript M equals 14. cos invisible function application left parenthesis 2 pi right parenthesis cos invisible function application left parenthesis 40 pi t minus 7 pi right parenthesis equals 14 cos invisible function application left parenthesis 40 pi t minus 7 pi right parenthesis left parenthesis c m right parenthesis"},"status":"ok"}

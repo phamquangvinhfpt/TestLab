@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript s q r t blank $ $ blank subscript 2 end subscript $ end subscript"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"D equals 2 blank m comma blank a equals 1 comma 5 straight m straight m"},"status":"ok"}

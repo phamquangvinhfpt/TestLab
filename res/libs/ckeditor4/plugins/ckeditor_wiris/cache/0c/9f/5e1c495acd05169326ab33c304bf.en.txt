@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of negative lambda t prime end exponent"},"status":"ok"}

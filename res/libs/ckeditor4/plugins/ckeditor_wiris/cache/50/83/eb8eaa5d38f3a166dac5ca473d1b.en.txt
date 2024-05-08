@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript 2 space of 0.167em equals space of 0.167em 2 pi square root of fraction numerator m over denominator k subscript 2 end fraction end root"},"status":"ok"}

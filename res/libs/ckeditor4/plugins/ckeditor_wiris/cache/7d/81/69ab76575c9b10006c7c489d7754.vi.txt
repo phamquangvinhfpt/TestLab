@@ -1,0 +1,1 @@
+{"result":{"text":"2 open parentheses W subscript H e end subscript close parentheses minus W subscript L i end subscript equals 17 comma 4 rightwards double arrow W subscript L i end subscript equals ?"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"5 comma 2.10 to the power of negative 6 end exponent left parenthesis V divided by K right parenthesis"},"status":"ok"}

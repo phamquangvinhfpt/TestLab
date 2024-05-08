@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript C equals 4 over 3 U subscript R"},"status":"ok"}

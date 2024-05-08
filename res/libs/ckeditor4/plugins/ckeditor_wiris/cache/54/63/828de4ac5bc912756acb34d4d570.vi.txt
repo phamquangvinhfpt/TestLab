@@ -1,0 +1,1 @@
+{"result":{"text":"cosΔ phi equals straight u over straight U equals fraction numerator 100 square root of 2 over denominator 200 square root of 2 end fraction equals 1 half rightwards double arrow capital delta phi equals 60 to the power of 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals T over 6 not stretchy rightwards double arrow T equals 6. straight capital delta t"},"status":"ok"}

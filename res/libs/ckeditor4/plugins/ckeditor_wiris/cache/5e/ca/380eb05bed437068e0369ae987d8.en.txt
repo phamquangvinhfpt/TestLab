@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator M v subscript 0 over denominator M plus m end fraction equals fraction numerator 0 comma 4.50 over denominator 0 comma 5 end fraction equals 40"},"status":"ok"}

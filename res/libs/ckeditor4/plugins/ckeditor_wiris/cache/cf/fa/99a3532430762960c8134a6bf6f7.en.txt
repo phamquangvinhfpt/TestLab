@@ -1,0 +1,1 @@
+{"result":{"text":"50 square root of 3 straight capital omega"},"status":"ok"}

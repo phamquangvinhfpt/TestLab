@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 end subscript equals A subscript 1 end subscript c o s not stretchy left parenthesis omega t plus phi subscript 1 end subscript not stretchy right parenthesis"},"status":"ok"}

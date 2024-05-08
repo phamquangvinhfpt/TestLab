@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 36 plus x to the power of 2 end exponent end root minus left parenthesis 6 minus x right parenthesis equals 2"},"status":"ok"}

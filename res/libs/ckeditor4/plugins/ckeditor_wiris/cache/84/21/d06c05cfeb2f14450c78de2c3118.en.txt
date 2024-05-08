@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator xi over denominator R plus r end fraction equals 0 comma 52 m A"},"status":"ok"}

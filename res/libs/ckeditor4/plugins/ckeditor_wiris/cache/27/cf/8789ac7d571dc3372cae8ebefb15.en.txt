@@ -1,0 +1,1 @@
+{"result":{"text":"I equals fraction numerator xi to the power of 2 end exponent over denominator R plus r end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"m subscript alpha equals 4 comma 0015 u semicolon space m subscript A l end subscript equals 26 comma 974 u semicolon space m subscript P equals 29 comma 970 u semicolon space m subscript n equals 1 comma 0087 u"},"status":"ok"}

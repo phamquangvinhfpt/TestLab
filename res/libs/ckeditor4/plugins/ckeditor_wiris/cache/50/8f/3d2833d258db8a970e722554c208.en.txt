@@ -1,0 +1,1 @@
+{"result":{"text":"q equals Q subscript 0 end subscript cos invisible function application fraction numerator 2 pi t over denominator T end fraction equals 6.10 to the power of negative 7 end exponent left parenthesis C right parenthesis"},"status":"ok"}

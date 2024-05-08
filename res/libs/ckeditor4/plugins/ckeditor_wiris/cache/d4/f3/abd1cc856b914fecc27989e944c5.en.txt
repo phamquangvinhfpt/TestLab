@@ -1,0 +1,1 @@
+{"result":{"text":"a equals fraction numerator P plus F over denominator m end fraction equals fraction numerator 2 m g over denominator m end fraction equals 2 g"},"status":"ok"}

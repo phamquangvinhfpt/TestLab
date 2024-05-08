@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 2 pi n equals 60 pi space of 0.167em r a d divided by s"},"status":"ok"}

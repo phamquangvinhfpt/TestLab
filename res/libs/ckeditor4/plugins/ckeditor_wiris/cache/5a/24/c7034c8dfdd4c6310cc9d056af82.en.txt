@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta t equals left parenthesis n minus 1 right parenthesis T"},"status":"ok"}

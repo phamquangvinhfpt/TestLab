@@ -1,0 +1,1 @@
+{"result":{"text":"L equals fraction numerator 1 over denominator omega to the power of 2 end exponent C end fraction equals fraction numerator 1 over denominator 2000 to the power of 2 end exponent.5.10 to the power of negative 6 end exponent end fraction equals 0 comma 05 left parenthesis H right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy rightwards double arrow Z subscript L end subscript equals 2 pi f L equals fraction numerator U subscript 0 end subscript over denominator I subscript 0 end subscript end fraction equals 60 not stretchy rightwards double arrow f equals 100 left parenthesis H z right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

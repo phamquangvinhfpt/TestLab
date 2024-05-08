@@ -1,0 +1,1 @@
+{"result":{"text":"U subscript A K end subscript equals fraction numerator h f subscript max end subscript over denominator e end fraction"},"status":"ok"}

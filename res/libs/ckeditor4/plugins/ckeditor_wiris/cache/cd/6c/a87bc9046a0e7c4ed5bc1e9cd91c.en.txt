@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript 1 end subscript equals square root of B subscript 1 end subscript superscript 2 end superscript plus B subscript 2 end subscript superscript 2 end superscript end root semicolon"},"status":"ok"}

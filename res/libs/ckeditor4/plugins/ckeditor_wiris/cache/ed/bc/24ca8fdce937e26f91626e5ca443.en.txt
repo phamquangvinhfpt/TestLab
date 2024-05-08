@@ -1,0 +1,1 @@
+{"result":{"text":"D e s c r i p t i o n colon D e s c r i p t i o n colon straight set minus straight d straight p straight i 120 A c o s not stretchy left parenthesis straight capital pi divided by 4 not stretchy right parenthesis equals A divided by square root of 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"E equals straight capital delta E. fraction numerator 10 over denominator 210 end fraction"},"status":"ok"}

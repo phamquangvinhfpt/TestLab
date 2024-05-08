@@ -1,0 +1,1 @@
+{"result":{"text":"not stretchy left parenthesis I subscript 0 superscript 2 plus i squared not stretchy right parenthesis L over C equals u squared"},"status":"ok"}

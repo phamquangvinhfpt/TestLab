@@ -1,0 +1,1 @@
+{"result":{"text":"F subscript 1 over F subscript 2 equals fraction numerator r subscript 2 superscript 2 over denominator r subscript 1 superscript 2 end fraction equals 9 over 16 rightwards double arrow r subscript 2 equals ?"},"status":"ok"}

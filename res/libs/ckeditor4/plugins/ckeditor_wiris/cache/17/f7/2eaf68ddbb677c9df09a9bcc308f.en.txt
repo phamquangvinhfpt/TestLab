@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals fraction numerator 2.10 to the power of negative 2 end exponent over denominator pi end fraction cos invisible function application left parenthesis 100 pi t plus fraction numerator 5 pi over denominator 3 end fraction right parenthesis space of 0.278em not stretchy left parenthesis W b not stretchy right parenthesis"},"status":"ok"}

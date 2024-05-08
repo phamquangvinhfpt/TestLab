@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight capital delta t subscript s end subscript over denominator T end fraction equals 2 over 3 not stretchy rightwards double arrow straight capital delta t subscript s end subscript equals 2 over 3 T"},"status":"ok"}

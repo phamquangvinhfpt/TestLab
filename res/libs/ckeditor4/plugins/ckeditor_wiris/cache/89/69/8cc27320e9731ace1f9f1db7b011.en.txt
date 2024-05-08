@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta phi equals 1005.2 pi plus fraction numerator 2 pi over denominator 3 end fraction equals blank fraction numerator 6032 pi over denominator 3 end fraction"},"status":"ok"}

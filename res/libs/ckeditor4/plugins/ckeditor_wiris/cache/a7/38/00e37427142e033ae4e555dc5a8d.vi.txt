@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals 4 comma 2.10 to the power of negative 3 end exponent K to the power of negative 1 end exponent"},"status":"ok"}

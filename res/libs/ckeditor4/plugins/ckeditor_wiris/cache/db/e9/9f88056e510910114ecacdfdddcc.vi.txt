@@ -1,0 +1,1 @@
+{"result":{"text":"T equals T subscript 0 space H a y space S over v equals 2 pi square root of m over k end root left right double arrow fraction numerator 12 comma 5 over denominator v end fraction equals 2 pi square root of 16 over 900 end root rightwards double arrow v"},"status":"ok"}

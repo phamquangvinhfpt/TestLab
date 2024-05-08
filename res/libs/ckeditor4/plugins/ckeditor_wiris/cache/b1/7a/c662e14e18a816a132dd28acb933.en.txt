@@ -1,0 +1,1 @@
+{"result":{"text":"R equals r equals 1 not stretchy rightwards double arrow P equals 9 W"},"status":"ok"}

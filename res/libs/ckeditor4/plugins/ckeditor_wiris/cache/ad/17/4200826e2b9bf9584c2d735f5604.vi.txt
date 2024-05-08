@@ -1,0 +1,1 @@
+{"result":{"text":"r subscript 5 equals 5 squared r subscript 0 equals 25 r subscript 0"},"status":"ok"}

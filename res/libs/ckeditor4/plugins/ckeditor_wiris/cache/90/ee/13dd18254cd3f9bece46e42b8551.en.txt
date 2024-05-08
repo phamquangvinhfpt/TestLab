@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals 8 cos invisible function application left parenthesis 10 pi straight t minus fraction numerator pi over denominator 3 end fraction right parenthesis straight c straight m."},"status":"ok"}

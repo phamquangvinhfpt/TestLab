@@ -1,0 +1,1 @@
+{"result":{"text":"straight q equals integral straight i straight d straight t equals integral from 0 to 0 comma 15 of 2 straight s straight i straight n 100 pi straight t"},"status":"ok"}

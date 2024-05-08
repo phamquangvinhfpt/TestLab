@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of 0 comma 5 end exponent"},"status":"ok"}

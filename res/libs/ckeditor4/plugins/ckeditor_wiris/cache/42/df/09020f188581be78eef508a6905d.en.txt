@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript min end subscript equals square root of 2 over m e U subscript A B end subscript end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 3 end fraction fraction numerator straight q to the power of 2 end exponent over denominator 2 straight C end fraction"},"status":"ok"}

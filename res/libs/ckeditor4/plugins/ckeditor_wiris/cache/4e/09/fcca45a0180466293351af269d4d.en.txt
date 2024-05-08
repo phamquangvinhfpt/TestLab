@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript max end subscript equals 3 comma 32.10 to the power of negative 5 end exponent T"},"status":"ok"}

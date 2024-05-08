@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript 1 end subscript equals B subscript 2 end subscript equals 2.10 to the power of negative 7 end exponent. fraction numerator I subscript 1 end subscript over denominator A M end fraction equals 6.10 to the power of negative 6 end exponent T"},"status":"ok"}

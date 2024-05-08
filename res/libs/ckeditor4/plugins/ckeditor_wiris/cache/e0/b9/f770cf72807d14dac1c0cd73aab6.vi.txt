@@ -1,0 +1,1 @@
+{"result":{"text":"2 comma 41.10 to the power of 8 bevelled m over s"},"status":"ok"}

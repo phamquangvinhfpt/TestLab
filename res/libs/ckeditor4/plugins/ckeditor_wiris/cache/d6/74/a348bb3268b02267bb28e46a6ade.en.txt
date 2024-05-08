@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript A B end subscript equals u subscript R end subscript plus u subscript d end subscript equals 120 plus 120 straight angle pi over 3 equals 120 square root of 3 straight angle pi over 6 not stretchy rightwards double arrow"},"status":"ok"}

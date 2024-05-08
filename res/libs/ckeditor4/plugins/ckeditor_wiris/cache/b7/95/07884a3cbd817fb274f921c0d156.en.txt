@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of 3 over denominator 2 end fraction v subscript M a x end subscript superscript blank"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals v over f equals 4 over 4 equals 1 c m"},"status":"ok"}

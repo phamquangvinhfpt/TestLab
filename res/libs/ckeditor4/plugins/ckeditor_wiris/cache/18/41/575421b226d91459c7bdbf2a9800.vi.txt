@@ -1,0 +1,1 @@
+{"result":{"text":"q equals F over E equals ?"},"status":"ok"}

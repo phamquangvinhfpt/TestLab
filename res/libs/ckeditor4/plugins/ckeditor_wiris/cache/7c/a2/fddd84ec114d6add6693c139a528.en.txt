@@ -1,0 +1,1 @@
+{"result":{"text":"straight i equals straight I subscript 0 end subscript straight c straight o straight s left parenthesis omega straight t minus fraction numerator pi over denominator 2 end fraction right parenthesis"},"status":"ok"}

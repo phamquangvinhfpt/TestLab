@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi square root of k over m end root"},"status":"ok"}

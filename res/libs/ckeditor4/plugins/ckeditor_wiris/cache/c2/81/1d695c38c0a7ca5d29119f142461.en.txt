@@ -1,0 +1,1 @@
+{"result":{"text":"R equals R subscript 0 end subscript left square bracket 1 plus alpha left parenthesis T minus T subscript 0 end subscript right parenthesis right square bracket equals 74 left parenthesis 1 plus 0 comma 004.50 right parenthesis equals 88 comma 8 straight capital omega"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"lambda equals 0 comma 75 m."},"status":"ok"}

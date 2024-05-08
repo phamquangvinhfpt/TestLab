@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 20px style italic 1 £ union greater or equal than element of less or equal than less or equal than subset of end style"},"status":"ok"}

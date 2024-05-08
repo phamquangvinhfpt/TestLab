@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 1 equals T over 4 plus T over 12 equals T over 3 s rightwards double arrow t subscript 2 equals T over 3 plus T over 4 equals fraction numerator 7 T over denominator 12 end fraction s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta f equals straight capital delta k fraction numerator v over denominator 2 ell end fraction not stretchy rightwards double arrow 20 equals 7. fraction numerator v over denominator 2.1 end fraction not stretchy rightwards double arrow v equals 40 over 7 left parenthesis m divided by s right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"A squared equals x squared plus open parentheses v over omega close parentheses squared comma space space v ớ i space space omega equals square root of k over m end root"},"status":"ok"}

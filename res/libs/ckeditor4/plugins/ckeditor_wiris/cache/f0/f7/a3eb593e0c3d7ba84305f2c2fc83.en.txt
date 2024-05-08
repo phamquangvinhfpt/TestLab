@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator U subscript 0 end subscript superscript blank to the power of prime end superscript over denominator U subscript 0 end subscript end fraction equals fraction numerator square root of 11 over denominator 5 end fraction not stretchy rightwards double arrow"},"status":"ok"}

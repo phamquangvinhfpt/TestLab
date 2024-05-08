@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals fraction numerator pi over denominator 0 comma 6 end fraction space of 0.278em r a d divided by s"},"status":"ok"}

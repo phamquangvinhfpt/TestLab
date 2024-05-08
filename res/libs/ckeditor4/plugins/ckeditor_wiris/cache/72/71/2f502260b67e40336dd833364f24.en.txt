@@ -1,0 +1,1 @@
+{"result":{"text":"alpha subscript 0 end subscript equals fraction numerator s subscript 0 end subscript over denominator l end fraction equals fraction numerator left parenthesis 4 right parenthesis over denominator left parenthesis 25 right parenthesis end fraction equals 0 comma 16"},"status":"ok"}

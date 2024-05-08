@@ -1,0 +1,1 @@
+{"result":{"text":"T equals 2 pi divided by omega equals 2 pi divided by left parenthesis 200 pi right parenthesis equals 0 comma 01 not stretchy left parenthesis s not stretchy right parenthesis"},"status":"ok"}

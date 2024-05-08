@@ -1,0 +1,1 @@
+{"result":{"text":"omega equals 2 pi square root of blank end root l over g"},"status":"ok"}

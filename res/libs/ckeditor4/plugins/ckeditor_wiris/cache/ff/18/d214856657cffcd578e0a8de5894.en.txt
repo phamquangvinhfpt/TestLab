@@ -1,0 +1,1 @@
+{"result":{"text":"x equals 2 comma 25 n left parenthesis m m right parenthesis stack blank with rightwards arrow below and negative 5 less or equal than x less or equal than 5 blank on top minus 2 comma 2 less or equal than n less or equal than 2 comma 2 not stretchy rightwards double arrow n equals 0 semicolon plus-or-minus 1 semicolon plus-or-minus 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight i equals 2 straight c straight o straight s left parenthesis 100 pi straight t minus pi over 2 right parenthesis left parenthesis A right parenthesis"},"status":"ok"}

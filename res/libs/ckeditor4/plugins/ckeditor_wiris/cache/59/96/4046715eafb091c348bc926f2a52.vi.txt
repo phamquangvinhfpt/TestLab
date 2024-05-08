@@ -1,0 +1,1 @@
+{"result":{"text":"phi equals pi over 2"},"status":"ok"}

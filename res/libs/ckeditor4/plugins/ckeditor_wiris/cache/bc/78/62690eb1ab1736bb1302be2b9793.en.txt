@@ -1,0 +1,1 @@
+{"result":{"text":"d equals lambda divided by 3 equals 7 c m not stretchy rightwards double arrow lambda equals 21 c m"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 over m not stretchy left parenthesis fraction numerator h c over denominator lambda end fraction minus A not stretchy right parenthesis end root"},"status":"ok"}

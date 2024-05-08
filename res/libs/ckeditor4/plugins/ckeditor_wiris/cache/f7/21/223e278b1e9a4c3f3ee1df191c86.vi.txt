@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript A equals 6 comma 023.10 to the power of 23 m o l to the power of negative 1 end exponent"},"status":"ok"}

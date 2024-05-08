@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator n to the power of prime over denominator n end fraction equals fraction numerator W to the power of prime lambda to the power of prime over denominator W lambda end fraction equals fraction numerator 0 comma 01 W lambda to the power of prime over denominator W lambda end fraction"},"status":"ok"}

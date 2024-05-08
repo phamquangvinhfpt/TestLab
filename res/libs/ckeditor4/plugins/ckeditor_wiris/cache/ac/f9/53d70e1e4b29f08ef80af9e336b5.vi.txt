@@ -1,0 +1,1 @@
+{"result":{"text":"alpha subscript 2 equals fraction numerator 2 pi over denominator 3 end fraction"},"status":"ok"}

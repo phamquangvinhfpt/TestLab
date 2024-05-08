@@ -1,0 +1,1 @@
+{"result":{"text":"alpha plus subscript 7 end subscript superscript 14 end superscript N stack blank with rightwards arrow below and blank on top subscript 8 end subscript superscript 17 end superscript O plus p"},"status":"ok"}

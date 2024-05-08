@@ -1,0 +1,1 @@
+{"result":{"text":"L equals 10 L g left parenthesis fraction numerator I over denominator I subscript 0 end fraction right parenthesis"},"status":"ok"}

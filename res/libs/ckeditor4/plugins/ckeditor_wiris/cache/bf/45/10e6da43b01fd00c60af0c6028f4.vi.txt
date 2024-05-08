@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses u over U subscript 0 close parentheses squared plus open parentheses i over I subscript 0 close parentheses squared equals 1"},"status":"ok"}

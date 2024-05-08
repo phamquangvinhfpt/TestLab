@@ -1,0 +1,1 @@
+{"result":{"text":"q equals 9 space cos omega t"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x space of 0.167em equals space of 0.167em plus-or-minus k i space of 0.167em equals space of 0.167em plus-or-minus 3 comma 6 space of 0.167em m m"},"status":"ok"}

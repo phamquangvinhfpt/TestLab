@@ -1,0 +1,1 @@
+{"result":{"text":"t subscript 2 minus t subscript 1 equals 2 comma 75 equals left parenthesis 2.5 plus 1 right parenthesis T over 4 equals left parenthesis 2 n plus 1 right parenthesis T over 4 not stretchy rightwards double arrow n equals 5"},"status":"ok"}

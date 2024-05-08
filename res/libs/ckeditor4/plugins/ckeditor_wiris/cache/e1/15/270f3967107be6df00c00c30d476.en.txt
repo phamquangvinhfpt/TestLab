@@ -1,0 +1,1 @@
+{"result":{"text":"H equals U over xi equals fraction numerator xi minus I r over denominator xi end fraction equals fraction numerator 9 minus 0 comma 5.2 over denominator 9 end fraction equals 89"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta d subscript c. d a i end subscript equals n lambda"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals fraction numerator 13 over denominator 6 end fraction"},"status":"ok"}

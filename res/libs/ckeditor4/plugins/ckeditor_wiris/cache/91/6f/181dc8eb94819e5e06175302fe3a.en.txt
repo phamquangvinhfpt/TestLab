@@ -1,0 +1,1 @@
+{"result":{"text":"2.10 to the power of negative 6 end exponent C comma"},"status":"ok"}

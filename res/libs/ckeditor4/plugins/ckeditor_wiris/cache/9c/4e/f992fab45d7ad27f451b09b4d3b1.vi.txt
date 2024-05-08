@@ -1,0 +1,1 @@
+{"result":{"text":"Z subscript C equals fraction numerator 1 over denominator omega C end fraction equals U subscript 1 over I subscript 1 equals fraction numerator 75 square root of 2 over denominator 3 end fraction equals 25 square root of 2"},"status":"ok"}

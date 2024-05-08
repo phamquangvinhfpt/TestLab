@@ -1,0 +1,1 @@
+{"result":{"text":"z subscript C superscript divided by end superscript equals z subscript L equals omega. L equals 50 straight capital omega"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"8.10 to the power of 24 space end exponent bevelled C over m cubed"},"status":"ok"}

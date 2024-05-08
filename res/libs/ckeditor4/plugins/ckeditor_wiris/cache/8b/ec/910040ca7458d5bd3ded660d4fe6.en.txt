@@ -1,0 +1,1 @@
+{"result":{"text":"e equals 1 comma 5 square root of 2 cos invisible function application left parenthesis 100 pi t minus pi over 2 right parenthesis left parenthesis V right parenthesis"},"status":"ok"}

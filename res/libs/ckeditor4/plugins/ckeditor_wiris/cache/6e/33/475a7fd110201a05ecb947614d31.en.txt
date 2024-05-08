@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 1 end subscript minus d subscript 2 end subscript equals left parenthesis n plus 0 comma 5 right parenthesis lambda"},"status":"ok"}

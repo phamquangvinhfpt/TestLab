@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta x space of 0.167em equals space of 0.167em x subscript t 5 end subscript space of 0.167em minus space of 0.167em x subscript t 3 end subscript space of 0.167em equals space of 0.167em 6 comma 3 space of 0.167em m m"},"status":"ok"}

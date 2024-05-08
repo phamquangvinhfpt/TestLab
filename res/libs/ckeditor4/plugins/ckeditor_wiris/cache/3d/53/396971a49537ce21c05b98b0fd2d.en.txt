@@ -1,0 +1,1 @@
+{"result":{"text":"B subscript max end subscript equals 4.10 to the power of negative 7 end exponent I over a"},"status":"ok"}

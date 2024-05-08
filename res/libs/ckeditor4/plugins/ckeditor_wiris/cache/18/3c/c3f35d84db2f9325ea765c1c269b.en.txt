@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript R end subscript equals 120 cos invisible function application 100 pi t"},"status":"ok"}

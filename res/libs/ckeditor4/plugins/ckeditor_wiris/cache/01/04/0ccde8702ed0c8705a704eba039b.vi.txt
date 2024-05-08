@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon equals h f equals fraction numerator h c over denominator lambda end fraction equals 12 comma 1 space e V"},"status":"ok"}

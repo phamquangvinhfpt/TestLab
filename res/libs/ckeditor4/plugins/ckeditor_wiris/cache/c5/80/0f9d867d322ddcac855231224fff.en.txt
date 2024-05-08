@@ -1,0 +1,1 @@
+{"result":{"text":"P subscript m end subscript equals I subscript b end subscript superscript 2 end superscript R subscript b end subscript equals 4 I subscript 1 end subscript superscript 2 end superscript.1 comma 5 R equals 6 P subscript 1 end subscript equals 18 W"},"status":"ok"}

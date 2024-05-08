@@ -1,0 +1,1 @@
+{"result":{"text":"K subscript X equals fraction numerator m subscript alpha over denominator m subscript alpha plus m subscript X end fraction straight capital delta E almost equal to 1 comma 96.10 to the power of negative 14 end exponent left parenthesis J right parenthesis not stretchy rightwards double arrow"},"status":"ok"}

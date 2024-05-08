@@ -1,0 +1,1 @@
+{"result":{"text":"F equals negative k x"},"status":"ok"}

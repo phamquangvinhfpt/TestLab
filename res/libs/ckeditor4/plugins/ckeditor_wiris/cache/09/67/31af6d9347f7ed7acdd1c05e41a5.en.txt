@@ -1,0 +1,1 @@
+{"result":{"text":"1 half m v squared equals 1 half m v subscript 0 superscript 2 plus divided by e U subscript A B end subscript divided by"},"status":"ok"}

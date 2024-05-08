@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 1 end subscript equals A sin invisible function application omega t subscript 1 end subscript equals 5 sin invisible function application fraction numerator 2 pi over denominator T end fraction. T over 12 equals 2 comma 5 left parenthesis c m right parenthesis"},"status":"ok"}

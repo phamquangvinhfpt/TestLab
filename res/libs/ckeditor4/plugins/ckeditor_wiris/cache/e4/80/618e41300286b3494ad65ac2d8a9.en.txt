@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript 2 equals A subscript 2 c o s not stretchy left parenthesis 2 pi t minus pi divided by 2 not stretchy right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"4 pi to the power of 2 end exponent f to the power of 2 end exponent L C equals 1"},"status":"ok"}

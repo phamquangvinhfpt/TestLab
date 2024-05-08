@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta E equals 17 comma 6 equals 4. epsilon subscript H e end subscript space minus 2. epsilon subscript D space minus 3. epsilon subscript T space rightwards double arrow epsilon subscript T equals ?\nV ớ i space epsilon subscript D equals fraction numerator capital delta m. c squared over denominator A end fraction equals ?"},"status":"ok"}

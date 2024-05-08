@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals A cos invisible function application left parenthesis omega straight t plus phi right parenthesis"},"status":"ok"}

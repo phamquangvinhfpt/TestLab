@@ -1,0 +1,1 @@
+{"result":{"text":"v equals 3 pi cos invisible function application 3 pi t"},"status":"ok"}

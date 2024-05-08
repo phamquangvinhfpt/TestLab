@@ -1,0 +1,1 @@
+{"result":{"text":"3 lambda subscript 2 equals open parentheses k plus 1 half close parentheses lambda subscript 1 rightwards double arrow lambda subscript 1 equals\n0 comma 58 less or equal than lambda subscript 1 less or equal than 0 comma 76 rightwards double arrow k equals ?\nrightwards double arrow lambda subscript 1"},"status":"ok"}

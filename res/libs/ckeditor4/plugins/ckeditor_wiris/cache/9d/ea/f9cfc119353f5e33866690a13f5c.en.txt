@@ -1,0 +1,1 @@
+{"result":{"text":"e equals 60 cos invisible function application left parenthesis 30 pi t plus pi over 3 right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript max end subscript space of 0.167em equals space of 0.167em omega. A space of 0.167em equals space of 0.167em 10 square root of 5.6 space of 0.167em equals space of 0.167em 60 square root of 5 space of 0.167em left parenthesis fraction numerator c m over denominator s end fraction right parenthesis"},"status":"ok"}

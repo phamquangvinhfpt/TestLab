@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital delta f subscript min end subscript equals fraction numerator f over denominator 2 k end fraction"},"status":"ok"}
